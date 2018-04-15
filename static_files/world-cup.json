@@ -1031,12 +1031,12 @@
 		},
 		{
 			"nome": "3º Jogo da fase de grupos",
-			"mandante": "BRA",
-			"img_mandante": "assets/imgs/brazil.png",
-			"visitante": "COS",
-			"img_visitante": "assets/imgs/costa_rica.png",
-			"data": "SEX 22/06/2018 09:00",
-			"estadio": "São Petesburgo"
+			"mandante": "SER",
+			"img_mandante": "assets/imgs/serbia.png",
+			"visitante": "BRA",
+			"img_visitante": "assets/imgs/brazil.png",
+			"data": "QUA 27/06/2018 15:00",
+			"estadio": "Spartak"
 		}
 	]
 }
