@@ -1009,5 +1009,34 @@
 		"data": "DOM 15/07/2018 12:00",
 		"estadio": "Olímpico Lujniki"
 	  }
-	}
+	},
+	"brasil": [
+		{
+			"nome": "1º Jogo da fase de grupos",
+			"mandante": "BRA",
+			"img_mandante": "assets/imgs/brazil.png",
+			"visitante": "SUI",
+			"img_visitante": "assets/imgs/switzerland.png",
+			"data": "DOM 17/06/2018 15:00",
+			"estadio": "Rostov"
+		},
+		{
+			"nome": "2º Jogo da fase de grupos",
+			"mandante": "BRA",
+			"img_mandante": "assets/imgs/brazil.png",
+			"visitante": "COS",
+			"img_visitante": "assets/imgs/costa_rica.png",
+			"data": "SEX 22/06/2018 09:00",
+			"estadio": "São Petesburgo"
+		},
+		{
+			"nome": "3º Jogo da fase de grupos",
+			"mandante": "BRA",
+			"img_mandante": "assets/imgs/brazil.png",
+			"visitante": "COS",
+			"img_visitante": "assets/imgs/costa_rica.png",
+			"data": "SEX 22/06/2018 09:00",
+			"estadio": "São Petesburgo"
+		}
+	]
 }
