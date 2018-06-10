@@ -411,8 +411,10 @@
 			{
 			  "mandante": "EGI",
 			  "img_mandante": "assets/imgs/egypt.png",
+			  "gols_mandante": "",
 			  "visitante": "URU",
 			  "img_visitante": "assets/imgs/uruguay.png",
+			  "gols_visitante": "",
 			  "data": "SEX 15/06/2018 09:00",
 			  "estadio": "Ecaterimburgo"
 			}
@@ -421,16 +423,20 @@
 			{
 			  "mandante": "RUS",
 			  "img_mandante": "assets/imgs/russia.png",
+			  "gols_mandante": "",
 			  "visitante": "EGI",
 			  "img_visitante": "assets/imgs/egypt.png",
+			  "gols_visitante": "",
 			  "data": "TER 19/06/2018 15:00",
 			  "estadio": "São Petesburgo"
 			},
 			{
 			  "mandante": "URU",
 			  "img_mandante": "assets/imgs/uruguay.png",
+			  "gols_mandante": "",
 			  "visitante": "ARA",
 			  "img_visitante": "assets/imgs/saudi_arabia.png",
+			  "gols_visitante": "",
 			  "data": "QUA 20/06/2018 12:00",
 			  "estadio": "Rostov"
 			}
@@ -439,16 +445,20 @@
 			{
 			  "mandante": "URU",
 			  "img_mandante": "assets/imgs/uruguay.png",
+			  "gols_mandante": "",
 			  "visitante": "RUS",
 			  "img_visitante": "assets/imgs/russia.png",
+			  "gols_visitante": "",
 			  "data": "SEG 25/06/2018 11:00",
 			  "estadio": "Samara"
 			},
 			{
 			  "mandante": "ARA",
 			  "img_mandante": "assets/imgs/saudi_arabia.png",
+			  "gols_mandante": "",
 			  "visitante": "EGI",
 			  "img_visitante": "assets/imgs/egypt.png",
+			  "gols_visitante": "",
 			  "data": "SEG 25/06/2018 11:00",
 			  "estadio": "Volgogrado"
 			}
@@ -461,16 +471,20 @@
 			{
 			  "mandante": "MAR",
 			  "img_mandante": "assets/imgs/morocco.png",
+			  "gols_mandante": "",
 			  "visitante": "IRA",
 			  "img_visitante": "assets/imgs/iran.png",
+			  "gols_visitante": "",
 			  "data": "SEX 15/06/2018 12:00",
 			  "estadio": "São Petesburgo"
 			},
 			{
 			  "mandante": "POR",
 			  "img_mandante": "assets/imgs/portugal.png",
+			  "gols_mandante": "",
 			  "visitante": "ESP",
 			  "img_visitante": "assets/imgs/spain.png",
+			  "gols_visitante": "",
 			  "data": "SEX 15/06/2018 15:00",
 			  "estadio": "Olímpico de Sochi"
 			}
@@ -479,16 +493,20 @@
 			{
 			  "mandante": "POR",
 			  "img_mandante": "assets/imgs/portugal.png",
+			  "gols_mandante": "",
 			  "visitante": "MAR",
 			  "img_visitante": "assets/imgs/morocco.png",
+			  "gols_visitante": "",
 			  "data": "QUA 20/06/2018 09:00",
 			  "estadio": "Olímpico Lujniki"
 			},
 			{
 			  "mandante": "IRA",
 			  "img_mandante": "assets/imgs/iran.png",
+			  "gols_mandante": "",
 			  "visitante": "ESP",
 			  "img_visitante": "assets/imgs/spain.png",
+			  "gols_visitante": "",
 			  "data": "QUA 20/06/2018 15:00",
 			  "estadio": "Arena Kazan"
 			}
@@ -497,16 +515,20 @@
 			{
 			  "mandante": "IRA",
 			  "img_mandante": "assets/imgs/iran.png",
+			  "gols_mandante": "",
 			  "visitante": "POR",
 			  "img_visitante": "assets/imgs/portugal.png",
+			  "gols_visitante": "",
 			  "data": "SEG 25/06/2018 15:00",
 			  "estadio": "Saransk"
 			},
 			{
 			  "mandante": "ESP",
 			  "img_mandante": "assets/imgs/spain.png",
+			  "gols_mandante": "",
 			  "visitante": "MAR",
 			  "img_visitante": "assets/imgs/morocco.png",
+			  "gols_visitante": "",
 			  "data": "SEG 25/06/2018 15:00",
 			  "estadio": "Kaliningrado"
 			}
@@ -519,16 +541,20 @@
 			{
 			  "mandante": "FRA",
 			  "img_mandante": "assets/imgs/france.png",
+			  "gols_mandante": "",
 			  "visitante": "AUS",
 			  "img_visitante": "assets/imgs/australia.png",
+			  "gols_visitante": "",
 			  "data": "SAB 16/06/2018 07:00",
 			  "estadio": "Arena Kazan"
 			},
 			{
 			  "mandante": "PER",
 			  "img_mandante": "assets/imgs/peru.png",
+			  "gols_mandante": "",
 			  "visitante": "DIN",
 			  "img_visitante": "assets/imgs/denmark.png",
+			  "gols_visitante": "",
 			  "data": "SAB 16/06/2018 13:00",
 			  "estadio": "Saransk"
 			}
@@ -537,16 +563,20 @@
 			{
 			  "mandante": "DIN",
 			  "img_mandante": "assets/imgs/denmark.png",
+			  "gols_mandante": "",
 			  "visitante": "AUS",
 			  "img_visitante": "assets/imgs/australia.png",
+			  "gols_visitante": "",
 			  "data": "QUI 21/06/2018 09:00",
 			  "estadio": "Samara"
 			},
 			{
 			  "mandante": "FRA",
 			  "img_mandante": "assets/imgs/france.png",
+			  "gols_mandante": "",
 			  "visitante": "PER",
 			  "img_visitante": "assets/imgs/peru.png",
+			  "gols_visitante": "",
 			  "data": "QUI 21/06/2018 12:00",
 			  "estadio": "Ecaterimburgo"
 			}
@@ -555,16 +585,20 @@
 			{
 			  "mandante": "DIN",
 			  "img_mandante": "assets/imgs/denmark.png",
+			  "gols_mandante": "",
 			  "visitante": "FRA",
 			  "img_visitante": "assets/imgs/france.png",
+			  "gols_visitante": "",
 			  "data": "TER 26/06/2018 11:00",
 			  "estadio": "Olímpico Lujniki"
 			},
 			{
 			  "mandante": "AUS",
 			  "img_mandante": "assets/imgs/australia.png",
+			  "gols_mandante": "",
 			  "visitante": "PER",
 			  "img_visitante": "assets/imgs/peru.png",
+			  "gols_visitante": "",
 			  "data": "TER 26/06/2018 11:00",
 			  "estadio": "Olímpico de Sochi"
 			}
@@ -577,16 +611,20 @@
 			{
 			  "mandante": "ARG",
 			  "img_mandante": "assets/imgs/argentina.png",
+			  "gols_mandante": "",
 			  "visitante": "ISL",
 			  "img_visitante": "assets/imgs/iceland.png",
+			  "gols_visitante": "",
 			  "data": "SAB 16/06/2018 10:00",
 			  "estadio": "Spartak"
 			},
 			{
 			  "mandante": "CRO",
 			  "img_mandante": "assets/imgs/croatia.png",
+			  "gols_mandante": "",
 			  "visitante": "NIG",
 			  "img_visitante": "assets/imgs/nigeria.png",
+			  "gols_visitante": "",
 			  "data": "SAB 16/06/2018 16:00",
 			  "estadio": "Kaliningrado"
 			}
@@ -595,16 +633,20 @@
 			{
 			  "mandante": "ARG",
 			  "img_mandante": "assets/imgs/argentina.png",
+			  "gols_mandante": "",
 			  "visitante": "CRO",
 			  "img_visitante": "assets/imgs/croatia.png",
+			  "gols_visitante": "",
 			  "data": "QUI 21/06/2018 15:00",
 			  "estadio": "Nizhny Novgorod"
 			},
 			{
 			  "mandante": "NIG",
 			  "img_mandante": "assets/imgs/nigeria.png",
+			  "gols_mandante": "",
 			  "visitante": "ISL",
 			  "img_visitante": "assets/imgs/iceland.png",
+			  "gols_visitante": "",
 			  "data": "SEX 22/06/2018 12:00",
 			  "estadio": "Volgogrado"
 			}
@@ -613,16 +655,20 @@
 			{
 			  "mandante": "NIG",
 			  "img_mandante": "assets/imgs/nigeria.png",
+			  "gols_mandante": "",
 			  "visitante": "ARG",
 			  "img_visitante": "assets/imgs/argentina.png",
+			  "gols_visitante": "",
 			  "data": "TER 26/06/2018 15:00",
 			  "estadio": "São Petesburgo"
 			},
 			{
 			  "mandante": "ISL",
 			  "img_mandante": "assets/imgs/iceland.png",
+			  "gols_mandante": "",
 			  "visitante": "CRO",
 			  "img_visitante": "assets/imgs/croatia.png",
+			  "gols_visitante": "",
 			  "data": "TER 26/06/2018 15:00",
 			  "estadio": "Rostov"
 			}
@@ -635,16 +681,20 @@
 			{
 			  "mandante": "COS",
 			  "img_mandante": "assets/imgs/costa_rica.png",
+			  "gols_mandante": "",
 			  "visitante": "SER",
 			  "img_visitante": "assets/imgs/serbia.png",
+			  "gols_visitante": "",
 			  "data": "DOM 17/06/2018 09:00",
 			  "estadio": "Samara"
 			},
 			{
 			  "mandante": "BRA",
 			  "img_mandante": "assets/imgs/brazil.png",
+			  "gols_mandante": "",
 			  "visitante": "SUI",
 			  "img_visitante": "assets/imgs/switzerland.png",
+			  "gols_visitante": "",
 			  "data": "DOM 17/06/2018 15:00",
 			  "estadio": "Rostov"
 			}
@@ -653,16 +703,20 @@
 			{
 			  "mandante": "BRA",
 			  "img_mandante": "assets/imgs/brazil.png",
+			  "gols_mandante": "",
 			  "visitante": "COS",
 			  "img_visitante": "assets/imgs/costa_rica.png",
+			  "gols_visitante": "",
 			  "data": "SEX 22/06/2018 09:00",
 			  "estadio": "São Petesburgo"
 			},
 			{
 			  "mandante": "SER",
 			  "img_mandante": "assets/imgs/serbia.png",
+			  "gols_mandante": "",
 			  "visitante": "SUI",
 			  "img_visitante": "assets/imgs/switzerland.png",
+			  "gols_visitante": "",
 			  "data": "SEX 22/06/2018 15:00",
 			  "estadio": "Kaliningrado"
 			}
@@ -671,16 +725,20 @@
 			{
 			  "mandante": "SER",
 			  "img_mandante": "assets/imgs/serbia.png",
+			  "gols_mandante": "",
 			  "visitante": "BRA",
 			  "img_visitante": "assets/imgs/brazil.png",
+			  "gols_visitante": "",
 			  "data": "QUA 27/06/2018 15:00",
 			  "estadio": "Spartak"
 			},
 			{
 			  "mandante": "SUI",
 			  "img_mandante": "assets/imgs/switzerland.png",
+			  "gols_mandante": "",
 			  "visitante": "COS",
 			  "img_visitante": "assets/imgs/costa_rica.png",
+			  "gols_visitante": "",
 			  "data": "QUA 27/06/2018 15:00",
 			  "estadio": "Nizhny Novgorod"
 			}
@@ -693,16 +751,20 @@
 			{
 			  "mandante": "ALE",
 			  "img_mandante": "assets/imgs/germany.png",
+			  "gols_mandante": "",
 			  "visitante": "MEX",
 			  "img_visitante": "assets/imgs/mexico.png",
+			  "gols_visitante": "",
 			  "data": "DOM 17/06/2018 12:00",
 			  "estadio": "Olímpico Lujniki"
 			},
 			{
 			  "mandante": "SUE",
 			  "img_mandante": "assets/imgs/sweden.png",
+			  "gols_mandante": "",
 			  "visitante": "COR",
 			  "img_visitante": "assets/imgs/south_korea.png",
+			  "gols_visitante": "",
 			  "data": "SEG 18/06/2018 09:00",
 			  "estadio": "Nizhny Novgorod"
 			}
@@ -711,16 +773,20 @@
 			{
 			  "mandante": "COR",
 			  "img_mandante": "assets/imgs/south_korea.png",
+			  "gols_mandante": "",
 			  "visitante": "MEX",
 			  "img_visitante": "assets/imgs/mexico.png",
+			  "gols_visitante": "",
 			  "data": "SAB 23/06/2018 12:00",
 			  "estadio": "Rostov"
 			},
 			{
 			  "mandante": "ALE",
 			  "img_mandante": "assets/imgs/germany.png",
+			  "gols_mandante": "",
 			  "visitante": "SUE",
 			  "img_visitante": "assets/imgs/sweden.png",
+			  "gols_visitante": "",
 			  "data": "SAB 23/06/2018 15:00",
 			  "estadio": "Olímpico de Sochi"
 			}
@@ -729,16 +795,20 @@
 			{
 			  "mandante": "COR",
 			  "img_mandante": "assets/imgs/south_korea.png",
+			  "gols_mandante": "",
 			  "visitante": "ALE",
 			  "img_visitante": "assets/imgs/germany.png",
+			  "gols_visitante": "",
 			  "data": "QUA 27/06/2018 11:00",
 			  "estadio": "Arena Kazan"
 			},
 			{
 			  "mandante": "MEX",
 			  "img_mandante": "assets/imgs/mexico.png",
+			  "gols_mandante": "",
 			  "visitante": "SUE",
 			  "img_visitante": "assets/imgs/sweden.png",
+			  "gols_visitante": "",
 			  "data": "QUA 27/06/2018 11:00",
 			  "estadio": "Ecaterimburgo"
 			}
@@ -751,16 +821,20 @@
 			{
 			  "mandante": "BEL",
 			  "img_mandante": "assets/imgs/belgium.png",
+			  "gols_mandante": "",
 			  "visitante": "PAN",
 			  "img_visitante": "assets/imgs/panama.png",
+			  "gols_visitante": "",
 			  "data": "SEG 18/06/2018 12:00",
 			  "estadio": "Olímpico de Sochi"
 			},
 			{
 			  "mandante": "TUN",
 			  "img_mandante": "assets/imgs/tunisia.png",
+			  "gols_mandante": "",
 			  "visitante": "ING",
 			  "img_visitante": "assets/imgs/england.png",
+			  "gols_visitante": "",
 			  "data": "SEG 18/06/2018 15:00",
 			  "estadio": "Volgogrado"
 			}
@@ -769,16 +843,20 @@
 			{
 			  "mandante": "BEL",
 			  "img_mandante": "assets/imgs/belgium.png",
+			  "gols_mandante": "",
 			  "visitante": "TUN",
 			  "img_visitante": "assets/imgs/tunisia.png",
+			  "gols_visitante": "",
 			  "data": "SAB 23/06/2018 09:00",
 			  "estadio": "Spartak"
 			},
 			{
 			  "mandante": "ING",
 			  "img_mandante": "assets/imgs/england.png",
+			  "gols_mandante": "",
 			  "visitante": "PAN",
 			  "img_visitante": "assets/imgs/panama.png",
+			  "gols_visitante": "",
 			  "data": "DOM 24/06/2018 09:00",
 			  "estadio": "Nizhny Novgorod"
 			}
@@ -787,16 +865,20 @@
 			{
 			  "mandante": "ING",
 			  "img_mandante": "assets/imgs/england.png",
+			  "gols_mandante": "",
 			  "visitante": "BEL",
 			  "img_visitante": "assets/imgs/belgium.png",
+			  "gols_visitante": "",
 			  "data": "QUI 28/06/2018 15:00",
 			  "estadio": "Kaliningrado"
 			},
 			{
 			  "mandante": "PAN",
 			  "img_mandante": "assets/imgs/panama.png",
+			  "gols_mandante": "",
 			  "visitante": "TUN",
 			  "img_visitante": "assets/imgs/tunisia.png",
+			  "gols_visitante": "",
 			  "data": "QUI 28/06/2018 15:00",
 			  "estadio": "Saransk"
 			}
@@ -809,16 +891,20 @@
 			{
 			  "mandante": "COL",
 			  "img_mandante": "assets/imgs/colombia.png",
+			  "gols_mandante": "",
 			  "visitante": "JAP",
 			  "img_visitante": "assets/imgs/japan.png",
+			  "gols_visitante": "",
 			  "data": "TER 19/06/2018 09:00",
 			  "estadio": "Saransk"
 			},
 			{
 			  "mandante": "POL",
 			  "img_mandante": "assets/imgs/poland.png",
+			  "gols_mandante": "",
 			  "visitante": "SEN",
 			  "img_visitante": "assets/imgs/senegal.png",
+			  "gols_visitante": "",
 			  "data": "TER 19/06/2018 12:00",
 			  "estadio": "Spartak"
 			}
@@ -827,16 +913,20 @@
 			{
 			  "mandante": "JAP",
 			  "img_mandante": "assets/imgs/japan.png",
+			  "gols_mandante": "",
 			  "visitante": "SEN",
 			  "img_visitante": "assets/imgs/senegal.png",
+			  "gols_visitante": "",
 			  "data": "DOM 24/06/2018 12:00",
 			  "estadio": "Ecaterimburgo"
 			},
 			{
 			  "mandante": "POL",
 			  "img_mandante": "assets/imgs/poland.png",
+			  "gols_mandante": "",
 			  "visitante": "COL",
 			  "img_visitante": "assets/imgs/colombia.png",
+			  "gols_visitante": "",
 			  "data": "DOM 24/06/2018 15:00",
 			  "estadio": "Arena Kazan"
 			}
@@ -845,16 +935,20 @@
 			{
 			  "mandante": "JAP",
 			  "img_mandante": "assets/imgs/japan.png",
+			  "gols_mandante": "",
 			  "visitante": "POL",
 			  "img_visitante": "assets/imgs/poland.png",
+			  "gols_visitante": "",
 			  "data": "QUI 28/06/2018 11:00",
 			  "estadio": "Volgogrado"
 			},
 			{
 			  "mandante": "SEN",
 			  "img_mandante": "assets/imgs/senegal.png",
+			  "gols_mandante": "",
 			  "visitante": "COL",
 			  "img_visitante": "assets/imgs/colombia.png",
+			  "gols_visitante": "",
 			  "data": "QUI 28/06/2018 11:00",
 			  "estadio": "Samara"
 			}
