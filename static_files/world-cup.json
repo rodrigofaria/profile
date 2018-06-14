@@ -44,8 +44,8 @@
 			"empates": 0,
 			"derrotas": 1,
 			"gols_pro": 0,
-			"gols_contra": 1,
-			"saldo_gols": -1
+			"gols_contra": 2,
+			"saldo_gols": -2
 		  }
 		]
 	  },
