@@ -10,9 +10,9 @@
 			"vitorias": 1,
 			"empates": 0,
 			"derrotas": 0,
-			"gols_pro": 2,
+			"gols_pro": 3,
 			"gols_contra": 0,
-			"saldo_gols": 2
+			"saldo_gols": 3
 		  },
 		  {
 			"nome": "Egito",
@@ -44,8 +44,8 @@
 			"empates": 0,
 			"derrotas": 1,
 			"gols_pro": 0,
-			"gols_contra": 2,
-			"saldo_gols": -2
+			"gols_contra": 3,
+			"saldo_gols": -3
 		  }
 		]
 	  },
@@ -401,7 +401,7 @@
 			{
 			  "mandante": "RUS",
 			  "img_mandante": "assets/imgs/russia.png",
-			  "gols_mandante": "2",
+			  "gols_mandante": "3",
 			  "visitante": "ARA",
 			  "img_visitante": "assets/imgs/saudi_arabia.png",
 			  "gols_visitante": "0",
