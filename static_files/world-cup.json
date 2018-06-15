@@ -65,26 +65,26 @@
 			"saldo_gols": 1
 		  },
 		  {
-			"nome": "Portugal",
-			"pontos": 1,
+			"nome": "Espanha",
+			"pontos": 3,
 			"jogos": 1,
-			"vitorias": 0,
-			"empates": 1,
+			"vitorias": 1,
+			"empates": 0,
 			"derrotas": 0,
-			"gols_pro": 2,
+			"gols_pro": 3,
 			"gols_contra": 2,
-			"saldo_gols": 0
+			"saldo_gols": 1
 		  },
 		  {
-			"nome": "Espanha",
-			"pontos": 1,
+			"nome": "Portugal",
+			"pontos": 0,
 			"jogos": 1,
 			"vitorias": 0,
-			"empates": 1,
-			"derrotas": 0,
+			"empates": 0,
+			"derrotas": 1,
 			"gols_pro": 2,
-			"gols_contra": 2,
-			"saldo_gols": 0
+			"gols_contra": 3,
+			"saldo_gols": -1
 		  },
 		  {
 			"nome": "Marrocos",
@@ -485,7 +485,7 @@
 			  "gols_mandante": "2",
 			  "visitante": "ESP",
 			  "img_visitante": "assets/imgs/spain.png",
-			  "gols_visitante": "2",
+			  "gols_visitante": "3",
 			  "data": "SEX 15/06/2018 15:00",
 			  "estadio": "Olímpico de Sochi"
 			}
