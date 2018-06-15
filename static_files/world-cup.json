@@ -66,25 +66,25 @@
 		  },
 		  {
 			"nome": "Espanha",
-			"pontos": 3,
+			"pontos": 1,
 			"jogos": 1,
-			"vitorias": 1,
-			"empates": 0,
+			"vitorias": 0,
+			"empates": 1,
 			"derrotas": 0,
 			"gols_pro": 3,
-			"gols_contra": 2,
-			"saldo_gols": 1
+			"gols_contra": 3,
+			"saldo_gols": 0
 		  },
 		  {
 			"nome": "Portugal",
-			"pontos": 0,
+			"pontos": 1,
 			"jogos": 1,
 			"vitorias": 0,
-			"empates": 0,
-			"derrotas": 1,
-			"gols_pro": 2,
+			"empates": 1,
+			"derrotas": 0,
+			"gols_pro": 3,
 			"gols_contra": 3,
-			"saldo_gols": -1
+			"saldo_gols": 0
 		  },
 		  {
 			"nome": "Marrocos",
@@ -482,7 +482,7 @@
 			{
 			  "mandante": "POR",
 			  "img_mandante": "assets/imgs/portugal.png",
-			  "gols_mandante": "2",
+			  "gols_mandante": "3",
 			  "visitante": "ESP",
 			  "img_visitante": "assets/imgs/spain.png",
 			  "gols_visitante": "3",
