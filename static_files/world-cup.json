@@ -55,25 +55,25 @@
 		"times": [
 		  {
 			"nome": "Irã",
-			"pontos": 1,
+			"pontos": 3,
 			"jogos": 1,
-			"vitorias": 0,
-			"empates": 1,
+			"vitorias": 1,
+			"empates": 0,
 			"derrotas": 0,
-			"gols_pro": 0,
+			"gols_pro": 1,
 			"gols_contra": 0,
-			"saldo_gols": 0
+			"saldo_gols": 1
 		  },
 		  {
 			"nome": "Marrocos",
-			"pontos": 1,
+			"pontos": 0,
 			"jogos": 1,
 			"vitorias": 0,
-			"empates": 1,
-			"derrotas": 0,
+			"empates": 0,
+			"derrotas": 1,
 			"gols_pro": 0,
-			"gols_contra": 0,
-			"saldo_gols": 0
+			"gols_contra": 1,
+			"saldo_gols": -1
 		  },
 		  {
 			"nome": "Espanha",
@@ -475,7 +475,7 @@
 			  "gols_mandante": "0",
 			  "visitante": "IRA",
 			  "img_visitante": "assets/imgs/iran.png",
-			  "gols_visitante": "0",
+			  "gols_visitante": "1",
 			  "data": "SEX 15/06/2018 12:00",
 			  "estadio": "São Petesburgo"
 			},
