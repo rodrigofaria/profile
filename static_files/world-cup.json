@@ -66,10 +66,10 @@
 		  },
 		  {
 			"nome": "Espanha",
-			"pontos": 0,
-			"jogos": 0,
+			"pontos": 1,
+			"jogos": 1,
 			"vitorias": 0,
-			"empates": 0,
+			"empates": 1,
 			"derrotas": 0,
 			"gols_pro": 0,
 			"gols_contra": 0,
@@ -77,10 +77,10 @@
 		  },
 		  {
 			"nome": "Portugal",
-			"pontos": 0,
-			"jogos": 0,
+			"pontos": 1,
+			"jogos": 1,
 			"vitorias": 0,
-			"empates": 0,
+			"empates": 1,
 			"derrotas": 0,
 			"gols_pro": 0,
 			"gols_contra": 0,
@@ -482,10 +482,10 @@
 			{
 			  "mandante": "POR",
 			  "img_mandante": "assets/imgs/portugal.png",
-			  "gols_mandante": "",
+			  "gols_mandante": "0",
 			  "visitante": "ESP",
 			  "img_visitante": "assets/imgs/spain.png",
-			  "gols_visitante": "",
+			  "gols_visitante": "0",
 			  "data": "SEX 15/06/2018 15:00",
 			  "estadio": "Olímpico de Sochi"
 			}
