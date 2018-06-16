@@ -16,7 +16,7 @@
 		  },
 		  {
 			"nome": "Uruguai",
-			"pontos": 3,
+			"pontos": 30,
 			"jogos": 1,
 			"vitorias": 1,
 			"empates": 0,
@@ -415,7 +415,7 @@
 			  "gols_mandante": "10",
 			  "visitante": "URU",
 			  "img_visitante": "assets/imgs/uruguay.png",
-			  "gols_visitante": "1",
+			  "gols_visitante": "13",
 			  "data": "SEX 15/06/2018 09:00",
 			  "estadio": "Ecaterimburgo"
 			}
