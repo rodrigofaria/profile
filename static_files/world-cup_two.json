@@ -1,0 +1,1186 @@
+{
+	"grupos": [
+	  {
+		"grupo": "A",
+		"times": [
+		  {
+			"nome": "Rússia",
+			"pontos": 3,
+			"jogos": 1,
+			"vitorias": 1,
+			"empates": 0,
+			"derrotas": 0,
+			"gols_pro": 5,
+			"gols_contra": 0,
+			"saldo_gols": 5
+		  },
+		  {
+			"nome": "Uruguai",
+			"pontos": 3,
+			"jogos": 1,
+			"vitorias": 1,
+			"empates": 0,
+			"derrotas": 0,
+			"gols_pro": 1,
+			"gols_contra": 0,
+			"saldo_gols": 1
+		  },
+		  {
+			"nome": "Egito",
+			"pontos": 0,
+			"jogos": 1,
+			"vitorias": 0,
+			"empates": 0,
+			"derrotas": 1,
+			"gols_pro": 0,
+			"gols_contra": 1,
+			"saldo_gols": -1
+		  },
+
+		  {
+			"nome": "Arábia Saudita",
+			"pontos": 0,
+			"jogos": 1,
+			"vitorias": 0,
+			"empates": 0,
+			"derrotas": 1,
+			"gols_pro": 0,
+			"gols_contra": 5,
+			"saldo_gols": -5
+		  }
+		]
+	  },
+	  {
+		"grupo": "B",
+		"times": [
+		  {
+			"nome": "Irã",
+			"pontos": 3,
+			"jogos": 1,
+			"vitorias": 1,
+			"empates": 0,
+			"derrotas": 0,
+			"gols_pro": 1,
+			"gols_contra": 0,
+			"saldo_gols": 1
+		  },
+		  {
+			"nome": "Espanha",
+			"pontos": 1,
+			"jogos": 1,
+			"vitorias": 0,
+			"empates": 1,
+			"derrotas": 0,
+			"gols_pro": 3,
+			"gols_contra": 3,
+			"saldo_gols": 0
+		  },
+		  {
+			"nome": "Portugal",
+			"pontos": 1,
+			"jogos": 1,
+			"vitorias": 0,
+			"empates": 1,
+			"derrotas": 0,
+			"gols_pro": 3,
+			"gols_contra": 3,
+			"saldo_gols": 0
+		  },
+		  {
+			"nome": "Marrocos",
+			"pontos": 0,
+			"jogos": 1,
+			"vitorias": 0,
+			"empates": 0,
+			"derrotas": 1,
+			"gols_pro": 0,
+			"gols_contra": 1,
+			"saldo_gols": -1
+		  }
+		]
+	  },
+	  {
+		"grupo": "C",
+		"times": [
+		  {
+			"nome": "Austrália",
+			"pontos": 1,
+			"jogos": 1,
+			"vitorias": 0,
+			"empates": 1,
+			"derrotas": 0,
+			"gols_pro": 0,
+			"gols_contra": 0,
+			"saldo_gols": 0
+		  },
+		  {
+			"nome": "França",
+			"pontos": 1,
+			"jogos": 1,
+			"vitorias": 0,
+			"empates": 1,
+			"derrotas": 0,
+			"gols_pro": 0,
+			"gols_contra": 0,
+			"saldo_gols": 0
+		  },
+		  {
+			"nome": "Dinamarca",
+			"pontos": 0,
+			"jogos": 0,
+			"vitorias": 0,
+			"empates": 0,
+			"derrotas": 0,
+			"gols_pro": 0,
+			"gols_contra": 0,
+			"saldo_gols": 0
+		  },
+		  {
+			"nome": "Peru",
+			"pontos": 0,
+			"jogos": 0,
+			"vitorias": 0,
+			"empates": 0,
+			"derrotas": 0,
+			"gols_pro": 0,
+			"gols_contra": 0,
+			"saldo_gols": 0
+		  }
+		]
+	  },
+	  {
+		"grupo": "D",
+		"times": [
+		  {
+			"nome": "Argentina",
+			"pontos": 0,
+			"jogos": 0,
+			"vitorias": 0,
+			"empates": 0,
+			"derrotas": 0,
+			"gols_pro": 0,
+			"gols_contra": 0,
+			"saldo_gols": 0
+		  },
+		  {
+			"nome": "Croácia",
+			"pontos": 0,
+			"jogos": 0,
+			"vitorias": 0,
+			"empates": 0,
+			"derrotas": 0,
+			"gols_pro": 0,
+			"gols_contra": 0,
+			"saldo_gols": 0
+		  },
+		  {
+			"nome": "Islândia",
+			"pontos": 0,
+			"jogos": 0,
+			"vitorias": 0,
+			"empates": 0,
+			"derrotas": 0,
+			"gols_pro": 0,
+			"gols_contra": 0,
+			"saldo_gols": 0
+		  },
+		  {
+			"nome": "Nigéria",
+			"pontos": 0,
+			"jogos": 0,
+			"vitorias": 0,
+			"empates": 0,
+			"derrotas": 0,
+			"gols_pro": 0,
+			"gols_contra": 0,
+			"saldo_gols": 0
+		  }
+		]
+	  },
+	  {
+		"grupo": "E",
+		"times": [
+		  {
+			"nome": "Brasil",
+			"pontos": 0,
+			"jogos": 0,
+			"vitorias": 0,
+			"empates": 0,
+			"derrotas": 0,
+			"gols_pro": 0,
+			"gols_contra": 0,
+			"saldo_gols": 0
+		  },
+		  {
+			"nome": "Costa Rica",
+			"pontos": 0,
+			"jogos": 0,
+			"vitorias": 0,
+			"empates": 0,
+			"derrotas": 0,
+			"gols_pro": 0,
+			"gols_contra": 0,
+			"saldo_gols": 0
+		  },
+		  {
+			"nome": "Sérvia",
+			"pontos": 0,
+			"jogos": 0,
+			"vitorias": 0,
+			"empates": 0,
+			"derrotas": 0,
+			"gols_pro": 0,
+			"gols_contra": 0,
+			"saldo_gols": 0
+		  },
+		  {
+			"nome": "Suíça",
+			"pontos": 0,
+			"jogos": 0,
+			"vitorias": 0,
+			"empates": 0,
+			"derrotas": 0,
+			"gols_pro": 0,
+			"gols_contra": 0,
+			"saldo_gols": 0
+		  }
+		]
+	  },
+	  {
+		"grupo": "F",
+		"times": [
+		  {
+			"nome": "Alemanha",
+			"pontos": 0,
+			"jogos": 0,
+			"vitorias": 0,
+			"empates": 0,
+			"derrotas": 0,
+			"gols_pro": 0,
+			"gols_contra": 0,
+			"saldo_gols": 0
+		  },
+		  {
+			"nome": "Coreia do Sul",
+			"pontos": 0,
+			"jogos": 0,
+			"vitorias": 0,
+			"empates": 0,
+			"derrotas": 0,
+			"gols_pro": 0,
+			"gols_contra": 0,
+			"saldo_gols": 0
+		  },
+		  {
+			"nome": "México",
+			"pontos": 0,
+			"jogos": 0,
+			"vitorias": 0,
+			"empates": 0,
+			"derrotas": 0,
+			"gols_pro": 0,
+			"gols_contra": 0,
+			"saldo_gols": 0
+		  },
+		  {
+			"nome": "Suécia",
+			"pontos": 0,
+			"jogos": 0,
+			"vitorias": 0,
+			"empates": 0,
+			"derrotas": 0,
+			"gols_pro": 0,
+			"gols_contra": 0,
+			"saldo_gols": 0
+		  }
+		]
+	  },
+	  {
+		"grupo": "G",
+		"times": [
+		  {
+			"nome": "Bélgica",
+			"pontos": 0,
+			"jogos": 0,
+			"vitorias": 0,
+			"empates": 0,
+			"derrotas": 0,
+			"gols_pro": 0,
+			"gols_contra": 0,
+			"saldo_gols": 0
+		  },
+		  {
+			"nome": "Inglaterra",
+			"pontos": 0,
+			"jogos": 0,
+			"vitorias": 0,
+			"empates": 0,
+			"derrotas": 0,
+			"gols_pro": 0,
+			"gols_contra": 0,
+			"saldo_gols": 0
+		  },
+		  {
+			"nome": "Panamá",
+			"pontos": 0,
+			"jogos": 0,
+			"vitorias": 0,
+			"empates": 0,
+			"derrotas": 0,
+			"gols_pro": 0,
+			"gols_contra": 0,
+			"saldo_gols": 0
+		  },
+		  {
+			"nome": "Tunísia",
+			"pontos": 0,
+			"jogos": 0,
+			"vitorias": 0,
+			"empates": 0,
+			"derrotas": 0,
+			"gols_pro": 0,
+			"gols_contra": 0,
+			"saldo_gols": 0
+		  }
+		]
+	  },
+	  {
+		"grupo": "H",
+		"times": [
+		  {
+			"nome": "Colômbia",
+			"pontos": 0,
+			"jogos": 0,
+			"vitorias": 0,
+			"empates": 0,
+			"derrotas": 0,
+			"gols_pro": 0,
+			"gols_contra": 0,
+			"saldo_gols": 0
+		  },
+		  {
+			"nome": "Japão",
+			"pontos": 0,
+			"jogos": 0,
+			"vitorias": 0,
+			"empates": 0,
+			"derrotas": 0,
+			"gols_pro": 0,
+			"gols_contra": 0,
+			"saldo_gols": 0
+		  },
+		  {
+			"nome": "Polônia",
+			"pontos": 0,
+			"jogos": 0,
+			"vitorias": 0,
+			"empates": 0,
+			"derrotas": 0,
+			"gols_pro": 0,
+			"gols_contra": 0,
+			"saldo_gols": 0
+		  },
+		  {
+			"nome": "Senegal",
+			"pontos": 0,
+			"jogos": 0,
+			"vitorias": 0,
+			"empates": 0,
+			"derrotas": 0,
+			"gols_pro": 0,
+			"gols_contra": 0,
+			"saldo_gols": 0
+		  }
+		]
+	  }
+	],
+	"jogos": {
+	  "grupo": [
+		{
+		  "grupo": "A",
+		  "primeira_rodada": [
+			{
+			  "mandante": "RUS",
+			  "img_mandante": "assets/imgs/russia.png",
+			  "gols_mandante": "5",
+			  "visitante": "ARA",
+			  "img_visitante": "assets/imgs/saudi_arabia.png",
+			  "gols_visitante": "0",
+			  "data": "QUI 14/06/2018 12:00",
+			  "estadio": "Olímpico Lujniki"
+			},
+			{
+			  "mandante": "EGI",
+			  "img_mandante": "assets/imgs/egypt.png",
+			  "gols_mandante": "0",
+			  "visitante": "URU",
+			  "img_visitante": "assets/imgs/uruguay.png",
+			  "gols_visitante": "1",
+			  "data": "SEX 15/06/2018 09:00",
+			  "estadio": "Ecaterimburgo"
+			}
+		  ],
+		  "segunda_rodada": [
+			{
+			  "mandante": "RUS",
+			  "img_mandante": "assets/imgs/russia.png",
+			  "gols_mandante": "",
+			  "visitante": "EGI",
+			  "img_visitante": "assets/imgs/egypt.png",
+			  "gols_visitante": "",
+			  "data": "TER 19/06/2018 15:00",
+			  "estadio": "São Petesburgo"
+			},
+			{
+			  "mandante": "URU",
+			  "img_mandante": "assets/imgs/uruguay.png",
+			  "gols_mandante": "",
+			  "visitante": "ARA",
+			  "img_visitante": "assets/imgs/saudi_arabia.png",
+			  "gols_visitante": "",
+			  "data": "QUA 20/06/2018 12:00",
+			  "estadio": "Rostov"
+			}
+		  ],
+		  "terceira_rodada": [
+			{
+			  "mandante": "URU",
+			  "img_mandante": "assets/imgs/uruguay.png",
+			  "gols_mandante": "",
+			  "visitante": "RUS",
+			  "img_visitante": "assets/imgs/russia.png",
+			  "gols_visitante": "",
+			  "data": "SEG 25/06/2018 11:00",
+			  "estadio": "Samara"
+			},
+			{
+			  "mandante": "ARA",
+			  "img_mandante": "assets/imgs/saudi_arabia.png",
+			  "gols_mandante": "",
+			  "visitante": "EGI",
+			  "img_visitante": "assets/imgs/egypt.png",
+			  "gols_visitante": "",
+			  "data": "SEG 25/06/2018 11:00",
+			  "estadio": "Volgogrado"
+			}
+		  ]
+		},
+
+		{
+		  "grupo": "B",
+		  "primeira_rodada": [
+			{
+			  "mandante": "MAR",
+			  "img_mandante": "assets/imgs/morocco.png",
+			  "gols_mandante": "0",
+			  "visitante": "IRA",
+			  "img_visitante": "assets/imgs/iran.png",
+			  "gols_visitante": "1",
+			  "data": "SEX 15/06/2018 12:00",
+			  "estadio": "São Petesburgo"
+			},
+			{
+			  "mandante": "POR",
+			  "img_mandante": "assets/imgs/portugal.png",
+			  "gols_mandante": "3",
+			  "visitante": "ESP",
+			  "img_visitante": "assets/imgs/spain.png",
+			  "gols_visitante": "3",
+			  "data": "SEX 15/06/2018 15:00",
+			  "estadio": "Olímpico de Sochi"
+			}
+		  ],
+		  "segunda_rodada": [
+			{
+			  "mandante": "POR",
+			  "img_mandante": "assets/imgs/portugal.png",
+			  "gols_mandante": "",
+			  "visitante": "MAR",
+			  "img_visitante": "assets/imgs/morocco.png",
+			  "gols_visitante": "",
+			  "data": "QUA 20/06/2018 09:00",
+			  "estadio": "Olímpico Lujniki"
+			},
+			{
+			  "mandante": "IRA",
+			  "img_mandante": "assets/imgs/iran.png",
+			  "gols_mandante": "",
+			  "visitante": "ESP",
+			  "img_visitante": "assets/imgs/spain.png",
+			  "gols_visitante": "",
+			  "data": "QUA 20/06/2018 15:00",
+			  "estadio": "Arena Kazan"
+			}
+		  ],
+		  "terceira_rodada": [
+			{
+			  "mandante": "IRA",
+			  "img_mandante": "assets/imgs/iran.png",
+			  "gols_mandante": "",
+			  "visitante": "POR",
+			  "img_visitante": "assets/imgs/portugal.png",
+			  "gols_visitante": "",
+			  "data": "SEG 25/06/2018 15:00",
+			  "estadio": "Saransk"
+			},
+			{
+			  "mandante": "ESP",
+			  "img_mandante": "assets/imgs/spain.png",
+			  "gols_mandante": "",
+			  "visitante": "MAR",
+			  "img_visitante": "assets/imgs/morocco.png",
+			  "gols_visitante": "",
+			  "data": "SEG 25/06/2018 15:00",
+			  "estadio": "Kaliningrado"
+			}
+		  ]
+		},
+
+		{
+		  "grupo": "C",
+		  "primeira_rodada": [
+			{
+			  "mandante": "FRA",
+			  "img_mandante": "assets/imgs/france.png",
+			  "gols_mandante": "0",
+			  "visitante": "AUS",
+			  "img_visitante": "assets/imgs/australia.png",
+			  "gols_visitante": "0",
+			  "data": "SAB 16/06/2018 07:00",
+			  "estadio": "Arena Kazan"
+			},
+			{
+			  "mandante": "PER",
+			  "img_mandante": "assets/imgs/peru.png",
+			  "gols_mandante": "",
+			  "visitante": "DIN",
+			  "img_visitante": "assets/imgs/denmark.png",
+			  "gols_visitante": "",
+			  "data": "SAB 16/06/2018 13:00",
+			  "estadio": "Saransk"
+			}
+		  ],
+		  "segunda_rodada": [
+			{
+			  "mandante": "DIN",
+			  "img_mandante": "assets/imgs/denmark.png",
+			  "gols_mandante": "",
+			  "visitante": "AUS",
+			  "img_visitante": "assets/imgs/australia.png",
+			  "gols_visitante": "",
+			  "data": "QUI 21/06/2018 09:00",
+			  "estadio": "Samara"
+			},
+			{
+			  "mandante": "FRA",
+			  "img_mandante": "assets/imgs/france.png",
+			  "gols_mandante": "",
+			  "visitante": "PER",
+			  "img_visitante": "assets/imgs/peru.png",
+			  "gols_visitante": "",
+			  "data": "QUI 21/06/2018 12:00",
+			  "estadio": "Ecaterimburgo"
+			}
+		  ],
+		  "terceira_rodada": [
+			{
+			  "mandante": "DIN",
+			  "img_mandante": "assets/imgs/denmark.png",
+			  "gols_mandante": "",
+			  "visitante": "FRA",
+			  "img_visitante": "assets/imgs/france.png",
+			  "gols_visitante": "",
+			  "data": "TER 26/06/2018 11:00",
+			  "estadio": "Olímpico Lujniki"
+			},
+			{
+			  "mandante": "AUS",
+			  "img_mandante": "assets/imgs/australia.png",
+			  "gols_mandante": "",
+			  "visitante": "PER",
+			  "img_visitante": "assets/imgs/peru.png",
+			  "gols_visitante": "",
+			  "data": "TER 26/06/2018 11:00",
+			  "estadio": "Olímpico de Sochi"
+			}
+		  ]
+		},
+
+		{
+		  "grupo": "D",
+		  "primeira_rodada": [
+			{
+			  "mandante": "ARG",
+			  "img_mandante": "assets/imgs/argentina.png",
+			  "gols_mandante": "",
+			  "visitante": "ISL",
+			  "img_visitante": "assets/imgs/iceland.png",
+			  "gols_visitante": "",
+			  "data": "SAB 16/06/2018 10:00",
+			  "estadio": "Spartak"
+			},
+			{
+			  "mandante": "CRO",
+			  "img_mandante": "assets/imgs/croatia.png",
+			  "gols_mandante": "",
+			  "visitante": "NIG",
+			  "img_visitante": "assets/imgs/nigeria.png",
+			  "gols_visitante": "",
+			  "data": "SAB 16/06/2018 16:00",
+			  "estadio": "Kaliningrado"
+			}
+		  ],
+		  "segunda_rodada": [
+			{
+			  "mandante": "ARG",
+			  "img_mandante": "assets/imgs/argentina.png",
+			  "gols_mandante": "",
+			  "visitante": "CRO",
+			  "img_visitante": "assets/imgs/croatia.png",
+			  "gols_visitante": "",
+			  "data": "QUI 21/06/2018 15:00",
+			  "estadio": "Nizhny Novgorod"
+			},
+			{
+			  "mandante": "NIG",
+			  "img_mandante": "assets/imgs/nigeria.png",
+			  "gols_mandante": "",
+			  "visitante": "ISL",
+			  "img_visitante": "assets/imgs/iceland.png",
+			  "gols_visitante": "",
+			  "data": "SEX 22/06/2018 12:00",
+			  "estadio": "Volgogrado"
+			}
+		  ],
+		  "terceira_rodada": [
+			{
+			  "mandante": "NIG",
+			  "img_mandante": "assets/imgs/nigeria.png",
+			  "gols_mandante": "",
+			  "visitante": "ARG",
+			  "img_visitante": "assets/imgs/argentina.png",
+			  "gols_visitante": "",
+			  "data": "TER 26/06/2018 15:00",
+			  "estadio": "São Petesburgo"
+			},
+			{
+			  "mandante": "ISL",
+			  "img_mandante": "assets/imgs/iceland.png",
+			  "gols_mandante": "",
+			  "visitante": "CRO",
+			  "img_visitante": "assets/imgs/croatia.png",
+			  "gols_visitante": "",
+			  "data": "TER 26/06/2018 15:00",
+			  "estadio": "Rostov"
+			}
+		  ]
+		},
+
+		{
+		  "grupo": "E",
+		  "primeira_rodada": [
+			{
+			  "mandante": "COS",
+			  "img_mandante": "assets/imgs/costa_rica.png",
+			  "gols_mandante": "",
+			  "visitante": "SER",
+			  "img_visitante": "assets/imgs/serbia.png",
+			  "gols_visitante": "",
+			  "data": "DOM 17/06/2018 09:00",
+			  "estadio": "Samara"
+			},
+			{
+			  "mandante": "BRA",
+			  "img_mandante": "assets/imgs/brazil.png",
+			  "gols_mandante": "",
+			  "visitante": "SUI",
+			  "img_visitante": "assets/imgs/switzerland.png",
+			  "gols_visitante": "",
+			  "data": "DOM 17/06/2018 15:00",
+			  "estadio": "Rostov"
+			}
+		  ],
+		  "segunda_rodada": [
+			{
+			  "mandante": "BRA",
+			  "img_mandante": "assets/imgs/brazil.png",
+			  "gols_mandante": "",
+			  "visitante": "COS",
+			  "img_visitante": "assets/imgs/costa_rica.png",
+			  "gols_visitante": "",
+			  "data": "SEX 22/06/2018 09:00",
+			  "estadio": "São Petesburgo"
+			},
+			{
+			  "mandante": "SER",
+			  "img_mandante": "assets/imgs/serbia.png",
+			  "gols_mandante": "",
+			  "visitante": "SUI",
+			  "img_visitante": "assets/imgs/switzerland.png",
+			  "gols_visitante": "",
+			  "data": "SEX 22/06/2018 15:00",
+			  "estadio": "Kaliningrado"
+			}
+		  ],
+		  "terceira_rodada": [
+			{
+			  "mandante": "SER",
+			  "img_mandante": "assets/imgs/serbia.png",
+			  "gols_mandante": "",
+			  "visitante": "BRA",
+			  "img_visitante": "assets/imgs/brazil.png",
+			  "gols_visitante": "",
+			  "data": "QUA 27/06/2018 15:00",
+			  "estadio": "Spartak"
+			},
+			{
+			  "mandante": "SUI",
+			  "img_mandante": "assets/imgs/switzerland.png",
+			  "gols_mandante": "",
+			  "visitante": "COS",
+			  "img_visitante": "assets/imgs/costa_rica.png",
+			  "gols_visitante": "",
+			  "data": "QUA 27/06/2018 15:00",
+			  "estadio": "Nizhny Novgorod"
+			}
+		  ]
+		},
+
+		{
+		  "grupo": "F",
+		  "primeira_rodada": [
+			{
+			  "mandante": "ALE",
+			  "img_mandante": "assets/imgs/germany.png",
+			  "gols_mandante": "",
+			  "visitante": "MEX",
+			  "img_visitante": "assets/imgs/mexico.png",
+			  "gols_visitante": "",
+			  "data": "DOM 17/06/2018 12:00",
+			  "estadio": "Olímpico Lujniki"
+			},
+			{
+			  "mandante": "SUE",
+			  "img_mandante": "assets/imgs/sweden.png",
+			  "gols_mandante": "",
+			  "visitante": "COR",
+			  "img_visitante": "assets/imgs/south_korea.png",
+			  "gols_visitante": "",
+			  "data": "SEG 18/06/2018 09:00",
+			  "estadio": "Nizhny Novgorod"
+			}
+		  ],
+		  "segunda_rodada": [
+			{
+			  "mandante": "COR",
+			  "img_mandante": "assets/imgs/south_korea.png",
+			  "gols_mandante": "",
+			  "visitante": "MEX",
+			  "img_visitante": "assets/imgs/mexico.png",
+			  "gols_visitante": "",
+			  "data": "SAB 23/06/2018 12:00",
+			  "estadio": "Rostov"
+			},
+			{
+			  "mandante": "ALE",
+			  "img_mandante": "assets/imgs/germany.png",
+			  "gols_mandante": "",
+			  "visitante": "SUE",
+			  "img_visitante": "assets/imgs/sweden.png",
+			  "gols_visitante": "",
+			  "data": "SAB 23/06/2018 15:00",
+			  "estadio": "Olímpico de Sochi"
+			}
+		  ],
+		  "terceira_rodada": [
+			{
+			  "mandante": "COR",
+			  "img_mandante": "assets/imgs/south_korea.png",
+			  "gols_mandante": "",
+			  "visitante": "ALE",
+			  "img_visitante": "assets/imgs/germany.png",
+			  "gols_visitante": "",
+			  "data": "QUA 27/06/2018 11:00",
+			  "estadio": "Arena Kazan"
+			},
+			{
+			  "mandante": "MEX",
+			  "img_mandante": "assets/imgs/mexico.png",
+			  "gols_mandante": "",
+			  "visitante": "SUE",
+			  "img_visitante": "assets/imgs/sweden.png",
+			  "gols_visitante": "",
+			  "data": "QUA 27/06/2018 11:00",
+			  "estadio": "Ecaterimburgo"
+			}
+		  ]
+		},
+
+		{
+		  "grupo": "G",
+		  "primeira_rodada": [
+			{
+			  "mandante": "BEL",
+			  "img_mandante": "assets/imgs/belgium.png",
+			  "gols_mandante": "",
+			  "visitante": "PAN",
+			  "img_visitante": "assets/imgs/panama.png",
+			  "gols_visitante": "",
+			  "data": "SEG 18/06/2018 12:00",
+			  "estadio": "Olímpico de Sochi"
+			},
+			{
+			  "mandante": "TUN",
+			  "img_mandante": "assets/imgs/tunisia.png",
+			  "gols_mandante": "",
+			  "visitante": "ING",
+			  "img_visitante": "assets/imgs/england.png",
+			  "gols_visitante": "",
+			  "data": "SEG 18/06/2018 15:00",
+			  "estadio": "Volgogrado"
+			}
+		  ],
+		  "segunda_rodada": [
+			{
+			  "mandante": "BEL",
+			  "img_mandante": "assets/imgs/belgium.png",
+			  "gols_mandante": "",
+			  "visitante": "TUN",
+			  "img_visitante": "assets/imgs/tunisia.png",
+			  "gols_visitante": "",
+			  "data": "SAB 23/06/2018 09:00",
+			  "estadio": "Spartak"
+			},
+			{
+			  "mandante": "ING",
+			  "img_mandante": "assets/imgs/england.png",
+			  "gols_mandante": "",
+			  "visitante": "PAN",
+			  "img_visitante": "assets/imgs/panama.png",
+			  "gols_visitante": "",
+			  "data": "DOM 24/06/2018 09:00",
+			  "estadio": "Nizhny Novgorod"
+			}
+		  ],
+		  "terceira_rodada": [
+			{
+			  "mandante": "ING",
+			  "img_mandante": "assets/imgs/england.png",
+			  "gols_mandante": "",
+			  "visitante": "BEL",
+			  "img_visitante": "assets/imgs/belgium.png",
+			  "gols_visitante": "",
+			  "data": "QUI 28/06/2018 15:00",
+			  "estadio": "Kaliningrado"
+			},
+			{
+			  "mandante": "PAN",
+			  "img_mandante": "assets/imgs/panama.png",
+			  "gols_mandante": "",
+			  "visitante": "TUN",
+			  "img_visitante": "assets/imgs/tunisia.png",
+			  "gols_visitante": "",
+			  "data": "QUI 28/06/2018 15:00",
+			  "estadio": "Saransk"
+			}
+		  ]
+		},
+
+		{
+		  "grupo": "H",
+		  "primeira_rodada": [
+			{
+			  "mandante": "COL",
+			  "img_mandante": "assets/imgs/colombia.png",
+			  "gols_mandante": "",
+			  "visitante": "JAP",
+			  "img_visitante": "assets/imgs/japan.png",
+			  "gols_visitante": "",
+			  "data": "TER 19/06/2018 09:00",
+			  "estadio": "Saransk"
+			},
+			{
+			  "mandante": "POL",
+			  "img_mandante": "assets/imgs/poland.png",
+			  "gols_mandante": "",
+			  "visitante": "SEN",
+			  "img_visitante": "assets/imgs/senegal.png",
+			  "gols_visitante": "",
+			  "data": "TER 19/06/2018 12:00",
+			  "estadio": "Spartak"
+			}
+		  ],
+		  "segunda_rodada": [
+			{
+			  "mandante": "JAP",
+			  "img_mandante": "assets/imgs/japan.png",
+			  "gols_mandante": "",
+			  "visitante": "SEN",
+			  "img_visitante": "assets/imgs/senegal.png",
+			  "gols_visitante": "",
+			  "data": "DOM 24/06/2018 12:00",
+			  "estadio": "Ecaterimburgo"
+			},
+			{
+			  "mandante": "POL",
+			  "img_mandante": "assets/imgs/poland.png",
+			  "gols_mandante": "",
+			  "visitante": "COL",
+			  "img_visitante": "assets/imgs/colombia.png",
+			  "gols_visitante": "",
+			  "data": "DOM 24/06/2018 15:00",
+			  "estadio": "Arena Kazan"
+			}
+		  ],
+		  "terceira_rodada": [
+			{
+			  "mandante": "JAP",
+			  "img_mandante": "assets/imgs/japan.png",
+			  "gols_mandante": "",
+			  "visitante": "POL",
+			  "img_visitante": "assets/imgs/poland.png",
+			  "gols_visitante": "",
+			  "data": "QUI 28/06/2018 11:00",
+			  "estadio": "Volgogrado"
+			},
+			{
+			  "mandante": "SEN",
+			  "img_mandante": "assets/imgs/senegal.png",
+			  "gols_mandante": "",
+			  "visitante": "COL",
+			  "img_visitante": "assets/imgs/colombia.png",
+			  "gols_visitante": "",
+			  "data": "QUI 28/06/2018 11:00",
+			  "estadio": "Samara"
+			}
+		  ]
+		}            
+	  ],
+	  "oitavas": [
+		{
+		  "nome": "Oitavas 1",
+		  "mandante": "1º A",
+		  "gols_mandante": "",
+		  "img_mandante": "",
+		  "visitante": "2º B",
+		  "gols_visitante": "",
+		  "img_visitante": "",
+		  "data": "SAB 30/06/2018 15:00",
+		  "estadio": "Olímpico de Sochi"
+		},
+		{
+		  "nome": "Oitavas 2",
+		  "mandante": "1º C",
+		  "img_mandante": "",
+		  "visitante": "2º D",
+		  "img_visitante": "",
+		  "data": "SAB 30/06/2018 11:00",
+		  "estadio": "Arena Kazan"
+		},
+		{
+		  "nome": "Oitavas 3",
+		  "mandante": "1º E",
+		  "img_mandante": "",
+		  "visitante": "2º F",
+		  "img_visitante": "",
+		  "data": "SEG 02/07/2018 11:00",
+		  "estadio": "Samara"
+		},
+		{
+		  "nome": "Oitavas 4",
+		  "mandante": "1º G",
+		  "img_mandante": "",
+		  "visitante": "2º H",
+		  "img_visitante": "",
+		  "data": "SEG 02/07/2018 15:00",
+		  "estadio": "Rostov"
+		},
+		{
+		  "nome": "Oitavas 5",
+		  "mandante": "1º B",
+		  "img_mandante": "",
+		  "visitante": "2º A",
+		  "img_visitante": "",
+		  "data": "DOM 01/07/2018 11:00",
+		  "estadio": "Olímpico Lujniki"
+		},
+		{
+		  "nome": "Oitavas 6",
+		  "mandante": "1º D",
+		  "img_mandante": "",
+		  "visitante": "2º C",
+		  "img_visitante": "",
+		  "data": "DOM 01/07/2018 15:00",
+		  "estadio": "Nizhny Novgorod"
+		},
+		{
+		  "nome": "Oitavas 7",
+		  "mandante": "1º F",
+		  "img_mandante": "",
+		  "visitante": "2º E",
+		  "img_visitante": "",
+		  "data": "TER 03/07/2018 11:00",
+		  "estadio": "São Petesburgo"
+		},
+		{
+		  "nome": "Oitavas 8",
+		  "mandante": "1º H",
+		  "img_mandante": "",
+		  "visitante": "2º G",
+		  "img_visitante": "",
+		  "data": "TER 03/07/2018 15:00",
+		  "estadio": "Spartak"
+		}
+	  ],
+	  "quartas": [
+		{
+		  "nome": "Quartas 1",
+		  "mandante": "Venc. Oitavas 1",
+		  "img_mandante": "",
+		  "visitante": "Venc. Oitavas 2",
+		  "img_visitante": "",
+		  "data": "SEX 06/07/2018 11:00",
+		  "estadio": "Nizhny Novgorod"
+		},
+		{
+		  "nome": "Quartas 2",
+		  "mandante": "Venc. Oitavas 3",
+		  "img_mandante": "",
+		  "visitante": "Venc. Oitavas 4",
+		  "img_visitante": "",
+		  "data": "SEX 06/07/2018 15:00",
+		  "estadio": "Arena Kazan"
+		},
+		{
+		  "nome": "Quartas 3",
+		  "mandante": "Venc. Oitavas 5",
+		  "img_mandante": "",
+		  "visitante": "Venc. Oitavas 6",
+		  "img_visitante": "",
+		  "data": "SAB 07/07/2018 15:00",
+		  "estadio": "Olímpico de Sochi"
+		},
+		{
+		  "nome": "Quartas 4",
+		  "mandante": "Venc. Oitavas 7",
+		  "img_mandante": "",
+		  "visitante": "Venc. Oitavas 8",
+		  "img_visitante": "",
+		  "data": "SAB 07/07/2018 11:00",
+		  "estadio": "Samara"
+		}
+	  ],
+	  "semifinal": [
+		{
+		  "nome": "Semifinal 1",
+		  "mandante": "Venc. Quartas 1",
+		  "img_mandante": "",
+		  "visitante": "Venc. Quartas 2",
+		  "img_visitante": "",
+		  "data": "TER 10/07/2018 15:00",
+		  "estadio": "São Petesburgo"
+		},
+		{
+		  "nome": "Semifinal 2",
+		  "mandante": "Venc. Quartas 3",
+		  "img_mandante": "",
+		  "visitante": "Venc. Quartas 4",
+		  "img_visitante": "",
+		  "data": "QUA 11/07/2018 15:00",
+		  "estadio": "Olímpico Lujniki"
+		}
+	  ],
+	  "terceiro_lugar": {
+		"mandante": "Perd. Semifinal 1",
+		"img_mandante": "",
+		"visitante": "Perd. Semifinal 2",
+		"img_visitante": "",
+		"data": "SAB 14/07/2018 11:00",
+		"estadio": "São Petesburgo"          
+	  },
+	  "final": {
+		"mandante": "Venc. Semifinal 1",
+		"img_mandante": "",
+		"visitante": "Venc. Semifinal 2",
+		"img_visitante": "",
+		"data": "DOM 15/07/2018 12:00",
+		"estadio": "Olímpico Lujniki"
+	  }
+	},
+	"brasil": [
+		{
+			"nome": "1º Jogo da fase de grupos",
+			"mandante": "BRA",
+			"img_mandante": "assets/imgs/brazil.png",
+			"visitante": "SUI",
+			"img_visitante": "assets/imgs/switzerland.png",
+			"data": "DOM 17/06/2018 15:00",
+			"estadio": "Rostov"
+		},
+		{
+			"nome": "2º Jogo da fase de grupos",
+			"mandante": "BRA",
+			"img_mandante": "assets/imgs/brazil.png",
+			"visitante": "COS",
+			"img_visitante": "assets/imgs/costa_rica.png",
+			"data": "SEX 22/06/2018 09:00",
+			"estadio": "São Petesburgo"
+		},
+		{
+			"nome": "3º Jogo da fase de grupos",
+			"mandante": "SER",
+			"img_mandante": "assets/imgs/serbia.png",
+			"visitante": "BRA",
+			"img_visitante": "assets/imgs/brazil.png",
+			"data": "QUA 27/06/2018 15:00",
+			"estadio": "Spartak"
+		}
+	],
+	"jogo_do_dia" : [
+		{
+			"nome": "Grupo C",
+			"mandante": "FRA",
+			"img_mandante": "assets/imgs/france.png",
+			"gols_mandante": "0",
+			"visitante": "AUS",
+			"img_visitante": "assets/imgs/australia.png",
+			"gols_visitante": "0",
+			"data": "SAB 16/06/2018 07:00",
+			"estadio": "Arena Kazan"
+		},
+		{
+			"nome": "Grupo D",
+			"mandante": "ARG",
+			"img_mandante": "assets/imgs/argentina.png",
+			"gols_mandante": "",
+			"visitante": "ISL",
+			"img_visitante": "assets/imgs/iceland.png",
+			"gols_visitante": "",
+			"data": "SAB 16/06/2018 10:00",
+			"estadio": "Spartak"
+		},
+		{
+		  "nome": "Grupo C",
+		  "mandante": "PER",
+		  "img_mandante": "assets/imgs/peru.png",
+		  "gols_mandante": "",
+		  "visitante": "DIN",
+		  "img_visitante": "assets/imgs/denmark.png",
+		  "gols_visitante": "",
+		  "data": "SAB 16/06/2018 13:00",
+		  "estadio": "Saransk"
+		},
+		{
+			"nome": "Grupo D",
+			"mandante": "CRO",
+			"img_mandante": "assets/imgs/croatia.png",
+			"gols_mandante": "",
+			"visitante": "NIG",
+			"img_visitante": "assets/imgs/nigeria.png",
+			"gols_visitante": "",
+			"data": "SAB 16/06/2018 16:00",
+			"estadio": "Kaliningrado"
+		}
+
+	]
+}
