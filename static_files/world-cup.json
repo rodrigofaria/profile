@@ -1135,5 +1135,52 @@
 			"data": "QUA 27/06/2018 15:00",
 			"estadio": "Spartak"
 		}
+	],
+	"jogo_do_dia" : [
+		{
+			"nome": "Grupo C",
+			"mandante": "FRA",
+			"img_mandante": "assets/imgs/france.png",
+			"gols_mandante": "0",
+			"visitante": "AUS",
+			"img_visitante": "assets/imgs/australia.png",
+			"gols_visitante": "0",
+			"data": "SAB 16/06/2018 07:00",
+			"estadio": "Arena Kazan"
+		},
+		{
+			"nome": "Grupo D",
+			"mandante": "ARG",
+			"img_mandante": "assets/imgs/argentina.png",
+			"gols_mandante": "",
+			"visitante": "ISL",
+			"img_visitante": "assets/imgs/iceland.png",
+			"gols_visitante": "",
+			"data": "SAB 16/06/2018 10:00",
+			"estadio": "Spartak"
+		},
+		{
+		  "nome": "Grupo C",
+		  "mandante": "PER",
+		  "img_mandante": "assets/imgs/peru.png",
+		  "gols_mandante": "",
+		  "visitante": "DIN",
+		  "img_visitante": "assets/imgs/denmark.png",
+		  "gols_visitante": "",
+		  "data": "SAB 16/06/2018 13:00",
+		  "estadio": "Saransk"
+		},
+		{
+			"nome": "Grupo D",
+			"mandante": "CRO",
+			"img_mandante": "assets/imgs/croatia.png",
+			"gols_mandante": "",
+			"visitante": "NIG",
+			"img_visitante": "assets/imgs/nigeria.png",
+			"gols_visitante": "",
+			"data": "SAB 16/06/2018 16:00",
+			"estadio": "Kaliningrado"
+		}
+
 	]
 }
