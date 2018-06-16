@@ -104,25 +104,25 @@
 		"times": [
 		  {
 			"nome": "França",
-			"pontos": 1,
+			"pontos": 3,
 			"jogos": 1,
-			"vitorias": 0,
-			"empates": 1,
+			"vitorias": 1,
+			"empates": 0,
 			"derrotas": 0,
-			"gols_pro": 1,
+			"gols_pro": 2,
 			"gols_contra": 1,
-			"saldo_gols": 0
+			"saldo_gols": 1
 		  },
 		  		  {
 			"nome": "Austrália",
-			"pontos": 1,
+			"pontos": 0,
 			"jogos": 1,
 			"vitorias": 0,
-			"empates": 1,
+			"empates": 0,
 			"derrotas": 0,
 			"gols_pro": 1,
-			"gols_contra": 1,
-			"saldo_gols": 0
+			"gols_contra": 2,
+			"saldo_gols": -1
 		  },
 		  {
 			"nome": "Dinamarca",
@@ -542,7 +542,7 @@
 			{
 			  "mandante": "FRA",
 			  "img_mandante": "assets/imgs/france.png",
-			  "gols_mandante": "1",
+			  "gols_mandante": "2",
 			  "visitante": "AUS",
 			  "img_visitante": "assets/imgs/australia.png",
 			  "gols_visitante": "1",
