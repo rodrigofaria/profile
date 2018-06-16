@@ -542,10 +542,10 @@
 			{
 			  "mandante": "FRA",
 			  "img_mandante": "assets/imgs/france.png",
-			  "gols_mandante": "",
+			  "gols_mandante": "0",
 			  "visitante": "AUS",
 			  "img_visitante": "assets/imgs/australia.png",
-			  "gols_visitante": "",
+			  "gols_visitante": "0",
 			  "data": "SAB 16/06/2018 07:00",
 			  "estadio": "Arena Kazan"
 			},
