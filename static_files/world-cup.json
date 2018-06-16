@@ -158,9 +158,9 @@
 			"vitorias": 1,
 			"empates": 0,
 			"derrotas": 0,
-			"gols_pro": 1,
+			"gols_pro": 2,
 			"gols_contra": 0,
-			"saldo_gols": 1
+			"saldo_gols": 2
 		  },
 		  {
 			"nome": "Argentina",
@@ -192,8 +192,8 @@
 			"empates": 0,
 			"derrotas": 1,
 			"gols_pro": 0,
-			"gols_contra": 1,
-			"saldo_gols": -1
+			"gols_contra": 2,
+			"saldo_gols": -2
 		  }
 		]
 	  },
@@ -622,7 +622,7 @@
 			{
 			  "mandante": "CRO",
 			  "img_mandante": "assets/imgs/croatia.png",
-			  "gols_mandante": "1",
+			  "gols_mandante": "2",
 			  "visitante": "NIG",
 			  "img_visitante": "assets/imgs/nigeria.png",
 			  "gols_visitante": "0",
