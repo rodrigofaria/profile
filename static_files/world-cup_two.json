@@ -5,7 +5,7 @@
 		"times": [
 		  {
 			"nome": "Rússia",
-			"pontos": 3,
+			"pontos": 13,
 			"jogos": 1,
 			"vitorias": 1,
 			"empates": 0,
@@ -16,7 +16,7 @@
 		  },
 		  {
 			"nome": "Uruguai",
-			"pontos": 30,
+			"pontos": 11,
 			"jogos": 1,
 			"vitorias": 1,
 			"empates": 0,
@@ -412,10 +412,10 @@
 			{
 			  "mandante": "EGI",
 			  "img_mandante": "assets/imgs/egypt.png",
-			  "gols_mandante": "10",
+			  "gols_mandante": "2",
 			  "visitante": "URU",
 			  "img_visitante": "assets/imgs/uruguay.png",
-			  "gols_visitante": "13",
+			  "gols_visitante": "2",
 			  "data": "SEX 15/06/2018 09:00",
 			  "estadio": "Ecaterimburgo"
 			}
