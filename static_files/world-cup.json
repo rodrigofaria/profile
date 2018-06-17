@@ -1112,8 +1112,10 @@
 		{
 			"nome": "1º Jogo da fase de grupos",
 			"mandante": "BRA",
+			"gols_mandante": "1",
 			"img_mandante": "assets/imgs/brazil.png",
 			"visitante": "SUI",
+			"gols_visitante": "0",
 			"img_visitante": "assets/imgs/switzerland.png",
 			"data": "DOM 17/06/2018 15:00",
 			"estadio": "Rostov"
