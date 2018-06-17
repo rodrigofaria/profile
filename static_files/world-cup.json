@@ -1138,49 +1138,37 @@
 	],
 	"jogo_do_dia" : [
 		{
-			"nome": "Grupo C",
-			"mandante": "FRA",
-			"img_mandante": "assets/imgs/france.png",
-			"gols_mandante": "0",
-			"visitante": "AUS",
-			"img_visitante": "assets/imgs/australia.png",
-			"gols_visitante": "0",
-			"data": "SAB 16/06/2018 07:00",
-			"estadio": "Arena Kazan"
-		},
-		{
-			"nome": "Grupo D",
-			"mandante": "ARG",
-			"img_mandante": "assets/imgs/argentina.png",
+			"nome": "Grupo E",
+			"mandante": "COS",
+			"img_mandante": "assets/imgs/costa_rica.png",
 			"gols_mandante": "",
-			"visitante": "ISL",
-			"img_visitante": "assets/imgs/iceland.png",
+			"visitante": "SER",
+			"img_visitante": "assets/imgs/serbia.png",
 			"gols_visitante": "",
-			"data": "SAB 16/06/2018 10:00",
-			"estadio": "Spartak"
+			"data": "DOM 17/06/2018 09:00",
+			"estadio": "Samara"
 		},
 		{
-		  "nome": "Grupo C",
-		  "mandante": "PER",
-		  "img_mandante": "assets/imgs/peru.png",
+			"nome": "Grupo F",
+			"mandante": "ALE",
+			"img_mandante": "assets/imgs/germany.png",
+			"gols_mandante": "",
+			"visitante": "MEX",
+			"img_visitante": "assets/imgs/mexico.png",
+			"gols_visitante": "",
+			"data": "DOM 17/06/2018 12:00",
+			"estadio": "Olímpico Lujniki"
+		},
+		{
+		  "nome": "Grupo E",
+		  "mandante": "BRA",
+		  "img_mandante": "assets/imgs/brazil.png",
 		  "gols_mandante": "",
-		  "visitante": "DIN",
-		  "img_visitante": "assets/imgs/denmark.png",
+		  "visitante": "SUI",
+		  "img_visitante": "assets/imgs/switzerland.png",
 		  "gols_visitante": "",
-		  "data": "SAB 16/06/2018 13:00",
-		  "estadio": "Saransk"
-		},
-		{
-			"nome": "Grupo D",
-			"mandante": "CRO",
-			"img_mandante": "assets/imgs/croatia.png",
-			"gols_mandante": "",
-			"visitante": "NIG",
-			"img_visitante": "assets/imgs/nigeria.png",
-			"gols_visitante": "",
-			"data": "SAB 16/06/2018 16:00",
-			"estadio": "Kaliningrado"
+		  "data": "DOM 17/06/2018 15:00",
+		  "estadio": "Rostov"
 		}
-
 	]
 }
