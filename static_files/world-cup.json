@@ -202,14 +202,14 @@
 		"times": [
 		  {
 			"nome": "Brasil",
-			"pontos": 3,
+			"pontos": 1,
 			"jogos": 1,
-			"vitorias": 1,
-			"empates": 0,
+			"vitorias": 0,
+			"empates": 1,
 			"derrotas": 0,
 			"gols_pro": 1,
-			"gols_contra": 0,
-			"saldo_gols": 1
+			"gols_contra": 1,
+			"saldo_gols": 0
 		  },
 		  {
 			"nome": "Sérvia",
@@ -224,14 +224,14 @@
 		  },
 		  {
 			"nome": "Suíça",
-			"pontos": 0,
+			"pontos": 1,
 			"jogos": 1,
 			"vitorias": 0,
-			"empates": 0,
-			"derrotas": 1,
-			"gols_pro": 0,
+			"empates": 1,
+			"derrotas": 0,
+			"gols_pro": 1,
 			"gols_contra": 1,
-			"saldo_gols": 1
+			"saldo_gols": 0
 		  },
 		  {
 			"nome": "Costa Rica",
@@ -696,7 +696,7 @@
 			  "gols_mandante": "1",
 			  "visitante": "SUI",
 			  "img_visitante": "assets/imgs/switzerland.png",
-			  "gols_visitante": "0",
+			  "gols_visitante": "1",
 			  "data": "DOM 17/06/2018 15:00",
 			  "estadio": "Rostov"
 			}
@@ -1115,7 +1115,7 @@
 			"gols_mandante": "1",
 			"img_mandante": "assets/imgs/brazil.png",
 			"visitante": "SUI",
-			"gols_visitante": "0",
+			"gols_visitante": "1",
 			"img_visitante": "assets/imgs/switzerland.png",
 			"data": "DOM 17/06/2018 15:00",
 			"estadio": "Rostov"
@@ -1169,7 +1169,7 @@
 		  "gols_mandante": "1",
 		  "visitante": "SUI",
 		  "img_visitante": "assets/imgs/switzerland.png",
-		  "gols_visitante": "0",
+		  "gols_visitante": "1",
 		  "data": "DOM 17/06/2018 15:00",
 		  "estadio": "Rostov"
 		}
