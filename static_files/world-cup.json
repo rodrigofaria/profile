@@ -200,17 +200,7 @@
 	  {
 		"grupo": "E",
 		"times": [
-		  {
-			"nome": "Brasil",
-			"pontos": 1,
-			"jogos": 1,
-			"vitorias": 0,
-			"empates": 1,
-			"derrotas": 0,
-			"gols_pro": 1,
-			"gols_contra": 1,
-			"saldo_gols": 0
-		  },
+
 		  {
 			"nome": "Sérvia",
 			"pontos": 3,
@@ -221,6 +211,17 @@
 			"gols_pro": 1,
 			"gols_contra": 0,
 			"saldo_gols": 1
+		  },
+		  {
+			"nome": "Brasil",
+			"pontos": 1,
+			"jogos": 1,
+			"vitorias": 0,
+			"empates": 1,
+			"derrotas": 0,
+			"gols_pro": 1,
+			"gols_contra": 1,
+			"saldo_gols": 0
 		  },
 		  {
 			"nome": "Suíça",
