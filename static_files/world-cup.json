@@ -213,10 +213,10 @@
 		  },
 		  {
 			"nome": "Brasil",
-			"pontos": 0,
-			"jogos": 0,
+			"pontos": 1,
+			"jogos": 1,
 			"vitorias": 0,
-			"empates": 0,
+			"empates": 1,
 			"derrotas": 0,
 			"gols_pro": 0,
 			"gols_contra": 0,
@@ -224,15 +224,15 @@
 		  },
 		  {
 			"nome": "Suíça",
-			"pontos": 0,
-			"jogos": 0,
+			"pontos": 1,
+			"jogos": 1,
 			"vitorias": 0,
-			"empates": 0,
+			"empates": 1,
 			"derrotas": 0,
 			"gols_pro": 0,
 			"gols_contra": 0,
 			"saldo_gols": 0
-		  },
+		  }
 		  {
 			"nome": "Costa Rica",
 			"pontos": 0,
@@ -693,10 +693,10 @@
 			{
 			  "mandante": "BRA",
 			  "img_mandante": "assets/imgs/brazil.png",
-			  "gols_mandante": "",
+			  "gols_mandante": "0",
 			  "visitante": "SUI",
 			  "img_visitante": "assets/imgs/switzerland.png",
-			  "gols_visitante": "",
+			  "gols_visitante": "0",
 			  "data": "DOM 17/06/2018 15:00",
 			  "estadio": "Rostov"
 			}
@@ -1164,10 +1164,10 @@
 		  "nome": "Grupo E",
 		  "mandante": "BRA",
 		  "img_mandante": "assets/imgs/brazil.png",
-		  "gols_mandante": "",
+		  "gols_mandante": "0",
 		  "visitante": "SUI",
 		  "img_visitante": "assets/imgs/switzerland.png",
-		  "gols_visitante": "",
+		  "gols_visitante": "0",
 		  "data": "DOM 17/06/2018 15:00",
 		  "estadio": "Rostov"
 		}
