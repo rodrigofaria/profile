@@ -252,10 +252,10 @@
 		"times": [
 		  {
 			"nome": "Alemanha",
-			"pontos": 0,
-			"jogos": 0,
+			"pontos": 1,
+			"jogos": 1,
 			"vitorias": 0,
-			"empates": 0,
+			"empates": 1,
 			"derrotas": 0,
 			"gols_pro": 0,
 			"gols_contra": 0,
@@ -274,10 +274,10 @@
 		  },
 		  {
 			"nome": "México",
-			"pontos": 0,
-			"jogos": 0,
+			"pontos": 1,
+			"jogos": 1,
 			"vitorias": 0,
-			"empates": 0,
+			"empates": 1,
 			"derrotas": 0,
 			"gols_pro": 0,
 			"gols_contra": 0,
@@ -753,10 +753,10 @@
 			{
 			  "mandante": "ALE",
 			  "img_mandante": "assets/imgs/germany.png",
-			  "gols_mandante": "",
+			  "gols_mandante": "0",
 			  "visitante": "MEX",
 			  "img_visitante": "assets/imgs/mexico.png",
-			  "gols_visitante": "",
+			  "gols_visitante": "0",
 			  "data": "DOM 17/06/2018 12:00",
 			  "estadio": "Olímpico Lujniki"
 			},
@@ -1153,10 +1153,10 @@
 			"nome": "Grupo F",
 			"mandante": "ALE",
 			"img_mandante": "assets/imgs/germany.png",
-			"gols_mandante": "",
+			"gols_mandante": "0",
 			"visitante": "MEX",
 			"img_visitante": "assets/imgs/mexico.png",
-			"gols_visitante": "",
+			"gols_visitante": "0",
 			"data": "DOM 17/06/2018 12:00",
 			"estadio": "Olímpico Lujniki"
 		},
