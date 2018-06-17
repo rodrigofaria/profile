@@ -201,22 +201,11 @@
 		"grupo": "E",
 		"times": [
 		  {
-			"nome": "Brasil",
-			"pontos": 0,
-			"jogos": 0,
-			"vitorias": 0,
-			"empates": 0,
-			"derrotas": 0,
-			"gols_pro": 0,
-			"gols_contra": 0,
-			"saldo_gols": 0
-		  },
-		  {
 			"nome": "Costa Rica",
-			"pontos": 0,
-			"jogos": 0,
+			"pontos": 1,
+			"jogos": 1,
 			"vitorias": 0,
-			"empates": 0,
+			"empates": 1,
 			"derrotas": 0,
 			"gols_pro": 0,
 			"gols_contra": 0,
@@ -224,6 +213,17 @@
 		  },
 		  {
 			"nome": "Sérvia",
+			"pontos": 1,
+			"jogos": 1,
+			"vitorias": 0,
+			"empates": 1,
+			"derrotas": 0,
+			"gols_pro": 0,
+			"gols_contra": 0,
+			"saldo_gols": 0
+		  },
+		  {
+			"nome": "Brasil",
 			"pontos": 0,
 			"jogos": 0,
 			"vitorias": 0,
@@ -682,10 +682,10 @@
 			{
 			  "mandante": "COS",
 			  "img_mandante": "assets/imgs/costa_rica.png",
-			  "gols_mandante": "",
+			  "gols_mandante": "0",
 			  "visitante": "SER",
 			  "img_visitante": "assets/imgs/serbia.png",
-			  "gols_visitante": "",
+			  "gols_visitante": "0",
 			  "data": "DOM 17/06/2018 09:00",
 			  "estadio": "Samara"
 			},
@@ -1141,10 +1141,10 @@
 			"nome": "Grupo E",
 			"mandante": "COS",
 			"img_mandante": "assets/imgs/costa_rica.png",
-			"gols_mandante": "",
+			"gols_mandante": "0",
 			"visitante": "SER",
 			"img_visitante": "assets/imgs/serbia.png",
-			"gols_visitante": "",
+			"gols_visitante": "0",
 			"data": "DOM 17/06/2018 09:00",
 			"estadio": "Samara"
 		},
