@@ -263,26 +263,26 @@
 			"saldo_gols": 1
 		  },
 		  {
-			"nome": "Coreia do Sul",
-			"pontos": 1,
+			"nome": "Suécia",
+			"pontos": 3,
 			"jogos": 1,
-			"vitorias": 0,
-			"empates": 1,
+			"vitorias": 1,
+			"empates": 0,
 			"derrotas": 0,
-			"gols_pro": 0,
+			"gols_pro": 1,
 			"gols_contra": 0,
-			"saldo_gols": 0
+			"saldo_gols": 1
 		  },
 		  {
-			"nome": "Suécia",
-			"pontos": 1,
+			"nome": "Coreia do Sul",
+			"pontos": 0,
 			"jogos": 1,
 			"vitorias": 0,
-			"empates": 1,
-			"derrotas": 0,
+			"empates": 0,
+			"derrotas": 1,
 			"gols_pro": 0,
-			"gols_contra": 0,
-			"saldo_gols": 0
+			"gols_contra": 1,
+			"saldo_gols": -1
 		  },
 		  {
 			"nome": "Alemanha",
@@ -764,7 +764,7 @@
 			{
 			  "mandante": "SUE",
 			  "img_mandante": "assets/imgs/sweden.png",
-			  "gols_mandante": "0",
+			  "gols_mandante": "1",
 			  "visitante": "COR",
 			  "img_visitante": "assets/imgs/south_korea.png",
 			  "gols_visitante": "0",
@@ -1145,7 +1145,7 @@
 			"nome": "Grupo F",
 			"mandante": "SUE",
 			"img_mandante": "assets/imgs/sweden.png",
-			"gols_mandante": "0",
+			"gols_mandante": "1",
 			"visitante": "COR",
 			"img_visitante": "assets/imgs/south_korea.png",
 			"gols_visitante": "0",
