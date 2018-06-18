@@ -307,9 +307,9 @@
 			"vitorias": 1,
 			"empates": 0,
 			"derrotas": 0,
-			"gols_pro": 2,
+			"gols_pro": 3,
 			"gols_contra": 0,
-			"saldo_gols": 2
+			"saldo_gols": 3
 		  },
 		  {
 			"nome": "Inglaterra",
@@ -341,8 +341,8 @@
 			"empates": 0,
 			"derrotas": 1,
 			"gols_pro": 0,
-			"gols_contra": 2,
-			"saldo_gols": -2
+			"gols_contra": 3,
+			"saldo_gols": -3
 		  }
 		]
 	  },
@@ -824,7 +824,7 @@
 			{
 			  "mandante": "BEL",
 			  "img_mandante": "assets/imgs/belgium.png",
-			  "gols_mandante": "2",
+			  "gols_mandante": "3",
 			  "visitante": "PAN",
 			  "img_visitante": "assets/imgs/panama.png",
 			  "gols_visitante": "0",
@@ -1156,7 +1156,7 @@
 		  "nome": "Grupo G",
 		  "mandante": "BEL",
 		  "img_mandante": "assets/imgs/belgium.png",
-		  "gols_mandante": "2",
+		  "gols_mandante": "3",
 		  "visitante": "PAN",
 		  "img_visitante": "assets/imgs/panama.png",
 		  "gols_visitante": "0",
