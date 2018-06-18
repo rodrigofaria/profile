@@ -1142,37 +1142,37 @@
 	],
 	"jogo_do_dia" : [
 		{
-			"nome": "Grupo E",
-			"mandante": "COS",
-			"img_mandante": "assets/imgs/costa_rica.png",
-			"gols_mandante": "0",
-			"visitante": "SER",
-			"img_visitante": "assets/imgs/serbia.png",
-			"gols_visitante": "1",
-			"data": "DOM 17/06/2018 09:00",
-			"estadio": "Samara"
-		},
-		{
 			"nome": "Grupo F",
-			"mandante": "ALE",
-			"img_mandante": "assets/imgs/germany.png",
-			"gols_mandante": "0",
-			"visitante": "MEX",
-			"img_visitante": "assets/imgs/mexico.png",
-			"gols_visitante": "1",
-			"data": "DOM 17/06/2018 12:00",
-			"estadio": "Olímpico Lujniki"
+			"mandante": "SUE",
+			"img_mandante": "assets/imgs/sweden.png",
+			"gols_mandante": "",
+			"visitante": "COR",
+			"img_visitante": "assets/imgs/south_korea.png",
+			"gols_visitante": "",
+			"data": "SEG 18/06/2018 09:00",
+			"estadio": "Nizhny Novgorod"			
 		},
 		{
-		  "nome": "Grupo E",
-		  "mandante": "BRA",
-		  "img_mandante": "assets/imgs/brazil.png",
-		  "gols_mandante": "1",
-		  "visitante": "SUI",
-		  "img_visitante": "assets/imgs/switzerland.png",
-		  "gols_visitante": "1",
-		  "data": "DOM 17/06/2018 15:00",
-		  "estadio": "Rostov"
+		  "nome": "Grupo G",
+		  "mandante": "BEL",
+		  "img_mandante": "assets/imgs/belgium.png",
+		  "gols_mandante": "",
+		  "visitante": "PAN",
+		  "img_visitante": "assets/imgs/panama.png",
+		  "gols_visitante": "",
+		  "data": "SEG 18/06/2018 12:00",
+		  "estadio": "Olímpico de Sochi"
+		},
+		{
+		  "nome": "Grupo G",
+		  "mandante": "TUN",
+		  "img_mandante": "assets/imgs/tunisia.png",
+		  "gols_mandante": "",
+		  "visitante": "ING",
+		  "img_visitante": "assets/imgs/england.png",
+		  "gols_visitante": "",
+		  "data": "SEG 18/06/2018 15:00",
+		  "estadio": "Volgogrado"
 		}
 	]
 }
