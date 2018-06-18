@@ -4,19 +4,8 @@
 		"grupo": "A",
 		"times": [
 		  {
-			"nome": "Uruguai",
-			"pontos": 6,
-			"jogos": 2,
-			"vitorias": 1,
-			"empates": 0,
-			"derrotas": 0,
-			"gols_pro": 1,
-			"gols_contra": 0,
-			"saldo_gols": 1
-		  },
-		  {
 			"nome": "Egito",
-			"pontos": 3,
+			"pontos": 7,
 			"jogos": 2,
 			"vitorias": 0,
 			"empates": 0,
@@ -24,6 +13,17 @@
 			"gols_pro": 0,
 			"gols_contra": 1,
 			"saldo_gols": -1
+		  },
+		  {
+			"nome": "Uruguai",
+			"pontos": 4,
+			"jogos": 2,
+			"vitorias": 1,
+			"empates": 0,
+			"derrotas": 0,
+			"gols_pro": 1,
+			"gols_contra": 0,
+			"saldo_gols": 1
 		  },
 		  {
 			"nome": "Rússia",
@@ -401,10 +401,10 @@
 			{
 			  "mandante": "RUS",
 			  "img_mandante": "assets/imgs/russia.png",
-			  "gols_mandante": "3",
+			  "gols_mandante": "5",
 			  "visitante": "ARA",
 			  "img_visitante": "assets/imgs/saudi_arabia.png",
-			  "gols_visitante": "2",
+			  "gols_visitante": "0",
 			  "data": "QUI 14/06/2018 12:00",
 			  "estadio": "Olímpico Lujniki"
 			},
