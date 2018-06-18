@@ -264,10 +264,10 @@
 		  },
 		  {
 			"nome": "Coreia do Sul",
-			"pontos": 0,
-			"jogos": 0,
+			"pontos": 1,
+			"jogos": 1,
 			"vitorias": 0,
-			"empates": 0,
+			"empates": 1,
 			"derrotas": 0,
 			"gols_pro": 0,
 			"gols_contra": 0,
@@ -275,10 +275,10 @@
 		  },
 		  {
 			"nome": "Suécia",
-			"pontos": 0,
-			"jogos": 0,
+			"pontos": 1,
+			"jogos": 1,
 			"vitorias": 0,
-			"empates": 0,
+			"empates": 1,
 			"derrotas": 0,
 			"gols_pro": 0,
 			"gols_contra": 0,
@@ -764,10 +764,10 @@
 			{
 			  "mandante": "SUE",
 			  "img_mandante": "assets/imgs/sweden.png",
-			  "gols_mandante": "",
+			  "gols_mandante": "0",
 			  "visitante": "COR",
 			  "img_visitante": "assets/imgs/south_korea.png",
-			  "gols_visitante": "",
+			  "gols_visitante": "0",
 			  "data": "SEG 18/06/2018 09:00",
 			  "estadio": "Nizhny Novgorod"
 			}
@@ -1145,10 +1145,10 @@
 			"nome": "Grupo F",
 			"mandante": "SUE",
 			"img_mandante": "assets/imgs/sweden.png",
-			"gols_mandante": "",
+			"gols_mandante": "0",
 			"visitante": "COR",
 			"img_visitante": "assets/imgs/south_korea.png",
-			"gols_visitante": "",
+			"gols_visitante": "0",
 			"data": "SEG 18/06/2018 09:00",
 			"estadio": "Nizhny Novgorod"			
 		},
