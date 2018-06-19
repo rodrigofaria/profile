@@ -362,25 +362,25 @@
 		  },
 		  {
 			"nome": "Senegal",
-			"pontos": 1,
+			"pontos": 3,
 			"jogos": 1,
-			"vitorias": 0,
-			"empates": 1,
+			"vitorias": 1,
+			"empates": 0,
 			"derrotas": 0,
-			"gols_pro": 1,
-			"gols_contra": 1,
-			"saldo_gols": 0
+			"gols_pro": 2,
+			"gols_contra": 0,
+			"saldo_gols": 2
 		  },
 		  {
 			"nome": "Polônia",
-			"pontos": 1,
+			"pontos": 0,
 			"jogos": 1,
 			"vitorias": 0,
-			"empates": 1,
-			"derrotas": 0,
-			"gols_pro": 1,
-			"gols_contra": 1,
-			"saldo_gols": 0
+			"empates": 0,
+			"derrotas": 1,
+			"gols_pro": 0,
+			"gols_contra": 2,
+			"saldo_gols": -2
 		  },
 		  {
 			"nome": "Colômbia",
@@ -905,10 +905,10 @@
 			{
 			  "mandante": "POL",
 			  "img_mandante": "assets/imgs/poland.png",
-			  "gols_mandante": "1",
+			  "gols_mandante": "0",
 			  "visitante": "SEN",
 			  "img_visitante": "assets/imgs/senegal.png",
-			  "gols_visitante": "1",
+			  "gols_visitante": "2",
 			  "data": "TER 19/06/2018 12:00",
 			  "estadio": "Spartak"
 			}
@@ -1157,10 +1157,10 @@
 		  "nome": "Grupo H",
 		  "mandante": "POL",
 		  "img_mandante": "assets/imgs/poland.png",
-		  "gols_mandante": "1",
+		  "gols_mandante": "0",
 		  "visitante": "SEN",
 		  "img_visitante": "assets/imgs/senegal.png",
-		  "gols_visitante": "1",
+		  "gols_visitante": "2",
 		  "data": "TER 19/06/2018 12:00",
 		  "estadio": "Spartak"
 		},
