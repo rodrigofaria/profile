@@ -351,25 +351,14 @@
 		"times": [
 		  {
 			"nome": "Japão",
-			"pontos": 1,
+			"pontos": 3,
 			"jogos": 1,
-			"vitorias": 0,
-			"empates": 1,
+			"vitorias": 1,
+			"empates": 0,
 			"derrotas": 0,
-			"gols_pro": 1,
+			"gols_pro": 2,
 			"gols_contra": 1,
-			"saldo_gols": 0
-		  },
-		  {
-			"nome": "Colômbia",
-			"pontos": 1,
-			"jogos": 1,
-			"vitorias": 0,
-			"empates": 1,
-			"derrotas": 0,
-			"gols_pro": 1,
-			"gols_contra": 1,
-			"saldo_gols": 0
+			"saldo_gols": 1
 		  },
 		  {
 			"nome": "Polônia",
@@ -392,7 +381,19 @@
 			"gols_pro": 0,
 			"gols_contra": 0,
 			"saldo_gols": 0
+		  },
+		  {
+			"nome": "Colômbia",
+			"pontos": 0,
+			"jogos": 1,
+			"vitorias": 0,
+			"empates": 0,
+			"derrotas": 1,
+			"gols_pro": 1,
+			"gols_contra": 2,
+			"saldo_gols": -1
 		  }
+		  
 		]
 	  }
 	],
@@ -897,7 +898,7 @@
 			  "gols_mandante": "1",
 			  "visitante": "JAP",
 			  "img_visitante": "assets/imgs/japan.png",
-			  "gols_visitante": "1",
+			  "gols_visitante": "2",
 			  "data": "TER 19/06/2018 09:00",
 			  "estadio": "Saransk"
 			},
@@ -1148,7 +1149,7 @@
 		  "gols_mandante": "1",
 		  "visitante": "JAP",
 		  "img_visitante": "assets/imgs/japan.png",
-		  "gols_visitante": "1",
+		  "gols_visitante": "2",
 		  "data": "TER 19/06/2018 09:00",
 		  "estadio": "Saransk"
 		},
