@@ -11,8 +11,8 @@
 			"empates": 0,
 			"derrotas": 0,
 			"gols_pro": 8,
-			"gols_contra": 0,
-			"saldo_gols": 8
+			"gols_contra": 1,
+			"saldo_gols": 7
 		  },
 		  {
 			"nome": "Uruguai",
@@ -32,9 +32,9 @@
 			"vitorias": 0,
 			"empates": 0,
 			"derrotas": 2,
-			"gols_pro": 0,
+			"gols_pro": 1,
 			"gols_contra": 4,
-			"saldo_gols": -4
+			"saldo_gols": -3
 		  },
 		  {
 			"nome": "Arábia Saudita",
@@ -429,7 +429,7 @@
 			  "gols_mandante": "3",
 			  "visitante": "EGI",
 			  "img_visitante": "assets/imgs/egypt.png",
-			  "gols_visitante": "0",
+			  "gols_visitante": "1",
 			  "data": "TER 19/06/2018 15:00",
 			  "estadio": "São Petesburgo"
 			},
@@ -1170,7 +1170,7 @@
 			"gols_mandante": "3",
 			"visitante": "EGI",
 			"img_visitante": "assets/imgs/egypt.png",
-			"gols_visitante": "0",
+			"gols_visitante": "1",
 			"data": "TER 19/06/2018 15:00",
 			"estadio": "São Petesburgo"
 		}
