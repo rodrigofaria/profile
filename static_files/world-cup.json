@@ -389,9 +389,9 @@
 			"vitorias": 0,
 			"empates": 0,
 			"derrotas": 1,
-			"gols_pro": 0,
+			"gols_pro": 1,
 			"gols_contra": 2,
-			"saldo_gols": -2
+			"saldo_gols": -1
 		  }
 		  
 		]
@@ -905,7 +905,7 @@
 			{
 			  "mandante": "POL",
 			  "img_mandante": "assets/imgs/poland.png",
-			  "gols_mandante": "0",
+			  "gols_mandante": "1",
 			  "visitante": "SEN",
 			  "img_visitante": "assets/imgs/senegal.png",
 			  "gols_visitante": "2",
@@ -1157,7 +1157,7 @@
 		  "nome": "Grupo H",
 		  "mandante": "POL",
 		  "img_mandante": "assets/imgs/poland.png",
-		  "gols_mandante": "0",
+		  "gols_mandante": "1",
 		  "visitante": "SEN",
 		  "img_visitante": "assets/imgs/senegal.png",
 		  "gols_visitante": "2",
