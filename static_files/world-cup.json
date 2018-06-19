@@ -372,17 +372,6 @@
 			"saldo_gols": 2
 		  },
 		  {
-			"nome": "Polônia",
-			"pontos": 0,
-			"jogos": 1,
-			"vitorias": 0,
-			"empates": 0,
-			"derrotas": 1,
-			"gols_pro": 0,
-			"gols_contra": 2,
-			"saldo_gols": -2
-		  },
-		  {
 			"nome": "Colômbia",
 			"pontos": 0,
 			"jogos": 1,
@@ -392,6 +381,17 @@
 			"gols_pro": 1,
 			"gols_contra": 2,
 			"saldo_gols": -1
+		  },
+		  {
+			"nome": "Polônia",
+			"pontos": 0,
+			"jogos": 1,
+			"vitorias": 0,
+			"empates": 0,
+			"derrotas": 1,
+			"gols_pro": 0,
+			"gols_contra": 2,
+			"saldo_gols": -2
 		  }
 		  
 		]
