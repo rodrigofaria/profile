@@ -5,10 +5,10 @@
 		"times": [
 		  {
 			"nome": "Rússia",
-			"pontos": 3,
-			"jogos": 1,
+			"pontos": 4,
+			"jogos": 2,
 			"vitorias": 1,
-			"empates": 0,
+			"empates": 1,
 			"derrotas": 0,
 			"gols_pro": 5,
 			"gols_contra": 0,
@@ -27,16 +27,15 @@
 		  },
 		  {
 			"nome": "Egito",
-			"pontos": 0,
-			"jogos": 1,
+			"pontos": 1,
+			"jogos": 2,
 			"vitorias": 0,
-			"empates": 0,
+			"empates": 1,
 			"derrotas": 1,
 			"gols_pro": 0,
 			"gols_contra": 1,
 			"saldo_gols": -1
 		  },
-
 		  {
 			"nome": "Arábia Saudita",
 			"pontos": 0,
@@ -427,10 +426,10 @@
 			{
 			  "mandante": "RUS",
 			  "img_mandante": "assets/imgs/russia.png",
-			  "gols_mandante": "",
+			  "gols_mandante": "0",
 			  "visitante": "EGI",
 			  "img_visitante": "assets/imgs/egypt.png",
-			  "gols_visitante": "",
+			  "gols_visitante": "0",
 			  "data": "TER 19/06/2018 15:00",
 			  "estadio": "São Petesburgo"
 			},
@@ -1168,10 +1167,10 @@
 			"nome": "Grupo A",
 			"mandante": "RUS",
 			"img_mandante": "assets/imgs/russia.png",
-			"gols_mandante": "",
+			"gols_mandante": "0",
 			"visitante": "EGI",
 			"img_visitante": "assets/imgs/egypt.png",
-			"gols_visitante": "",
+			"gols_visitante": "0",
 			"data": "TER 19/06/2018 15:00",
 			"estadio": "São Petesburgo"
 		}
