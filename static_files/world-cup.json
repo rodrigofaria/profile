@@ -351,10 +351,10 @@
 		"times": [
 		  {
 			"nome": "Colômbia",
-			"pontos": 0,
-			"jogos": 0,
+			"pontos": 1,
+			"jogos": 1,
 			"vitorias": 0,
-			"empates": 0,
+			"empates": 1,
 			"derrotas": 0,
 			"gols_pro": 0,
 			"gols_contra": 0,
@@ -362,10 +362,10 @@
 		  },
 		  {
 			"nome": "Japão",
-			"pontos": 0,
-			"jogos": 0,
+			"pontos": 1,
+			"jogos": 1,
 			"vitorias": 0,
-			"empates": 0,
+			"empates": 1,
 			"derrotas": 0,
 			"gols_pro": 0,
 			"gols_contra": 0,
@@ -894,10 +894,10 @@
 			{
 			  "mandante": "COL",
 			  "img_mandante": "assets/imgs/colombia.png",
-			  "gols_mandante": "",
+			  "gols_mandante": "0",
 			  "visitante": "JAP",
 			  "img_visitante": "assets/imgs/japan.png",
-			  "gols_visitante": "",
+			  "gols_visitante": "0",
 			  "data": "TER 19/06/2018 09:00",
 			  "estadio": "Saransk"
 			},
@@ -1145,10 +1145,10 @@
 		  "nome": "Grupo H",
 		  "mandante": "COL",
 		  "img_mandante": "assets/imgs/colombia.png",
-		  "gols_mandante": "",
+		  "gols_mandante": "0",
 		  "visitante": "JAP",
 		  "img_visitante": "assets/imgs/japan.png",
-		  "gols_visitante": "",
+		  "gols_visitante": "0",
 		  "data": "TER 19/06/2018 09:00",
 		  "estadio": "Saransk"
 		},
