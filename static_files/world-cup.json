@@ -362,10 +362,10 @@
 		  },
 		  {
 			"nome": "Polônia",
-			"pontos": 0,
-			"jogos": 0,
+			"pontos": 1,
+			"jogos": 1,
 			"vitorias": 0,
-			"empates": 0,
+			"empates": 1,
 			"derrotas": 0,
 			"gols_pro": 0,
 			"gols_contra": 0,
@@ -373,10 +373,10 @@
 		  },
 		  {
 			"nome": "Senegal",
-			"pontos": 0,
-			"jogos": 0,
+			"pontos": 1,
+			"jogos": 1,
 			"vitorias": 0,
-			"empates": 0,
+			"empates": 1,
 			"derrotas": 0,
 			"gols_pro": 0,
 			"gols_contra": 0,
@@ -905,10 +905,10 @@
 			{
 			  "mandante": "POL",
 			  "img_mandante": "assets/imgs/poland.png",
-			  "gols_mandante": "",
+			  "gols_mandante": "0",
 			  "visitante": "SEN",
 			  "img_visitante": "assets/imgs/senegal.png",
-			  "gols_visitante": "",
+			  "gols_visitante": "0",
 			  "data": "TER 19/06/2018 12:00",
 			  "estadio": "Spartak"
 			}
@@ -1157,10 +1157,10 @@
 		  "nome": "Grupo H",
 		  "mandante": "POL",
 		  "img_mandante": "assets/imgs/poland.png",
-		  "gols_mandante": "",
+		  "gols_mandante": "0",
 		  "visitante": "SEN",
 		  "img_visitante": "assets/imgs/senegal.png",
-		  "gols_visitante": "",
+		  "gols_visitante": "0",
 		  "data": "TER 19/06/2018 12:00",
 		  "estadio": "Spartak"
 		},
