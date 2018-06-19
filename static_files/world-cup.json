@@ -1142,37 +1142,37 @@
 	],
 	"jogo_do_dia" : [
 		{
-			"nome": "Grupo F",
-			"mandante": "SUE",
-			"img_mandante": "assets/imgs/sweden.png",
-			"gols_mandante": "1",
-			"visitante": "COR",
-			"img_visitante": "assets/imgs/south_korea.png",
-			"gols_visitante": "0",
-			"data": "SEG 18/06/2018 09:00",
-			"estadio": "Nizhny Novgorod"			
+		  "nome": "Grupo H",
+		  "mandante": "COL",
+		  "img_mandante": "assets/imgs/colombia.png",
+		  "gols_mandante": "",
+		  "visitante": "JAP",
+		  "img_visitante": "assets/imgs/japan.png",
+		  "gols_visitante": "",
+		  "data": "TER 19/06/2018 09:00",
+		  "estadio": "Saransk"
 		},
 		{
-		  "nome": "Grupo G",
-		  "mandante": "BEL",
-		  "img_mandante": "assets/imgs/belgium.png",
-		  "gols_mandante": "3",
-		  "visitante": "PAN",
-		  "img_visitante": "assets/imgs/panama.png",
-		  "gols_visitante": "0",
-		  "data": "SEG 18/06/2018 12:00",
-		  "estadio": "Olímpico de Sochi"
+		  "nome": "Grupo H",
+		  "mandante": "POL",
+		  "img_mandante": "assets/imgs/poland.png",
+		  "gols_mandante": "",
+		  "visitante": "SEN",
+		  "img_visitante": "assets/imgs/senegal.png",
+		  "gols_visitante": "",
+		  "data": "TER 19/06/2018 12:00",
+		  "estadio": "Spartak"
 		},
 		{
-		  "nome": "Grupo G",
-		  "mandante": "TUN",
-		  "img_mandante": "assets/imgs/tunisia.png",
-		  "gols_mandante": "1",
-		  "visitante": "ING",
-		  "img_visitante": "assets/imgs/england.png",
-		  "gols_visitante": "2",
-		  "data": "SEG 18/06/2018 15:00",
-		  "estadio": "Volgogrado"
+			"nome": "Grupo G",
+			"mandante": "RUS",
+			"img_mandante": "assets/imgs/russia.png",
+			"gols_mandante": "",
+			"visitante": "EGI",
+			"img_visitante": "assets/imgs/egypt.png",
+			"gols_visitante": "",
+			"data": "TER 19/06/2018 15:00",
+			"estadio": "São Petesburgo"
 		}
 	]
 }
