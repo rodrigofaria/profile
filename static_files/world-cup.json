@@ -53,6 +53,17 @@
 		"grupo": "B",
 		"times": [
 		  {
+			"nome": "Portugal",
+			"pontos": 4,
+			"jogos": 2,
+			"vitorias": 1,
+			"empates": 1,
+			"derrotas": 0,
+			"gols_pro": 4,
+			"gols_contra": 3,
+			"saldo_gols": 1
+		  },
+		  {
 			"nome": "Irã",
 			"pontos": 3,
 			"jogos": 1,
@@ -62,17 +73,6 @@
 			"gols_pro": 1,
 			"gols_contra": 0,
 			"saldo_gols": 1
-		  },
-		  {
-			"nome": "Portugal",
-			"pontos": 2,
-			"jogos": 2,
-			"vitorias": 0,
-			"empates": 2,
-			"derrotas": 0,
-			"gols_pro": 3,
-			"gols_contra": 3,
-			"saldo_gols": 0
 		  },
 		  {
 			"nome": "Espanha",
@@ -87,14 +87,14 @@
 		  },
 		  {
 			"nome": "Marrocos",
-			"pontos": 1,
+			"pontos": 0,
 			"jogos": 2,
 			"vitorias": 0,
-			"empates": 1,
-			"derrotas": 1,
+			"empates": 0,
+			"derrotas": 2,
 			"gols_pro": 0,
-			"gols_contra": 1,
-			"saldo_gols": -1
+			"gols_contra": 2,
+			"saldo_gols": -2
 		  }
 		]
 	  },
@@ -496,7 +496,7 @@
 			{
 			  "mandante": "POR",
 			  "img_mandante": "assets/imgs/portugal.png",
-			  "gols_mandante": "0",
+			  "gols_mandante": "1",
 			  "visitante": "MAR",
 			  "img_visitante": "assets/imgs/morocco.png",
 			  "gols_visitante": "0",
@@ -1145,7 +1145,7 @@
 		  "nome": "Grupo B",
 		  "mandante": "POR",
 		  "img_mandante": "assets/imgs/portugal.png",
-		  "gols_mandante": "0",
+		  "gols_mandante": "1",
 		  "visitante": "MAR",
 		  "img_visitante": "assets/imgs/morocco.png",
 		  "gols_visitante": "0",
