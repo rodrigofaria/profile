@@ -1142,37 +1142,37 @@
 	],
 	"jogo_do_dia" : [
 		{
-		  "nome": "Grupo H",
-		  "mandante": "COL",
-		  "img_mandante": "assets/imgs/colombia.png",
-		  "gols_mandante": "1",
-		  "visitante": "JAP",
-		  "img_visitante": "assets/imgs/japan.png",
-		  "gols_visitante": "2",
-		  "data": "TER 19/06/2018 09:00",
-		  "estadio": "Saransk"
+		  "nome": "Grupo B",
+		  "mandante": "POR",
+		  "img_mandante": "assets/imgs/portugal.png",
+		  "gols_mandante": "",
+		  "visitante": "MAR",
+		  "img_visitante": "assets/imgs/morocco.png",
+		  "gols_visitante": "",
+		  "data": "QUA 20/06/2018 09:00",
+		  "estadio": "Olímpico Lujniki"
 		},
 		{
-		  "nome": "Grupo H",
-		  "mandante": "POL",
-		  "img_mandante": "assets/imgs/poland.png",
-		  "gols_mandante": "1",
-		  "visitante": "SEN",
-		  "img_visitante": "assets/imgs/senegal.png",
-		  "gols_visitante": "2",
-		  "data": "TER 19/06/2018 12:00",
-		  "estadio": "Spartak"
+		  "nome": "Grupo A",
+		  "mandante": "URU",
+		  "img_mandante": "assets/imgs/uruguay.png",
+		  "gols_mandante": "",
+		  "visitante": "ARA",
+		  "img_visitante": "assets/imgs/saudi_arabia.png",
+		  "gols_visitante": "",
+		  "data": "QUA 20/06/2018 12:00",
+		  "estadio": "Rostov"			
 		},
 		{
-			"nome": "Grupo A",
-			"mandante": "RUS",
-			"img_mandante": "assets/imgs/russia.png",
-			"gols_mandante": "3",
-			"visitante": "EGI",
-			"img_visitante": "assets/imgs/egypt.png",
-			"gols_visitante": "1",
-			"data": "TER 19/06/2018 15:00",
-			"estadio": "São Petesburgo"
+		  "nome": "Grupo B",
+		  "mandante": "IRA",
+		  "img_mandante": "assets/imgs/iran.png",
+		  "gols_mandante": "",
+		  "visitante": "ESP",
+		  "img_visitante": "assets/imgs/spain.png",
+		  "gols_visitante": "",
+		  "data": "QUA 20/06/2018 15:00",
+		  "estadio": "Arena Kazan"
 		}
 	]
 }
