@@ -64,6 +64,17 @@
 			"saldo_gols": 1
 		  },
 		  {
+			"nome": "Portugal",
+			"pontos": 2,
+			"jogos": 2,
+			"vitorias": 0,
+			"empates": 2,
+			"derrotas": 0,
+			"gols_pro": 3,
+			"gols_contra": 3,
+			"saldo_gols": 0
+		  },
+		  {
 			"nome": "Espanha",
 			"pontos": 1,
 			"jogos": 1,
@@ -75,22 +86,11 @@
 			"saldo_gols": 0
 		  },
 		  {
-			"nome": "Portugal",
+			"nome": "Marrocos",
 			"pontos": 1,
-			"jogos": 1,
+			"jogos": 2,
 			"vitorias": 0,
 			"empates": 1,
-			"derrotas": 0,
-			"gols_pro": 3,
-			"gols_contra": 3,
-			"saldo_gols": 0
-		  },
-		  {
-			"nome": "Marrocos",
-			"pontos": 0,
-			"jogos": 1,
-			"vitorias": 0,
-			"empates": 0,
 			"derrotas": 1,
 			"gols_pro": 0,
 			"gols_contra": 1,
@@ -496,10 +496,10 @@
 			{
 			  "mandante": "POR",
 			  "img_mandante": "assets/imgs/portugal.png",
-			  "gols_mandante": "",
+			  "gols_mandante": "0",
 			  "visitante": "MAR",
 			  "img_visitante": "assets/imgs/morocco.png",
-			  "gols_visitante": "",
+			  "gols_visitante": "0",
 			  "data": "QUA 20/06/2018 09:00",
 			  "estadio": "Olímpico Lujniki"
 			},
@@ -1145,10 +1145,10 @@
 		  "nome": "Grupo B",
 		  "mandante": "POR",
 		  "img_mandante": "assets/imgs/portugal.png",
-		  "gols_mandante": "",
+		  "gols_mandante": "0",
 		  "visitante": "MAR",
 		  "img_visitante": "assets/imgs/morocco.png",
-		  "gols_visitante": "",
+		  "gols_visitante": "0",
 		  "data": "QUA 20/06/2018 09:00",
 		  "estadio": "Olímpico Lujniki"
 		},
