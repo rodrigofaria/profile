@@ -65,10 +65,10 @@
 		  },
 		  {
 			"nome": "Irã",
-			"pontos": 3,
-			"jogos": 1,
+			"pontos": 4,
+			"jogos": 2,
 			"vitorias": 1,
-			"empates": 0,
+			"empates": 1,
 			"derrotas": 0,
 			"gols_pro": 1,
 			"gols_contra": 0,
@@ -76,10 +76,10 @@
 		  },
 		  {
 			"nome": "Espanha",
-			"pontos": 1,
-			"jogos": 1,
+			"pontos": 2,
+			"jogos": 2,
 			"vitorias": 0,
-			"empates": 1,
+			"empates": 2,
 			"derrotas": 0,
 			"gols_pro": 3,
 			"gols_contra": 3,
@@ -506,10 +506,10 @@
 			{
 			  "mandante": "IRA",
 			  "img_mandante": "assets/imgs/iran.png",
-			  "gols_mandante": "",
+			  "gols_mandante": "0",
 			  "visitante": "ESP",
 			  "img_visitante": "assets/imgs/spain.png",
-			  "gols_visitante": "",
+			  "gols_visitante": "0",
 			  "data": "QUA 20/06/2018 15:00",
 			  "estadio": "Arena Kazan"
 			}
@@ -1167,10 +1167,10 @@
 		  "nome": "Grupo B",
 		  "mandante": "IRA",
 		  "img_mandante": "assets/imgs/iran.png",
-		  "gols_mandante": "",
+		  "gols_mandante": "0",
 		  "visitante": "ESP",
 		  "img_visitante": "assets/imgs/spain.png",
-		  "gols_visitante": "",
+		  "gols_visitante": "0",
 		  "data": "QUA 20/06/2018 15:00",
 		  "estadio": "Arena Kazan"
 		}
