@@ -16,14 +16,14 @@
 		  },
 		  {
 			"nome": "Uruguai",
-			"pontos": 3,
-			"jogos": 1,
-			"vitorias": 1,
+			"pontos": 6,
+			"jogos": 2,
+			"vitorias": 2,
 			"empates": 0,
 			"derrotas": 0,
-			"gols_pro": 1,
+			"gols_pro": 2,
 			"gols_contra": 0,
-			"saldo_gols": 1
+			"saldo_gols": 2
 		  },
 		  {
 			"nome": "Egito",
@@ -39,13 +39,13 @@
 		  {
 			"nome": "Arábia Saudita",
 			"pontos": 0,
-			"jogos": 1,
+			"jogos": 2,
 			"vitorias": 0,
 			"empates": 0,
-			"derrotas": 1,
+			"derrotas": 2,
 			"gols_pro": 0,
-			"gols_contra": 5,
-			"saldo_gols": -5
+			"gols_contra": 6,
+			"saldo_gols": -6
 		  }
 		]
 	  },
@@ -436,10 +436,10 @@
 			{
 			  "mandante": "URU",
 			  "img_mandante": "assets/imgs/uruguay.png",
-			  "gols_mandante": "",
+			  "gols_mandante": "1",
 			  "visitante": "ARA",
 			  "img_visitante": "assets/imgs/saudi_arabia.png",
-			  "gols_visitante": "",
+			  "gols_visitante": "0",
 			  "data": "QUA 20/06/2018 12:00",
 			  "estadio": "Rostov"
 			}
@@ -1156,10 +1156,10 @@
 		  "nome": "Grupo A",
 		  "mandante": "URU",
 		  "img_mandante": "assets/imgs/uruguay.png",
-		  "gols_mandante": "",
+		  "gols_mandante": "1",
 		  "visitante": "ARA",
 		  "img_visitante": "assets/imgs/saudi_arabia.png",
-		  "gols_visitante": "",
+		  "gols_visitante": "0",
 		  "data": "QUA 20/06/2018 12:00",
 		  "estadio": "Rostov"			
 		},
