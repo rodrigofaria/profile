@@ -108,8 +108,8 @@
 			"vitorias": 1,
 			"empates": 1,
 			"derrotas": 0,
-			"gols_pro": 1,
-			"gols_contra": 0,
+			"gols_pro": 2,
+			"gols_contra": 1,
 			"saldo_gols": 1
 		  },
 		  {
@@ -130,8 +130,8 @@
 			"vitorias": 0,
 			"empates": 1,
 			"derrotas": 1,
-			"gols_pro": 1,
-			"gols_contra": 2,
+			"gols_pro": 2,
+			"gols_contra": 3,
 			"saldo_gols": -1
 		  },
 		  {
@@ -566,10 +566,10 @@
 			{
 			  "mandante": "DIN",
 			  "img_mandante": "assets/imgs/denmark.png",
-			  "gols_mandante": "0",
+			  "gols_mandante": "1",
 			  "visitante": "AUS",
 			  "img_visitante": "assets/imgs/australia.png",
-			  "gols_visitante": "0",
+			  "gols_visitante": "1",
 			  "data": "QUI 21/06/2018 09:00",
 			  "estadio": "Samara"
 			},
@@ -1145,10 +1145,10 @@
 		  "nome": "Grupo C",
 		  "mandante": "DIN",
 		  "img_mandante": "assets/imgs/denmark.png",
-		  "gols_mandante": "0",
+		  "gols_mandante": "1",
 		  "visitante": "AUS",
 		  "img_visitante": "assets/imgs/australia.png",
-		  "gols_visitante": "0",
+		  "gols_visitante": "1",
 		  "data": "QUI 21/06/2018 09:00",
 		  "estadio": "Samara"
 		},
