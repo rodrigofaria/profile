@@ -152,10 +152,10 @@
 		"times": [
 		  {
 			"nome": "Croácia",
-			"pontos": 3,
-			"jogos": 1,
+			"pontos": 4,
+			"jogos": 2,
 			"vitorias": 1,
-			"empates": 0,
+			"empates": 1,
 			"derrotas": 0,
 			"gols_pro": 2,
 			"gols_contra": 0,
@@ -163,10 +163,10 @@
 		  },
 		  {
 			"nome": "Argentina",
-			"pontos": 1,
-			"jogos": 1,
+			"pontos": 2,
+			"jogos": 2,
 			"vitorias": 0,
-			"empates": 1,
+			"empates": 2,
 			"derrotas": 0,
 			"gols_pro": 1,
 			"gols_contra": 1,
