@@ -1142,37 +1142,37 @@
 	],
 	"jogo_do_dia" : [
 		{
-		  "nome": "Grupo B",
-		  "mandante": "POR",
-		  "img_mandante": "assets/imgs/portugal.png",
-		  "gols_mandante": "1",
-		  "visitante": "MAR",
-		  "img_visitante": "assets/imgs/morocco.png",
-		  "gols_visitante": "0",
-		  "data": "QUA 20/06/2018 09:00",
-		  "estadio": "Olímpico Lujniki"
+		  "nome": "Grupo C",
+		  "mandante": "DIN",
+		  "img_mandante": "assets/imgs/denmark.png",
+		  "gols_mandante": "",
+		  "visitante": "AUS",
+		  "img_visitante": "assets/imgs/australia.png",
+		  "gols_visitante": "",
+		  "data": "QUI 21/06/2018 09:00",
+		  "estadio": "Samara"
 		},
 		{
-		  "nome": "Grupo A",
-		  "mandante": "URU",
-		  "img_mandante": "assets/imgs/uruguay.png",
-		  "gols_mandante": "1",
-		  "visitante": "ARA",
-		  "img_visitante": "assets/imgs/saudi_arabia.png",
-		  "gols_visitante": "0",
-		  "data": "QUA 20/06/2018 12:00",
-		  "estadio": "Rostov"			
+		  "nome": "Grupo C",
+		  "mandante": "FRA",
+		  "img_mandante": "assets/imgs/france.png",
+		  "gols_mandante": "",
+		  "visitante": "PER",
+		  "img_visitante": "assets/imgs/peru.png",
+		  "gols_visitante": "",
+		  "data": "QUI 21/06/2018 12:00",
+		  "estadio": "Ecaterimburgo"
 		},
 		{
-		  "nome": "Grupo B",
-		  "mandante": "IRA",
-		  "img_mandante": "assets/imgs/iran.png",
-		  "gols_mandante": "0",
-		  "visitante": "ESP",
-		  "img_visitante": "assets/imgs/spain.png",
-		  "gols_visitante": "1",
-		  "data": "QUA 20/06/2018 15:00",
-		  "estadio": "Arena Kazan"
+		  "nome": "Grupo D",
+		  "mandante": "ARG",
+		  "img_mandante": "assets/imgs/argentina.png",
+		  "gols_mandante": "",
+		  "visitante": "CRO",
+		  "img_visitante": "assets/imgs/croatia.png",
+		  "gols_visitante": "",
+		  "data": "QUI 21/06/2018 15:00",
+		  "estadio": "Nizhny Novgorod"
 		}
 	]
 }
