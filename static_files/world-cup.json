@@ -636,10 +636,10 @@
 			{
 			  "mandante": "ARG",
 			  "img_mandante": "assets/imgs/argentina.png",
-			  "gols_mandante": "",
+			  "gols_mandante": "0",
 			  "visitante": "CRO",
 			  "img_visitante": "assets/imgs/croatia.png",
-			  "gols_visitante": "",
+			  "gols_visitante": "0",
 			  "data": "QUI 21/06/2018 15:00",
 			  "estadio": "Nizhny Novgorod"
 			},
@@ -1167,10 +1167,10 @@
 		  "nome": "Grupo D",
 		  "mandante": "ARG",
 		  "img_mandante": "assets/imgs/argentina.png",
-		  "gols_mandante": "",
+		  "gols_mandante": "0",
 		  "visitante": "CRO",
 		  "img_visitante": "assets/imgs/croatia.png",
-		  "gols_visitante": "",
+		  "gols_visitante": "0",
 		  "data": "QUI 21/06/2018 15:00",
 		  "estadio": "Nizhny Novgorod"
 		}
