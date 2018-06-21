@@ -102,18 +102,18 @@
 		"grupo": "C",
 		"times": [
 		  {
-			"nome": "Dinamarca",
-			"pontos": 4,
+			"nome": "França",
+			"pontos": 6,
 			"jogos": 2,
-			"vitorias": 1,
-			"empates": 1,
+			"vitorias": 2,
+			"empates": 0,
 			"derrotas": 0,
-			"gols_pro": 2,
+			"gols_pro": 3,
 			"gols_contra": 1,
-			"saldo_gols": 1
+			"saldo_gols": 2
 		  },
 		  {
-			"nome": "França",
+			"nome": "Dinamarca",
 			"pontos": 4,
 			"jogos": 2,
 			"vitorias": 1,
@@ -136,14 +136,14 @@
 		  },
 		  {
 			"nome": "Peru",
-			"pontos": 1,
+			"pontos": 0,
 			"jogos": 2,
 			"vitorias": 0,
-			"empates": 1,
-			"derrotas": 1,
+			"empates": 0,
+			"derrotas": 2,
 			"gols_pro": 0,
-			"gols_contra": 1,
-			"saldo_gols": -1
+			"gols_contra": 2,
+			"saldo_gols": -2
 		  }
 		]
 	  },
@@ -576,7 +576,7 @@
 			{
 			  "mandante": "FRA",
 			  "img_mandante": "assets/imgs/france.png",
-			  "gols_mandante": "0",
+			  "gols_mandante": "1",
 			  "visitante": "PER",
 			  "img_visitante": "assets/imgs/peru.png",
 			  "gols_visitante": "0",
@@ -1156,7 +1156,7 @@
 		  "nome": "Grupo C",
 		  "mandante": "FRA",
 		  "img_mandante": "assets/imgs/france.png",
-		  "gols_mandante": "0",
+		  "gols_mandante": "1",
 		  "visitante": "PER",
 		  "img_visitante": "assets/imgs/peru.png",
 		  "gols_visitante": "0",
