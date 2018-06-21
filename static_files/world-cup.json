@@ -152,25 +152,25 @@
 		"times": [
 		  {
 			"nome": "Croácia",
-			"pontos": 4,
+			"pontos": 6,
 			"jogos": 2,
-			"vitorias": 1,
-			"empates": 1,
+			"vitorias": 2,
+			"empates": 0,
 			"derrotas": 0,
-			"gols_pro": 2,
+			"gols_pro": 3,
 			"gols_contra": 0,
-			"saldo_gols": 2
+			"saldo_gols": 3
 		  },
 		  {
 			"nome": "Argentina",
-			"pontos": 2,
+			"pontos": 1,
 			"jogos": 2,
 			"vitorias": 0,
-			"empates": 2,
-			"derrotas": 0,
+			"empates": 1,
+			"derrotas": 1,
 			"gols_pro": 1,
-			"gols_contra": 1,
-			"saldo_gols": 0
+			"gols_contra": 2,
+			"saldo_gols": -1
 		  },
 		  {
 			"nome": "Islândia",
@@ -639,7 +639,7 @@
 			  "gols_mandante": "0",
 			  "visitante": "CRO",
 			  "img_visitante": "assets/imgs/croatia.png",
-			  "gols_visitante": "0",
+			  "gols_visitante": "1",
 			  "data": "QUI 21/06/2018 15:00",
 			  "estadio": "Nizhny Novgorod"
 			},
@@ -1170,7 +1170,7 @@
 		  "gols_mandante": "0",
 		  "visitante": "CRO",
 		  "img_visitante": "assets/imgs/croatia.png",
-		  "gols_visitante": "0",
+		  "gols_visitante": "1",
 		  "data": "QUI 21/06/2018 15:00",
 		  "estadio": "Nizhny Novgorod"
 		}
