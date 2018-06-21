@@ -114,10 +114,10 @@
 		  },
 		  {
 			"nome": "França",
-			"pontos": 3,
-			"jogos": 1,
+			"pontos": 4,
+			"jogos": 2,
 			"vitorias": 1,
-			"empates": 0,
+			"empates": 1,
 			"derrotas": 0,
 			"gols_pro": 2,
 			"gols_contra": 1,
@@ -136,10 +136,10 @@
 		  },
 		  {
 			"nome": "Peru",
-			"pontos": 0,
-			"jogos": 1,
+			"pontos": 1,
+			"jogos": 2,
 			"vitorias": 0,
-			"empates": 0,
+			"empates": 1,
 			"derrotas": 1,
 			"gols_pro": 0,
 			"gols_contra": 1,
@@ -576,10 +576,10 @@
 			{
 			  "mandante": "FRA",
 			  "img_mandante": "assets/imgs/france.png",
-			  "gols_mandante": "",
+			  "gols_mandante": "0",
 			  "visitante": "PER",
 			  "img_visitante": "assets/imgs/peru.png",
-			  "gols_visitante": "",
+			  "gols_visitante": "0",
 			  "data": "QUI 21/06/2018 12:00",
 			  "estadio": "Ecaterimburgo"
 			}
@@ -1156,10 +1156,10 @@
 		  "nome": "Grupo C",
 		  "mandante": "FRA",
 		  "img_mandante": "assets/imgs/france.png",
-		  "gols_mandante": "",
+		  "gols_mandante": "0",
 		  "visitante": "PER",
 		  "img_visitante": "assets/imgs/peru.png",
-		  "gols_visitante": "",
+		  "gols_visitante": "0",
 		  "data": "QUI 21/06/2018 12:00",
 		  "estadio": "Ecaterimburgo"
 		},
