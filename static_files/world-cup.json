@@ -211,17 +211,6 @@
 			"saldo_gols": 2
 		  },
 		  {
-			"nome": "Sérvia",
-			"pontos": 3,
-			"jogos": 2,
-			"vitorias": 1,
-			"empates": 0,
-			"derrotas": 1,
-			"gols_pro": 2,
-			"gols_contra": 2,
-			"saldo_gols": 0
-		  },
-		  {
 			"nome": "Suíça",
 			"pontos": 4,
 			"jogos": 2,
@@ -231,6 +220,17 @@
 			"gols_pro": 3,
 			"gols_contra": 2,
 			"saldo_gols": 1
+		  },
+		  {
+			"nome": "Sérvia",
+			"pontos": 3,
+			"jogos": 2,
+			"vitorias": 1,
+			"empates": 0,
+			"derrotas": 1,
+			"gols_pro": 2,
+			"gols_contra": 2,
+			"saldo_gols": 0
 		  },
 		  {
 			"nome": "Costa Rica",
