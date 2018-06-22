@@ -163,14 +163,25 @@
 		  },
 		  {
 			"nome": "Islândia",
-			"pontos": 1,
-			"jogos": 1,
+			"pontos": 2,
+			"jogos": 2,
 			"vitorias": 0,
-			"empates": 1,
+			"empates": 2,
 			"derrotas": 0,
 			"gols_pro": 1,
 			"gols_contra": 1,
 			"saldo_gols": 0
+		  },
+		  {
+			"nome": "Nigéria",
+			"pontos": 1,
+			"jogos": 2,
+			"vitorias": 0,
+			"empates": 1,
+			"derrotas": 1,
+			"gols_pro": 0,
+			"gols_contra": 2,
+			"saldo_gols": -2
 		  },
 		  {
 			"nome": "Argentina",
@@ -182,17 +193,6 @@
 			"gols_pro": 1,
 			"gols_contra": 4,
 			"saldo_gols": -3
-		  },
-		  {
-			"nome": "Nigéria",
-			"pontos": 0,
-			"jogos": 1,
-			"vitorias": 0,
-			"empates": 0,
-			"derrotas": 1,
-			"gols_pro": 0,
-			"gols_contra": 2,
-			"saldo_gols": -2
 		  }
 		]
 	  },
@@ -206,9 +206,9 @@
 			"vitorias": 1,
 			"empates": 1,
 			"derrotas": 0,
-			"gols_pro": 2,
+			"gols_pro": 3,
 			"gols_contra": 1,
-			"saldo_gols": 1
+			"saldo_gols": 2
 		  },
 		  {
 			"nome": "Sérvia",
@@ -240,8 +240,8 @@
 			"empates": 0,
 			"derrotas": 2,
 			"gols_pro": 0,
-			"gols_contra": 2,
-			"saldo_gols": -2
+			"gols_contra": 3,
+			"saldo_gols": -3
 		  }
 		]
 	  },
@@ -644,10 +644,10 @@
 			{
 			  "mandante": "NIG",
 			  "img_mandante": "assets/imgs/nigeria.png",
-			  "gols_mandante": "",
+			  "gols_mandante": "0",
 			  "visitante": "ISL",
 			  "img_visitante": "assets/imgs/iceland.png",
-			  "gols_visitante": "",
+			  "gols_visitante": "0",
 			  "data": "SEX 22/06/2018 12:00",
 			  "estadio": "Volgogrado"
 			}
@@ -704,7 +704,7 @@
 			{
 			  "mandante": "BRA",
 			  "img_mandante": "assets/imgs/brazil.png",
-			  "gols_mandante": "1",
+			  "gols_mandante": "2",
 			  "visitante": "COS",
 			  "img_visitante": "assets/imgs/costa_rica.png",
 			  "gols_visitante": "0",
@@ -1122,7 +1122,7 @@
 		{
 			"nome": "2º Jogo da fase de grupos",
 			"mandante": "BRA",
-			"gols_mandante": "1",
+			"gols_mandante": "2",
 			"img_mandante": "assets/imgs/brazil.png",
 			"visitante": "COS",
 			"gols_visitante": "0",
@@ -1145,7 +1145,7 @@
 		  "nome": "Grupo E",
 		  "mandante": "BRA",
 		  "img_mandante": "assets/imgs/brazil.png",
-		  "gols_mandante": "1",
+		  "gols_mandante": "2",
 		  "visitante": "COS",
 		  "img_visitante": "assets/imgs/costa_rica.png",
 		  "gols_visitante": "0",
@@ -1156,10 +1156,10 @@
 		  "nome": "Grupo D",
 		  "mandante": "NIG",
 		  "img_mandante": "assets/imgs/nigeria.png",
-		  "gols_mandante": "",
+		  "gols_mandante": "0",
 		  "visitante": "ISL",
 		  "img_visitante": "assets/imgs/iceland.png",
-		  "gols_visitante": "",
+		  "gols_visitante": "0",
 		  "data": "SEX 22/06/2018 12:00",
 		  "estadio": "Volgogrado"
 		},
