@@ -212,10 +212,10 @@
 		  },
 		  {
 			"nome": "Sérvia",
-			"pontos": 3,
-			"jogos": 1,
+			"pontos": 4,
+			"jogos": 2,
 			"vitorias": 1,
-			"empates": 0,
+			"empates": 1,
 			"derrotas": 0,
 			"gols_pro": 1,
 			"gols_contra": 0,
@@ -223,10 +223,10 @@
 		  },
 		  {
 			"nome": "Suíça",
-			"pontos": 1,
-			"jogos": 1,
+			"pontos": 2,
+			"jogos": 2,
 			"vitorias": 0,
-			"empates": 1,
+			"empates": 2,
 			"derrotas": 0,
 			"gols_pro": 1,
 			"gols_contra": 1,
@@ -714,10 +714,10 @@
 			{
 			  "mandante": "SER",
 			  "img_mandante": "assets/imgs/serbia.png",
-			  "gols_mandante": "",
+			  "gols_mandante": "0",
 			  "visitante": "SUI",
 			  "img_visitante": "assets/imgs/switzerland.png",
-			  "gols_visitante": "",
+			  "gols_visitante": "0",
 			  "data": "SEX 22/06/2018 15:00",
 			  "estadio": "Kaliningrado"
 			}
@@ -1167,10 +1167,10 @@
 		  "nome": "Grupo E",
 		  "mandante": "SER",
 		  "img_mandante": "assets/imgs/serbia.png",
-		  "gols_mandante": "",
+		  "gols_mandante": "0",
 		  "visitante": "SUI",
 		  "img_visitante": "assets/imgs/switzerland.png",
-		  "gols_visitante": "",
+		  "gols_visitante": "0",
 		  "data": "SEX 22/06/2018 15:00",
 		  "estadio": "Kaliningrado"
 		}
