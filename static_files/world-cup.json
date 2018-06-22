@@ -1142,37 +1142,37 @@
 	],
 	"jogo_do_dia" : [
 		{
-		  "nome": "Grupo C",
-		  "mandante": "DIN",
-		  "img_mandante": "assets/imgs/denmark.png",
-		  "gols_mandante": "1",
-		  "visitante": "AUS",
-		  "img_visitante": "assets/imgs/australia.png",
-		  "gols_visitante": "1",
-		  "data": "QUI 21/06/2018 09:00",
-		  "estadio": "Samara"
-		},
-		{
-		  "nome": "Grupo C",
-		  "mandante": "FRA",
-		  "img_mandante": "assets/imgs/france.png",
-		  "gols_mandante": "1",
-		  "visitante": "PER",
-		  "img_visitante": "assets/imgs/peru.png",
-		  "gols_visitante": "0",
-		  "data": "QUI 21/06/2018 12:00",
-		  "estadio": "Ecaterimburgo"
+		  "nome": "Grupo E",
+		  "mandante": "BRA",
+		  "img_mandante": "assets/imgs/brazil.png",
+		  "gols_mandante": "",
+		  "visitante": "COS",
+		  "img_visitante": "assets/imgs/costa_rica.png",
+		  "gols_visitante": "",
+		  "data": "SEX 22/06/2018 09:00",
+		  "estadio": "São Petesburgo"
 		},
 		{
 		  "nome": "Grupo D",
-		  "mandante": "ARG",
-		  "img_mandante": "assets/imgs/argentina.png",
-		  "gols_mandante": "0",
-		  "visitante": "CRO",
-		  "img_visitante": "assets/imgs/croatia.png",
-		  "gols_visitante": "3",
-		  "data": "QUI 21/06/2018 15:00",
-		  "estadio": "Nizhny Novgorod"
+		  "mandante": "NIG",
+		  "img_mandante": "assets/imgs/nigeria.png",
+		  "gols_mandante": "",
+		  "visitante": "ISL",
+		  "img_visitante": "assets/imgs/iceland.png",
+		  "gols_visitante": "",
+		  "data": "SEX 22/06/2018 12:00",
+		  "estadio": "Volgogrado"
+		},
+		{
+		  "nome": "Grupo E",
+		  "mandante": "SER",
+		  "img_mandante": "assets/imgs/serbia.png",
+		  "gols_mandante": "",
+		  "visitante": "SUI",
+		  "img_visitante": "assets/imgs/switzerland.png",
+		  "gols_visitante": "",
+		  "data": "SEX 22/06/2018 15:00",
+		  "estadio": "Kaliningrado"
 		}
 	]
 }
