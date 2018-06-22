@@ -162,26 +162,26 @@
 			"saldo_gols": 5
 		  },
 		  {
-			"nome": "Islândia",
-			"pontos": 2,
+			"nome": "Nigéria",
+			"pontos": 3,
 			"jogos": 2,
-			"vitorias": 0,
-			"empates": 2,
-			"derrotas": 0,
+			"vitorias": 1,
+			"empates": 0,
+			"derrotas": 1,
 			"gols_pro": 1,
-			"gols_contra": 1,
-			"saldo_gols": 0
+			"gols_contra": 2,
+			"saldo_gols": -1
 		  },
 		  {
-			"nome": "Nigéria",
+			"nome": "Islândia",
 			"pontos": 1,
 			"jogos": 2,
 			"vitorias": 0,
 			"empates": 1,
 			"derrotas": 1,
-			"gols_pro": 0,
+			"gols_pro": 1,
 			"gols_contra": 2,
-			"saldo_gols": -2
+			"saldo_gols": -1
 		  },
 		  {
 			"nome": "Argentina",
@@ -644,7 +644,7 @@
 			{
 			  "mandante": "NIG",
 			  "img_mandante": "assets/imgs/nigeria.png",
-			  "gols_mandante": "0",
+			  "gols_mandante": "1",
 			  "visitante": "ISL",
 			  "img_visitante": "assets/imgs/iceland.png",
 			  "gols_visitante": "0",
@@ -1156,7 +1156,7 @@
 		  "nome": "Grupo D",
 		  "mandante": "NIG",
 		  "img_mandante": "assets/imgs/nigeria.png",
-		  "gols_mandante": "0",
+		  "gols_mandante": "1",
 		  "visitante": "ISL",
 		  "img_visitante": "assets/imgs/iceland.png",
 		  "gols_visitante": "0",
