@@ -212,25 +212,25 @@
 		  },
 		  {
 			"nome": "Sérvia",
+			"pontos": 3,
+			"jogos": 2,
+			"vitorias": 1,
+			"empates": 0,
+			"derrotas": 1,
+			"gols_pro": 2,
+			"gols_contra": 2,
+			"saldo_gols": 0
+		  },
+		  {
+			"nome": "Suíça",
 			"pontos": 4,
 			"jogos": 2,
 			"vitorias": 1,
 			"empates": 1,
 			"derrotas": 0,
-			"gols_pro": 2,
-			"gols_contra": 1,
-			"saldo_gols": 1
-		  },
-		  {
-			"nome": "Suíça",
-			"pontos": 2,
-			"jogos": 2,
-			"vitorias": 0,
-			"empates": 2,
-			"derrotas": 0,
-			"gols_pro": 2,
+			"gols_pro": 3,
 			"gols_contra": 2,
-			"saldo_gols": 0
+			"saldo_gols": 1
 		  },
 		  {
 			"nome": "Costa Rica",
@@ -717,7 +717,7 @@
 			  "gols_mandante": "1",
 			  "visitante": "SUI",
 			  "img_visitante": "assets/imgs/switzerland.png",
-			  "gols_visitante": "1",
+			  "gols_visitante": "2",
 			  "data": "SEX 22/06/2018 15:00",
 			  "estadio": "Kaliningrado"
 			}
@@ -1170,7 +1170,7 @@
 		  "gols_mandante": "1",
 		  "visitante": "SUI",
 		  "img_visitante": "assets/imgs/switzerland.png",
-		  "gols_visitante": "1",
+		  "gols_visitante": "2",
 		  "data": "SEX 22/06/2018 15:00",
 		  "estadio": "Kaliningrado"
 		}
