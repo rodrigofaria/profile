@@ -53,7 +53,7 @@
 		"grupo": "B",
 		"times": [
 		  {
-			"nome": "Portugal",
+			"nome": "Espanha",
 			"pontos": 4,
 			"jogos": 2,
 			"vitorias": 1,
@@ -64,7 +64,7 @@
 			"saldo_gols": 1
 		  },
 		  {
-			"nome": "Espanha",
+			"nome": "Portugal",
 			"pontos": 4,
 			"jogos": 2,
 			"vitorias": 1,
@@ -251,17 +251,6 @@
 		"grupo": "F",
 		"times": [
 		  {
-			"nome": "México",
-			"pontos": 3,
-			"jogos": 1,
-			"vitorias": 1,
-			"empates": 0,
-			"derrotas": 0,
-			"gols_pro": 1,
-			"gols_contra": 0,
-			"saldo_gols": 1
-		  },
-		  {
 			"nome": "Suécia",
 			"pontos": 3,
 			"jogos": 1,
@@ -273,7 +262,18 @@
 			"saldo_gols": 1
 		  },
 		  {
-			"nome": "Coreia do Sul",
+			"nome": "México",
+			"pontos": 3,
+			"jogos": 1,
+			"vitorias": 1,
+			"empates": 0,
+			"derrotas": 0,
+			"gols_pro": 1,
+			"gols_contra": 0,
+			"saldo_gols": 1
+		  },
+		  {
+			"nome": "Alemanha",
 			"pontos": 0,
 			"jogos": 1,
 			"vitorias": 0,
@@ -284,7 +284,7 @@
 			"saldo_gols": -1
 		  },
 		  {
-			"nome": "Alemanha",
+			"nome": "Coreia do Sul",
 			"pontos": 0,
 			"jogos": 1,
 			"vitorias": 0,
@@ -371,7 +371,7 @@
 			"saldo_gols": 1
 		  },
 		  {
-			"nome": "Colômbia",
+			"nome": "Polônia",
 			"pontos": 0,
 			"jogos": 1,
 			"vitorias": 0,
@@ -382,7 +382,7 @@
 			"saldo_gols": -1
 		  },
 		  {
-			"nome": "Polônia",
+			"nome": "Colômbia",
 			"pontos": 0,
 			"jogos": 1,
 			"vitorias": 0,
