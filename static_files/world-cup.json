@@ -304,9 +304,9 @@
 			"vitorias": 2,
 			"empates": 0,
 			"derrotas": 0,
-			"gols_pro": 6,
+			"gols_pro": 7,
 			"gols_contra": 1,
-			"saldo_gols": 5
+			"saldo_gols": 6
 		  },
 		  {
 			"nome": "Inglaterra",
@@ -338,8 +338,8 @@
 			"empates": 0,
 			"derrotas": 2,
 			"gols_pro": 2,
-			"gols_contra": 5,
-			"saldo_gols": -3
+			"gols_contra": 6,
+			"saldo_gols": -4
 		  }
 		]
 	  },
@@ -844,7 +844,7 @@
 			{
 			  "mandante": "BEL",
 			  "img_mandante": "assets/imgs/belgium.png",
-			  "gols_mandante": "3",
+			  "gols_mandante": "4",
 			  "visitante": "TUN",
 			  "img_visitante": "assets/imgs/tunisia.png",
 			  "gols_visitante": "1",
@@ -1145,7 +1145,7 @@
 		  "nome": "Grupo G",
 		  "mandante": "BEL",
 		  "img_mandante": "assets/imgs/belgium.png",
-		  "gols_mandante": "3",
+		  "gols_mandante": "4",
 		  "visitante": "TUN",
 		  "img_visitante": "assets/imgs/tunisia.png",
 		  "gols_visitante": "1",
