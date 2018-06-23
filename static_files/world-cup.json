@@ -1142,37 +1142,37 @@
 	],
 	"jogo_do_dia" : [
 		{
-		  "nome": "Grupo E",
-		  "mandante": "BRA",
-		  "img_mandante": "assets/imgs/brazil.png",
-		  "gols_mandante": "2",
-		  "visitante": "COS",
-		  "img_visitante": "assets/imgs/costa_rica.png",
-		  "gols_visitante": "0",
-		  "data": "SEX 22/06/2018 09:00",
-		  "estadio": "São Petesburgo"
+		  "nome": "Grupo G",
+		  "mandante": "BEL",
+		  "img_mandante": "assets/imgs/belgium.png",
+		  "gols_mandante": "",
+		  "visitante": "TUN",
+		  "img_visitante": "assets/imgs/tunisia.png",
+		  "gols_visitante": "",
+		  "data": "SAB 23/06/2018 09:00",
+		  "estadio": "Spartak"
 		},
 		{
-		  "nome": "Grupo D",
-		  "mandante": "NIG",
-		  "img_mandante": "assets/imgs/nigeria.png",
-		  "gols_mandante": "2",
-		  "visitante": "ISL",
-		  "img_visitante": "assets/imgs/iceland.png",
-		  "gols_visitante": "0",
-		  "data": "SEX 22/06/2018 12:00",
-		  "estadio": "Volgogrado"
+		  "nome": "Grupo F",
+		  "mandante": "COR",
+		  "img_mandante": "assets/imgs/south_korea.png",
+		  "gols_mandante": "",
+		  "visitante": "MEX",
+		  "img_visitante": "assets/imgs/mexico.png",
+		  "gols_visitante": "",
+		  "data": "SAB 23/06/2018 12:00",
+		  "estadio": "Rostov"
 		},
 		{
-		  "nome": "Grupo E",
-		  "mandante": "SER",
-		  "img_mandante": "assets/imgs/serbia.png",
-		  "gols_mandante": "1",
-		  "visitante": "SUI",
-		  "img_visitante": "assets/imgs/switzerland.png",
-		  "gols_visitante": "2",
-		  "data": "SEX 22/06/2018 15:00",
-		  "estadio": "Kaliningrado"
+		  "nome": "Grupo F",
+		  "mandante": "ALE",
+		  "img_mandante": "assets/imgs/germany.png",
+		  "gols_mandante": "",
+		  "visitante": "SUE",
+		  "img_visitante": "assets/imgs/sweden.png",
+		  "gols_visitante": "",
+		  "data": "SAB 23/06/2018 15:00",
+		  "estadio": "Olímpico de Sochi"
 		}
 	]
 }
