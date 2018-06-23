@@ -304,9 +304,9 @@
 			"vitorias": 2,
 			"empates": 0,
 			"derrotas": 0,
-			"gols_pro": 7,
+			"gols_pro": 8,
 			"gols_contra": 1,
-			"saldo_gols": 6
+			"saldo_gols": 7
 		  },
 		  {
 			"nome": "Inglaterra",
@@ -337,8 +337,8 @@
 			"vitorias": 0,
 			"empates": 0,
 			"derrotas": 2,
-			"gols_pro": 2,
-			"gols_contra": 6,
+			"gols_pro": 3,
+			"gols_contra": 7,
 			"saldo_gols": -4
 		  }
 		]
@@ -844,10 +844,10 @@
 			{
 			  "mandante": "BEL",
 			  "img_mandante": "assets/imgs/belgium.png",
-			  "gols_mandante": "4",
+			  "gols_mandante": "5",
 			  "visitante": "TUN",
 			  "img_visitante": "assets/imgs/tunisia.png",
-			  "gols_visitante": "1",
+			  "gols_visitante": "2",
 			  "data": "SAB 23/06/2018 09:00",
 			  "estadio": "Spartak"
 			},
@@ -1145,10 +1145,10 @@
 		  "nome": "Grupo G",
 		  "mandante": "BEL",
 		  "img_mandante": "assets/imgs/belgium.png",
-		  "gols_mandante": "4",
+		  "gols_mandante": "5",
 		  "visitante": "TUN",
 		  "img_visitante": "assets/imgs/tunisia.png",
-		  "gols_visitante": "1",
+		  "gols_visitante": "2",
 		  "data": "SAB 23/06/2018 09:00",
 		  "estadio": "Spartak"
 		},
