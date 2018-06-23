@@ -249,18 +249,18 @@
 		"grupo": "F",
 		"times": [
 		  {
-			"nome": "Suécia",
-			"pontos": 3,
-			"jogos": 1,
+			"nome": "México",
+			"pontos": 4,
+			"jogos": 2,
 			"vitorias": 1,
-			"empates": 0,
+			"empates": 1,
 			"derrotas": 0,
 			"gols_pro": 1,
 			"gols_contra": 0,
 			"saldo_gols": 1
 		  },
 		  {
-			"nome": "México",
+			"nome": "Suécia",
 			"pontos": 3,
 			"jogos": 1,
 			"vitorias": 1,
@@ -283,10 +283,10 @@
 		  },
 		  {
 			"nome": "Coreia do Sul",
-			"pontos": 0,
-			"jogos": 1,
+			"pontos": 1,
+			"jogos": 2,
 			"vitorias": 0,
-			"empates": 0,
+			"empates": 1,
 			"derrotas": 1,
 			"gols_pro": 0,
 			"gols_contra": 1,
@@ -774,10 +774,10 @@
 			{
 			  "mandante": "COR",
 			  "img_mandante": "assets/imgs/south_korea.png",
-			  "gols_mandante": "",
+			  "gols_mandante": "0",
 			  "visitante": "MEX",
 			  "img_visitante": "assets/imgs/mexico.png",
-			  "gols_visitante": "",
+			  "gols_visitante": "0",
 			  "data": "SAB 23/06/2018 12:00",
 			  "estadio": "Rostov"
 			},
@@ -1156,10 +1156,10 @@
 		  "nome": "Grupo F",
 		  "mandante": "COR",
 		  "img_mandante": "assets/imgs/south_korea.png",
-		  "gols_mandante": "",
+		  "gols_mandante": "0",
 		  "visitante": "MEX",
 		  "img_visitante": "assets/imgs/mexico.png",
-		  "gols_visitante": "",
+		  "gols_visitante": "0",
 		  "data": "SAB 23/06/2018 12:00",
 		  "estadio": "Rostov"
 		},
