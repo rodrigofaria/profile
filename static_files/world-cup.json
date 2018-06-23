@@ -304,9 +304,9 @@
 			"vitorias": 2,
 			"empates": 0,
 			"derrotas": 0,
-			"gols_pro": 4,
+			"gols_pro": 5,
 			"gols_contra": 0,
-			"saldo_gols": 4
+			"saldo_gols": 5
 		  },
 		  {
 			"nome": "Inglaterra",
@@ -320,17 +320,6 @@
 			"saldo_gols": 1
 		  },
 		  {
-			"nome": "Tunísia",
-			"pontos": 0,
-			"jogos": 2,
-			"vitorias": 0,
-			"empates": 0,
-			"derrotas": 2,
-			"gols_pro": 1,
-			"gols_contra": 3,
-			"saldo_gols": -2
-		  },
-		  {
 			"nome": "Panamá",
 			"pontos": 0,
 			"jogos": 1,
@@ -339,6 +328,17 @@
 			"derrotas": 1,
 			"gols_pro": 0,
 			"gols_contra": 3,
+			"saldo_gols": -3
+		  },
+		  {
+			"nome": "Tunísia",
+			"pontos": 0,
+			"jogos": 2,
+			"vitorias": 0,
+			"empates": 0,
+			"derrotas": 2,
+			"gols_pro": 1,
+			"gols_contra": 4,
 			"saldo_gols": -3
 		  }
 		]
@@ -844,7 +844,7 @@
 			{
 			  "mandante": "BEL",
 			  "img_mandante": "assets/imgs/belgium.png",
-			  "gols_mandante": "1",
+			  "gols_mandante": "2",
 			  "visitante": "TUN",
 			  "img_visitante": "assets/imgs/tunisia.png",
 			  "gols_visitante": "0",
@@ -1145,7 +1145,7 @@
 		  "nome": "Grupo G",
 		  "mandante": "BEL",
 		  "img_mandante": "assets/imgs/belgium.png",
-		  "gols_mandante": "1",
+		  "gols_mandante": "2",
 		  "visitante": "TUN",
 		  "img_visitante": "assets/imgs/tunisia.png",
 		  "gols_visitante": "0",
