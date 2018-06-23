@@ -256,8 +256,8 @@
 			"empates": 0,
 			"derrotas": 0,
 			"gols_pro": 3,
-			"gols_contra": 0,
-			"saldo_gols": 3
+			"gols_contra": 1,
+			"saldo_gols": 2
 		  },
 		  {
 			"nome": "Suécia",
@@ -288,9 +288,9 @@
 			"vitorias": 0,
 			"empates": 0,
 			"derrotas": 2,
-			"gols_pro": 0,
+			"gols_pro": 1,
 			"gols_contra": 3,
-			"saldo_gols": -3
+			"saldo_gols": -2
 		  }
 		]
 	  },
@@ -774,7 +774,7 @@
 			{
 			  "mandante": "COR",
 			  "img_mandante": "assets/imgs/south_korea.png",
-			  "gols_mandante": "0",
+			  "gols_mandante": "1",
 			  "visitante": "MEX",
 			  "img_visitante": "assets/imgs/mexico.png",
 			  "gols_visitante": "2",
@@ -1156,7 +1156,7 @@
 		  "nome": "Grupo F",
 		  "mandante": "COR",
 		  "img_mandante": "assets/imgs/south_korea.png",
-		  "gols_mandante": "0",
+		  "gols_mandante": "1",
 		  "visitante": "MEX",
 		  "img_visitante": "assets/imgs/mexico.png",
 		  "gols_visitante": "2",
