@@ -305,8 +305,8 @@
 			"empates": 0,
 			"derrotas": 0,
 			"gols_pro": 5,
-			"gols_contra": 0,
-			"saldo_gols": 5
+			"gols_contra": 1,
+			"saldo_gols": 4
 		  },
 		  {
 			"nome": "Inglaterra",
@@ -337,9 +337,9 @@
 			"vitorias": 0,
 			"empates": 0,
 			"derrotas": 2,
-			"gols_pro": 1,
+			"gols_pro": 2,
 			"gols_contra": 4,
-			"saldo_gols": -3
+			"saldo_gols": -2
 		  }
 		]
 	  },
@@ -847,7 +847,7 @@
 			  "gols_mandante": "2",
 			  "visitante": "TUN",
 			  "img_visitante": "assets/imgs/tunisia.png",
-			  "gols_visitante": "0",
+			  "gols_visitante": "1",
 			  "data": "SAB 23/06/2018 09:00",
 			  "estadio": "Spartak"
 			},
@@ -1148,7 +1148,7 @@
 		  "gols_mandante": "2",
 		  "visitante": "TUN",
 		  "img_visitante": "assets/imgs/tunisia.png",
-		  "gols_visitante": "0",
+		  "gols_visitante": "1",
 		  "data": "SAB 23/06/2018 09:00",
 		  "estadio": "Spartak"
 		},
