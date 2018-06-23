@@ -261,25 +261,25 @@
 		  },
 		  {
 			"nome": "Suécia",
-			"pontos": 3,
-			"jogos": 1,
-			"vitorias": 1,
+			"pontos": 6,
+			"jogos": 2,
+			"vitorias": 2,
 			"empates": 0,
 			"derrotas": 0,
-			"gols_pro": 1,
+			"gols_pro": 2,
 			"gols_contra": 0,
-			"saldo_gols": 1
+			"saldo_gols": 2
 		  },
 		  {
 			"nome": "Alemanha",
 			"pontos": 0,
-			"jogos": 1,
+			"jogos": 2,
 			"vitorias": 0,
 			"empates": 0,
-			"derrotas": 1,
+			"derrotas": 2,
 			"gols_pro": 0,
-			"gols_contra": 1,
-			"saldo_gols": -1
+			"gols_contra": 2,
+			"saldo_gols": -2
 		  },
 		  {
 			"nome": "Coreia do Sul",
@@ -784,10 +784,10 @@
 			{
 			  "mandante": "ALE",
 			  "img_mandante": "assets/imgs/germany.png",
-			  "gols_mandante": "",
+			  "gols_mandante": "0",
 			  "visitante": "SUE",
 			  "img_visitante": "assets/imgs/sweden.png",
-			  "gols_visitante": "",
+			  "gols_visitante": "1",
 			  "data": "SAB 23/06/2018 15:00",
 			  "estadio": "Olímpico de Sochi"
 			}
@@ -1167,10 +1167,10 @@
 		  "nome": "Grupo F",
 		  "mandante": "ALE",
 		  "img_mandante": "assets/imgs/germany.png",
-		  "gols_mandante": "",
+		  "gols_mandante": "0",
 		  "visitante": "SUE",
 		  "img_visitante": "assets/imgs/sweden.png",
-		  "gols_visitante": "",
+		  "gols_visitante": "1",
 		  "data": "SAB 23/06/2018 15:00",
 		  "estadio": "Olímpico de Sochi"
 		}
