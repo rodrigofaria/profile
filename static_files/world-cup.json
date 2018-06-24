@@ -370,10 +370,10 @@
 		  },
 		  {
 			"nome": "Polônia",
-			"pontos": 0,
-			"jogos": 1,
+			"pontos": 1,
+			"jogos": 2,
 			"vitorias": 0,
-			"empates": 0,
+			"empates": 1,
 			"derrotas": 1,
 			"gols_pro": 1,
 			"gols_contra": 2,
@@ -381,10 +381,10 @@
 		  },
 		  {
 			"nome": "Colômbia",
-			"pontos": 0,
-			"jogos": 1,
+			"pontos": 1,
+			"jogos": 2,
 			"vitorias": 0,
-			"empates": 0,
+			"empates": 1,
 			"derrotas": 1,
 			"gols_pro": 1,
 			"gols_contra": 2,
@@ -924,10 +924,10 @@
 			{
 			  "mandante": "POL",
 			  "img_mandante": "assets/imgs/poland.png",
-			  "gols_mandante": "",
+			  "gols_mandante": "0",
 			  "visitante": "COL",
 			  "img_visitante": "assets/imgs/colombia.png",
-			  "gols_visitante": "",
+			  "gols_visitante": "0",
 			  "data": "DOM 24/06/2018 15:00",
 			  "estadio": "Arena Kazan"
 			}
@@ -1167,10 +1167,10 @@
 		  "nome": "Grupo H",
 		  "mandante": "POL",
 		  "img_mandante": "assets/imgs/poland.png",
-		  "gols_mandante": "",
+		  "gols_mandante": "0",
 		  "visitante": "COL",
 		  "img_visitante": "assets/imgs/colombia.png",
-		  "gols_visitante": "",
+		  "gols_visitante": "0",
 		  "data": "DOM 24/06/2018 15:00",
 		  "estadio": "Arena Kazan"
 		}
