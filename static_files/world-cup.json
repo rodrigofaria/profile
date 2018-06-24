@@ -311,9 +311,9 @@
 		  {
 			"nome": "Inglaterra",
 			"pontos": 3,
-			"jogos": 1,
+			"jogos": 2,
 			"vitorias": 1,
-			"empates": 0,
+			"empates": 1,
 			"derrotas": 0,
 			"gols_pro": 2,
 			"gols_contra": 1,
@@ -321,10 +321,10 @@
 		  },
 		  {
 			"nome": "Panamá",
-			"pontos": 0,
-			"jogos": 1,
+			"pontos": 1,
+			"jogos": 2,
 			"vitorias": 0,
-			"empates": 0,
+			"empates": 1,
 			"derrotas": 1,
 			"gols_pro": 0,
 			"gols_contra": 3,
@@ -854,10 +854,10 @@
 			{
 			  "mandante": "ING",
 			  "img_mandante": "assets/imgs/england.png",
-			  "gols_mandante": "",
+			  "gols_mandante": "0",
 			  "visitante": "PAN",
 			  "img_visitante": "assets/imgs/panama.png",
-			  "gols_visitante": "",
+			  "gols_visitante": "0",
 			  "data": "DOM 24/06/2018 09:00",
 			  "estadio": "Nizhny Novgorod"
 			}
@@ -1145,10 +1145,10 @@
 		  "nome": "Grupo G",
 		  "mandante": "ING",
 		  "img_mandante": "assets/imgs/england.png",
-		  "gols_mandante": "",
+		  "gols_mandante": "0",
 		  "visitante": "PAN",
 		  "img_visitante": "assets/imgs/panama.png",
-		  "gols_visitante": "",
+		  "gols_visitante": "0",
 		  "data": "DOM 24/06/2018 09:00",
 		  "estadio": "Nizhny Novgorod"
 		},
