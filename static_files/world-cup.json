@@ -1143,36 +1143,36 @@
 	"jogo_do_dia" : [
 		{
 		  "nome": "Grupo G",
-		  "mandante": "BEL",
-		  "img_mandante": "assets/imgs/belgium.png",
-		  "gols_mandante": "5",
-		  "visitante": "TUN",
-		  "img_visitante": "assets/imgs/tunisia.png",
-		  "gols_visitante": "2",
-		  "data": "SAB 23/06/2018 09:00",
-		  "estadio": "Spartak"
+		  "mandante": "ING",
+		  "img_mandante": "assets/imgs/england.png",
+		  "gols_mandante": "",
+		  "visitante": "PAN",
+		  "img_visitante": "assets/imgs/panama.png",
+		  "gols_visitante": "",
+		  "data": "DOM 24/06/2018 09:00",
+		  "estadio": "Nizhny Novgorod"
 		},
 		{
-		  "nome": "Grupo F",
-		  "mandante": "COR",
-		  "img_mandante": "assets/imgs/south_korea.png",
-		  "gols_mandante": "1",
-		  "visitante": "MEX",
-		  "img_visitante": "assets/imgs/mexico.png",
-		  "gols_visitante": "2",
-		  "data": "SAB 23/06/2018 12:00",
-		  "estadio": "Rostov"
+		  "nome": "Grupo H",
+		  "mandante": "JAP",
+		  "img_mandante": "assets/imgs/japan.png",
+		  "gols_mandante": "",
+		  "visitante": "SEN",
+		  "img_visitante": "assets/imgs/senegal.png",
+		  "gols_visitante": "",
+		  "data": "DOM 24/06/2018 12:00",
+		  "estadio": "Ecaterimburgo"
 		},
 		{
-		  "nome": "Grupo F",
-		  "mandante": "ALE",
-		  "img_mandante": "assets/imgs/germany.png",
-		  "gols_mandante": "2",
-		  "visitante": "SUE",
-		  "img_visitante": "assets/imgs/sweden.png",
-		  "gols_visitante": "1",
-		  "data": "SAB 23/06/2018 15:00",
-		  "estadio": "Olímpico de Sochi"
+		  "nome": "Grupo H",
+		  "mandante": "POL",
+		  "img_mandante": "assets/imgs/poland.png",
+		  "gols_mandante": "",
+		  "visitante": "COL",
+		  "img_visitante": "assets/imgs/colombia.png",
+		  "gols_visitante": "",
+		  "data": "DOM 24/06/2018 15:00",
+		  "estadio": "Arena Kazan"
 		}
 	]
 }
