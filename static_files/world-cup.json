@@ -369,26 +369,26 @@
 			"saldo_gols": 1
 		  },
 		  {
-			"nome": "Polônia",
-			"pontos": 1,
+			"nome": "Colômbia",
+			"pontos": 3,
 			"jogos": 2,
-			"vitorias": 0,
-			"empates": 1,
+			"vitorias": 1,
+			"empates": 0,
 			"derrotas": 1,
-			"gols_pro": 1,
+			"gols_pro": 2,
 			"gols_contra": 2,
-			"saldo_gols": -1
+			"saldo_gols": 0
 		  },
 		  {
-			"nome": "Colômbia",
-			"pontos": 1,
+			"nome": "Polônia",
+			"pontos": 0,
 			"jogos": 2,
 			"vitorias": 0,
-			"empates": 1,
-			"derrotas": 1,
+			"empates": 0,
+			"derrotas": 2,
 			"gols_pro": 1,
-			"gols_contra": 2,
-			"saldo_gols": -1
+			"gols_contra": 3,
+			"saldo_gols": -2
 		  }
 		  
 		]
@@ -927,7 +927,7 @@
 			  "gols_mandante": "0",
 			  "visitante": "COL",
 			  "img_visitante": "assets/imgs/colombia.png",
-			  "gols_visitante": "0",
+			  "gols_visitante": "1",
 			  "data": "DOM 24/06/2018 15:00",
 			  "estadio": "Arena Kazan"
 			}
@@ -1170,7 +1170,7 @@
 		  "gols_mandante": "0",
 		  "visitante": "COL",
 		  "img_visitante": "assets/imgs/colombia.png",
-		  "gols_visitante": "0",
+		  "gols_visitante": "1",
 		  "data": "DOM 24/06/2018 15:00",
 		  "estadio": "Arena Kazan"
 		}
