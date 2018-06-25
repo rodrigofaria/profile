@@ -65,14 +65,14 @@
 		  },
 		  {
 			"nome": "Espanha",
-			"pontos": 5,
+			"pontos": 4,
 			"jogos": 3,
 			"vitorias": 1,
-			"empates": 2,
-			"derrotas": 0,
+			"empates": 1,
+			"derrotas": 1,
 			"gols_pro": 5,
-			"gols_contra": 4,
-			"saldo_gols": 1
+			"gols_contra": 5,
+			"saldo_gols": 0
 		  },
 		  {
 			"nome": "Irã",
@@ -87,14 +87,14 @@
 		  },
 		  {
 			"nome": "Marrocos",
-			"pontos": 1,
+			"pontos": 3,
 			"jogos": 3,
-			"vitorias": 0,
-			"empates": 1,
+			"vitorias": 1,
+			"empates": 0,
 			"derrotas": 2,
-			"gols_pro": 1,
+			"gols_pro": 2,
 			"gols_contra": 3,
-			"saldo_gols": -2
+			"saldo_gols": -1
 		  }
 		]
 	  },
@@ -529,7 +529,7 @@
 			  "gols_mandante": "1",
 			  "visitante": "MAR",
 			  "img_visitante": "assets/imgs/morocco.png",
-			  "gols_visitante": "1",
+			  "gols_visitante": "2",
 			  "data": "SEG 25/06/2018 15:00",
 			  "estadio": "Kaliningrado"
 			}
@@ -1181,7 +1181,7 @@
 		  "gols_mandante": "1",
 		  "visitante": "MAR",
 		  "img_visitante": "assets/imgs/morocco.png",
-		  "gols_visitante": "1",
+		  "gols_visitante": "2",
 		  "data": "SEG 25/06/2018 15:00",
 		  "estadio": "Kaliningrado"
 		}
