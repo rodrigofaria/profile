@@ -53,17 +53,6 @@
 		"grupo": "B",
 		"times": [
 		  {
-			"nome": "Portugal",
-			"pontos": 7,
-			"jogos": 3,
-			"vitorias": 2,
-			"empates": 1,
-			"derrotas": 0,
-			"gols_pro": 5,
-			"gols_contra": 3,
-			"saldo_gols": 2
-		  },
-		  {
 			"nome": "Espanha",
 			"pontos": 5,
 			"jogos": 3,
@@ -75,15 +64,26 @@
 			"saldo_gols": 1
 		  },
 		  {
-			"nome": "Irã",
-			"pontos": 3,
+			"nome": "Portugal",
+			"pontos": 5,
 			"jogos": 3,
 			"vitorias": 1,
-			"empates": 0,
-			"derrotas": 2,
-			"gols_pro": 1,
+			"empates": 2,
+			"derrotas": 0,
+			"gols_pro": 5,
+			"gols_contra": 4,
+			"saldo_gols": 1
+		  },
+		  {
+			"nome": "Irã",
+			"pontos": 4,
+			"jogos": 3,
+			"vitorias": 1,
+			"empates": 1,
+			"derrotas": 1,
+			"gols_pro": 2,
 			"gols_contra": 2,
-			"saldo_gols": -1
+			"saldo_gols": 0
 		  },
 		  {
 			"nome": "Marrocos",
@@ -516,7 +516,7 @@
 			{
 			  "mandante": "IRA",
 			  "img_mandante": "assets/imgs/iran.png",
-			  "gols_mandante": "0",
+			  "gols_mandante": "1",
 			  "visitante": "POR",
 			  "img_visitante": "assets/imgs/portugal.png",
 			  "gols_visitante": "1",
@@ -1167,7 +1167,7 @@
 		  "nome": "Grupo B",
 		  "mandante": "IRA",
 		  "img_mandante": "assets/imgs/iran.png",
-		  "gols_mandante": "0",
+		  "gols_mandante": "1",
 		  "visitante": "POR",
 		  "img_visitante": "assets/imgs/portugal.png",
 		  "gols_visitante": "1",
