@@ -1142,37 +1142,48 @@
 	],
 	"jogo_do_dia" : [
 		{
-		  "nome": "Grupo G",
-		  "mandante": "ING",
-		  "img_mandante": "assets/imgs/england.png",
-		  "gols_mandante": "6",
-		  "visitante": "PAN",
-		  "img_visitante": "assets/imgs/panama.png",
-		  "gols_visitante": "1",
-		  "data": "DOM 24/06/2018 09:00",
-		  "estadio": "Nizhny Novgorod"
+		  "nome": "Grupo A",
+		  "mandante": "URU",
+		  "img_mandante": "assets/imgs/uruguay.png",
+		  "gols_mandante": "",
+		  "visitante": "RUS",
+		  "img_visitante": "assets/imgs/russia.png",
+		  "gols_visitante": "",
+		  "data": "SEG 25/06/2018 11:00",
+		  "estadio": "Samara"
 		},
 		{
-		  "nome": "Grupo H",
-		  "mandante": "JAP",
-		  "img_mandante": "assets/imgs/japan.png",
-		  "gols_mandante": "2",
-		  "visitante": "SEN",
-		  "img_visitante": "assets/imgs/senegal.png",
-		  "gols_visitante": "2",
-		  "data": "DOM 24/06/2018 12:00",
-		  "estadio": "Ecaterimburgo"
+		  "nome": "Grupo A",
+		  "mandante": "ARA",
+		  "img_mandante": "assets/imgs/saudi_arabia.png",
+		  "gols_mandante": "",
+		  "visitante": "EGI",
+		  "img_visitante": "assets/imgs/egypt.png",
+		  "gols_visitante": "",
+		  "data": "SEG 25/06/2018 11:00",
+		  "estadio": "Volgogrado"
 		},
 		{
-		  "nome": "Grupo H",
-		  "mandante": "POL",
-		  "img_mandante": "assets/imgs/poland.png",
-		  "gols_mandante": "0",
-		  "visitante": "COL",
-		  "img_visitante": "assets/imgs/colombia.png",
-		  "gols_visitante": "3",
-		  "data": "DOM 24/06/2018 15:00",
-		  "estadio": "Arena Kazan"
+		  "nome": "Grupo B",
+		  "mandante": "IRA",
+		  "img_mandante": "assets/imgs/iran.png",
+		  "gols_mandante": "",
+		  "visitante": "POR",
+		  "img_visitante": "assets/imgs/portugal.png",
+		  "gols_visitante": "",
+		  "data": "SEG 25/06/2018 15:00",
+		  "estadio": "Saransk"
+		},
+		{
+		  "nome": "Grupo B",
+		  "mandante": "ESP",
+		  "img_mandante": "assets/imgs/spain.png",
+		  "gols_mandante": "",
+		  "visitante": "MAR",
+		  "img_visitante": "assets/imgs/morocco.png",
+		  "gols_visitante": "",
+		  "data": "SEG 25/06/2018 15:00",
+		  "estadio": "Kaliningrado"
 		}
 	]
 }
