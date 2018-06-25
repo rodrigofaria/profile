@@ -53,7 +53,7 @@
 		"grupo": "B",
 		"times": [
 		  {
-			"nome": "Espanha",
+			"nome": "Portugal",
 			"pontos": 5,
 			"jogos": 3,
 			"vitorias": 1,
@@ -64,15 +64,15 @@
 			"saldo_gols": 1
 		  },
 		  {
-			"nome": "Portugal",
-			"pontos": 5,
+			"nome": "Espanha",
+			"pontos": 4,
 			"jogos": 3,
 			"vitorias": 1,
-			"empates": 2,
-			"derrotas": 0,
+			"empates": 1,
+			"derrotas": 1,
 			"gols_pro": 4,
-			"gols_contra": 3,
-			"saldo_gols": 1
+			"gols_contra": 4,
+			"saldo_gols": 0
 		  },
 		  {
 			"nome": "Irã",
@@ -87,14 +87,14 @@
 		  },
 		  {
 			"nome": "Marrocos",
-			"pontos": 1,
+			"pontos": 3,
 			"jogos": 3,
-			"vitorias": 0,
-			"empates": 1,
+			"vitorias": 1,
+			"empates": 0,
 			"derrotas": 2,
-			"gols_pro": 0,
+			"gols_pro": 1,
 			"gols_contra": 2,
-			"saldo_gols": -2
+			"saldo_gols": -1
 		  }
 		]
 	  },
@@ -529,7 +529,7 @@
 			  "gols_mandante": "0",
 			  "visitante": "MAR",
 			  "img_visitante": "assets/imgs/morocco.png",
-			  "gols_visitante": "0",
+			  "gols_visitante": "1",
 			  "data": "SEG 25/06/2018 15:00",
 			  "estadio": "Kaliningrado"
 			}
@@ -1181,7 +1181,7 @@
 		  "gols_mandante": "0",
 		  "visitante": "MAR",
 		  "img_visitante": "assets/imgs/morocco.png",
-		  "gols_visitante": "0",
+		  "gols_visitante": "1",
 		  "data": "SEG 25/06/2018 15:00",
 		  "estadio": "Kaliningrado"
 		}
