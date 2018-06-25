@@ -4,26 +4,26 @@
 		"grupo": "A",
 		"times": [
 		  {
-			"nome": "Rússia",
-			"pontos": 7,
+			"nome": "Uruguai",
+			"pontos": 9,
 			"jogos": 3,
-			"vitorias": 2,
-			"empates": 1,
+			"vitorias": 3,
+			"empates": 0,
 			"derrotas": 0,
-			"gols_pro": 8,
-			"gols_contra": 1,
-			"saldo_gols": 7
+			"gols_pro": 3,
+			"gols_contra": 0,
+			"saldo_gols": 3
 		  },
 		  {
-			"nome": "Uruguai",
-			"pontos": 7,
+			"nome": "Rússia",
+			"pontos": 6,
 			"jogos": 3,
 			"vitorias": 2,
-			"empates": 1,
-			"derrotas": 0,
-			"gols_pro": 2,
-			"gols_contra": 0,
-			"saldo_gols": 2
+			"empates": 0,
+			"derrotas": 1,
+			"gols_pro": 8,
+			"gols_contra": 2,
+			"saldo_gols": 6
 		  },
 		  {
 			"nome": "Egito",
@@ -446,7 +446,7 @@
 			{
 			  "mandante": "URU",
 			  "img_mandante": "assets/imgs/uruguay.png",
-			  "gols_mandante": "0",
+			  "gols_mandante": "1",
 			  "visitante": "RUS",
 			  "img_visitante": "assets/imgs/russia.png",
 			  "gols_visitante": "0",
@@ -1145,7 +1145,7 @@
 		  "nome": "Grupo A",
 		  "mandante": "URU",
 		  "img_mandante": "assets/imgs/uruguay.png",
-		  "gols_mandante": "0",
+		  "gols_mandante": "1",
 		  "visitante": "RUS",
 		  "img_visitante": "assets/imgs/russia.png",
 		  "gols_visitante": "0",
