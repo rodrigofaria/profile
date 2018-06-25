@@ -959,12 +959,12 @@
 	  "oitavas": [
 		{
 		  "nome": "Oitavas 1",
-		  "mandante": "1º A",
+		  "mandante": "Uruguai",
 		  "gols_mandante": "",
-		  "img_mandante": "",
-		  "visitante": "2º B",
+		  "img_mandante": "assets/imgs/uruguay.png",
+		  "visitante": "Portugal",
 		  "gols_visitante": "",
-		  "img_visitante": "",
+		  "img_visitante": "assets/imgs/portugal.png",
 		  "data": "SAB 30/06/2018 15:00",
 		  "estadio": "Olímpico de Sochi"
 		},
@@ -997,10 +997,10 @@
 		},
 		{
 		  "nome": "Oitavas 5",
-		  "mandante": "1º B",
-		  "img_mandante": "",
-		  "visitante": "2º A",
-		  "img_visitante": "",
+		  "mandante": "Espanha",
+		  "img_mandante": "assets/imgs/spain.png",
+		  "visitante": "Rússia",
+		  "img_visitante": "assets/imgs/russia.png",
 		  "data": "DOM 01/07/2018 11:00",
 		  "estadio": "Olímpico Lujniki"
 		},
