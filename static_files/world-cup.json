@@ -53,6 +53,17 @@
 		"grupo": "B",
 		"times": [
 		  {
+			"nome": "Portugal",
+			"pontos": 6,
+			"jogos": 3,
+			"vitorias": 2,
+			"empates": 1,
+			"derrotas": 0,
+			"gols_pro": 5,
+			"gols_contra": 3,
+			"saldo_gols": 2
+		  },
+		  {
 			"nome": "Espanha",
 			"pontos": 5,
 			"jogos": 3,
@@ -64,26 +75,15 @@
 			"saldo_gols": 1
 		  },
 		  {
-			"nome": "Portugal",
-			"pontos": 5,
-			"jogos": 3,
-			"vitorias": 1,
-			"empates": 2,
-			"derrotas": 0,
-			"gols_pro": 4,
-			"gols_contra": 3,
-			"saldo_gols": 1
-		  },
-		  {
 			"nome": "Irã",
-			"pontos": 4,
+			"pontos": 3,
 			"jogos": 3,
 			"vitorias": 1,
-			"empates": 1,
-			"derrotas": 1,
+			"empates": 0,
+			"derrotas": 2,
 			"gols_pro": 1,
-			"gols_contra": 1,
-			"saldo_gols": 0
+			"gols_contra": 2,
+			"saldo_gols": -1
 		  },
 		  {
 			"nome": "Marrocos",
@@ -519,7 +519,7 @@
 			  "gols_mandante": "0",
 			  "visitante": "POR",
 			  "img_visitante": "assets/imgs/portugal.png",
-			  "gols_visitante": "0",
+			  "gols_visitante": "1",
 			  "data": "SEG 25/06/2018 15:00",
 			  "estadio": "Saransk"
 			},
@@ -1170,7 +1170,7 @@
 		  "gols_mandante": "0",
 		  "visitante": "POR",
 		  "img_visitante": "assets/imgs/portugal.png",
-		  "gols_visitante": "0",
+		  "gols_visitante": "1",
 		  "data": "SEG 25/06/2018 15:00",
 		  "estadio": "Saransk"
 		},
