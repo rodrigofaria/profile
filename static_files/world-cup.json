@@ -162,15 +162,26 @@
 			"saldo_gols": 5
 		  },
 		  {
-			"nome": "Nigéria",
+			"nome": "Argentina",
 			"pontos": 4,
 			"jogos": 3,
 			"vitorias": 1,
 			"empates": 1,
 			"derrotas": 1,
 			"gols_pro": 3,
-			"gols_contra": 3,
-			"saldo_gols": 0
+			"gols_contra": 5,
+			"saldo_gols": -2
+		  },
+		  {
+			"nome": "Nigéria",
+			"pontos": 3,
+			"jogos": 3,
+			"vitorias": 1,
+			"empates": 0,
+			"derrotas": 2,
+			"gols_pro": 3,
+			"gols_contra": 4,
+			"saldo_gols": -1
 		  },
 		  {
 			"nome": "Islândia",
@@ -182,17 +193,6 @@
 			"gols_pro": 2,
 			"gols_contra": 4,
 			"saldo_gols": -2
-		  },
-		  {
-			"nome": "Argentina",
-			"pontos": 2,
-			"jogos": 3,
-			"vitorias": 0,
-			"empates": 2,
-			"derrotas": 1,
-			"gols_pro": 2,
-			"gols_contra": 5,
-			"saldo_gols": -3
 		  }
 		]
 	  },
@@ -659,7 +659,7 @@
 			  "gols_mandante": "1",
 			  "visitante": "ARG",
 			  "img_visitante": "assets/imgs/argentina.png",
-			  "gols_visitante": "1",
+			  "gols_visitante": "2",
 			  "data": "TER 26/06/2018 15:00",
 			  "estadio": "São Petesburgo"
 			},
@@ -1170,7 +1170,7 @@
 		  "gols_mandante": "1",
 		  "visitante": "ARG",
 		  "img_visitante": "assets/imgs/argentina.png",
-		  "gols_visitante": "1",
+		  "gols_visitante": "2",
 		  "data": "TER 26/06/2018 15:00",
 		  "estadio": "São Petesburgo"
 		},
