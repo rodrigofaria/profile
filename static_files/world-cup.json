@@ -970,10 +970,10 @@
 		},
 		{
 		  "nome": "Oitavas 2",
-		  "mandante": "1º C",
-		  "img_mandante": "",
-		  "visitante": "2º D",
-		  "img_visitante": "",
+		  "mandante": "FRA",
+		  "img_mandante": "assets/imgs/france.png",
+		  "visitante": "ARG",
+		  "img_visitante": "assets/imgs/argentina.png",
 		  "data": "SAB 30/06/2018 11:00",
 		  "estadio": "Arena Kazan"
 		},
@@ -1006,10 +1006,10 @@
 		},
 		{
 		  "nome": "Oitavas 6",
-		  "mandante": "1º D",
-		  "img_mandante": "",
-		  "visitante": "2º C",
-		  "img_visitante": "",
+		  "mandante": "CRO",
+		  "img_mandante": "assets/imgs/croatia.png",
+		  "visitante": "DIN",
+		  "img_visitante": "assets/imgs/denmark.png",
 		  "data": "DOM 01/07/2018 15:00",
 		  "estadio": "Nizhny Novgorod"
 		},
