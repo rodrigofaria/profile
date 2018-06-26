@@ -130,9 +130,9 @@
 			"vitorias": 1,
 			"empates": 0,
 			"derrotas": 2,
-			"gols_pro": 1,
+			"gols_pro": 2,
 			"gols_contra": 2,
-			"saldo_gols": -1
+			"saldo_gols": 0
 		  },
   		  {
 			"nome": "Austrália",
@@ -142,8 +142,8 @@
 			"empates": 1,
 			"derrotas": 2,
 			"gols_pro": 2,
-			"gols_contra": 4,
-			"saldo_gols": -2
+			"gols_contra": 5,
+			"saldo_gols": -3
 		  }
 		]
 	  },
@@ -599,7 +599,7 @@
 			  "gols_mandante": "0",
 			  "visitante": "PER",
 			  "img_visitante": "assets/imgs/peru.png",
-			  "gols_visitante": "1",
+			  "gols_visitante": "2",
 			  "data": "TER 26/06/2018 11:00",
 			  "estadio": "Olímpico de Sochi"
 			}
@@ -1159,7 +1159,7 @@
 		  "gols_mandante": "0",
 		  "visitante": "PER",
 		  "img_visitante": "assets/imgs/peru.png",
-		  "gols_visitante": "1",
+		  "gols_visitante": "2",
 		  "data": "TER 26/06/2018 11:00",
 		  "estadio": "Olímpico de Sochi"
 		},
