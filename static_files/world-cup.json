@@ -1142,48 +1142,48 @@
 	],
 	"jogo_do_dia" : [
 		{
-		  "nome": "Grupo A",
-		  "mandante": "URU",
-		  "img_mandante": "assets/imgs/uruguay.png",
-		  "gols_mandante": "3",
-		  "visitante": "RUS",
-		  "img_visitante": "assets/imgs/russia.png",
-		  "gols_visitante": "0",
-		  "data": "SEG 25/06/2018 11:00",
-		  "estadio": "Samara"
+		  "nome": "Grupo C",
+		  "mandante": "DIN",
+		  "img_mandante": "assets/imgs/denmark.png",
+		  "gols_mandante": "",
+		  "visitante": "FRA",
+		  "img_visitante": "assets/imgs/france.png",
+		  "gols_visitante": "",
+		  "data": "TER 26/06/2018 11:00",
+		  "estadio": "Olímpico Lujniki"
 		},
 		{
-		  "nome": "Grupo A",
-		  "mandante": "ARA",
-		  "img_mandante": "assets/imgs/saudi_arabia.png",
-		  "gols_mandante": "2",
-		  "visitante": "EGI",
-		  "img_visitante": "assets/imgs/egypt.png",
-		  "gols_visitante": "1",
-		  "data": "SEG 25/06/2018 11:00",
-		  "estadio": "Volgogrado"
+		  "nome": "Grupo C",
+		  "mandante": "AUS",
+		  "img_mandante": "assets/imgs/australia.png",
+		  "gols_mandante": "",
+		  "visitante": "PER",
+		  "img_visitante": "assets/imgs/peru.png",
+		  "gols_visitante": "",
+		  "data": "TER 26/06/2018 11:00",
+		  "estadio": "Olímpico de Sochi"
 		},
 		{
-		  "nome": "Grupo B",
-		  "mandante": "IRA",
-		  "img_mandante": "assets/imgs/iran.png",
-		  "gols_mandante": "1",
-		  "visitante": "POR",
-		  "img_visitante": "assets/imgs/portugal.png",
-		  "gols_visitante": "1",
-		  "data": "SEG 25/06/2018 15:00",
-		  "estadio": "Saransk"
+		  "nome": "Grupo D",
+		  "mandante": "NIG",
+		  "img_mandante": "assets/imgs/nigeria.png",
+		  "gols_mandante": "",
+		  "visitante": "ARG",
+		  "img_visitante": "assets/imgs/argentina.png",
+		  "gols_visitante": "",
+		  "data": "TER 26/06/2018 15:00",
+		  "estadio": "São Petesburgo"
 		},
 		{
-		  "nome": "Grupo B",
-		  "mandante": "ESP",
-		  "img_mandante": "assets/imgs/spain.png",
-		  "gols_mandante": "2",
-		  "visitante": "MAR",
-		  "img_visitante": "assets/imgs/morocco.png",
-		  "gols_visitante": "2",
-		  "data": "SEG 25/06/2018 15:00",
-		  "estadio": "Kaliningrado"
+		  "nome": "Grupo D",
+		  "mandante": "ISL",
+		  "img_mandante": "assets/imgs/iceland.png",
+		  "gols_mandante": "",
+		  "visitante": "CRO",
+		  "img_visitante": "assets/imgs/croatia.png",
+		  "gols_visitante": "",
+		  "data": "TER 26/06/2018 15:00",
+		  "estadio": "Rostov"
 		}
 	]
 }
