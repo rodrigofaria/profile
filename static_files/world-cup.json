@@ -1156,10 +1156,10 @@
 		  "nome": "Grupo C",
 		  "mandante": "AUS",
 		  "img_mandante": "assets/imgs/australia.png",
-		  "gols_mandante": "",
+		  "gols_mandante": "0",
 		  "visitante": "PER",
 		  "img_visitante": "assets/imgs/peru.png",
-		  "gols_visitante": "",
+		  "gols_visitante": "0",
 		  "data": "TER 26/06/2018 11:00",
 		  "estadio": "Olímpico de Sochi"
 		},
