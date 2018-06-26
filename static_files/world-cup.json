@@ -152,36 +152,25 @@
 		"times": [
 		  {
 			"nome": "Croácia",
-			"pontos": 7,
+			"pontos": 9,
 			"jogos": 3,
-			"vitorias": 2,
-			"empates": 1,
+			"vitorias": 3,
+			"empates": 0,
 			"derrotas": 0,
-			"gols_pro": 5,
+			"gols_pro": 6,
 			"gols_contra": 0,
-			"saldo_gols": 5
+			"saldo_gols": 6
 		  },
 		  {
-			"nome": "Argentina",
+			"nome": "Nigéria",
 			"pontos": 4,
 			"jogos": 3,
 			"vitorias": 1,
 			"empates": 1,
 			"derrotas": 1,
-			"gols_pro": 2,
-			"gols_contra": 4,
-			"saldo_gols": -2
-		  },
-		  {
-			"nome": "Nigéria",
-			"pontos": 3,
-			"jogos": 3,
-			"vitorias": 1,
-			"empates": 0,
-			"derrotas": 2,
-			"gols_pro": 2,
+			"gols_pro": 3,
 			"gols_contra": 3,
-			"saldo_gols": -1
+			"saldo_gols": 0
 		  },
 		  {
 			"nome": "Islândia",
@@ -191,8 +180,19 @@
 			"empates": 2,
 			"derrotas": 1,
 			"gols_pro": 1,
-			"gols_contra": 3,
-			"saldo_gols": -2
+			"gols_contra": 4,
+			"saldo_gols": -3
+		  },
+		  {
+			"nome": "Argentina",
+			"pontos": 2,
+			"jogos": 3,
+			"vitorias": 0,
+			"empates": 2,
+			"derrotas": 1,
+			"gols_pro": 2,
+			"gols_contra": 5,
+			"saldo_gols": -3
 		  }
 		]
 	  },
@@ -656,7 +656,7 @@
 			{
 			  "mandante": "NIG",
 			  "img_mandante": "assets/imgs/nigeria.png",
-			  "gols_mandante": "0",
+			  "gols_mandante": "1",
 			  "visitante": "ARG",
 			  "img_visitante": "assets/imgs/argentina.png",
 			  "gols_visitante": "1",
@@ -669,7 +669,7 @@
 			  "gols_mandante": "0",
 			  "visitante": "CRO",
 			  "img_visitante": "assets/imgs/croatia.png",
-			  "gols_visitante": "0",
+			  "gols_visitante": "1",
 			  "data": "TER 26/06/2018 15:00",
 			  "estadio": "Rostov"
 			}
@@ -1167,7 +1167,7 @@
 		  "nome": "Grupo D",
 		  "mandante": "NIG",
 		  "img_mandante": "assets/imgs/nigeria.png",
-		  "gols_mandante": "0",
+		  "gols_mandante": "1",
 		  "visitante": "ARG",
 		  "img_visitante": "assets/imgs/argentina.png",
 		  "gols_visitante": "1",
@@ -1181,7 +1181,7 @@
 		  "gols_mandante": "0",
 		  "visitante": "CRO",
 		  "img_visitante": "assets/imgs/croatia.png",
-		  "gols_visitante": "0",
+		  "gols_visitante": "1",
 		  "data": "TER 26/06/2018 15:00",
 		  "estadio": "Rostov"
 		}
