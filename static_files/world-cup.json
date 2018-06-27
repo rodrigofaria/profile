@@ -212,14 +212,14 @@
 		  },
 		  {
 			"nome": "Suíça",
-			"pontos": 5,
+			"pontos": 7,
 			"jogos": 3,
-			"vitorias": 1,
-			"empates": 2,
+			"vitorias": 2,
+			"empates": 1,
 			"derrotas": 0,
-			"gols_pro": 4,
+			"gols_pro": 5,
 			"gols_contra": 3,
-			"saldo_gols": 1
+			"saldo_gols": 2
 		  },
 		  {
 			"nome": "Sérvia",
@@ -234,14 +234,14 @@
 		  },
 		  {
 			"nome": "Costa Rica",
-			"pontos": 1,
+			"pontos": 0,
 			"jogos": 3,
 			"vitorias": 0,
-			"empates": 1,
-			"derrotas": 2,
+			"empates": 0,
+			"derrotas": 3,
 			"gols_pro": 1,
-			"gols_contra": 4,
-			"saldo_gols": -3
+			"gols_contra": 5,
+			"saldo_gols": -4
 		  }
 		]
 	  },
@@ -736,7 +736,7 @@
 			{
 			  "mandante": "SUI",
 			  "img_mandante": "assets/imgs/switzerland.png",
-			  "gols_mandante": "1",
+			  "gols_mandante": "2",
 			  "visitante": "COS",
 			  "img_visitante": "assets/imgs/costa_rica.png",
 			  "gols_visitante": "1",
@@ -1180,7 +1180,7 @@
 		  "nome": "Grupo E",
 		  "mandante": "SUI",
 		  "img_mandante": "assets/imgs/switzerland.png",
-		  "gols_mandante": "1",
+		  "gols_mandante": "2",
 		  "visitante": "COS",
 		  "img_visitante": "assets/imgs/costa_rica.png",
 		  "gols_visitante": "1",
