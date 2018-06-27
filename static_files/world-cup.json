@@ -271,6 +271,17 @@
 			"saldo_gols": -1
 		  },
 		  {
+			"nome": "Coreia do Sul",
+			"pontos": 3,
+			"jogos": 3,
+			"vitorias": 1,
+			"empates": 0,
+			"derrotas": 2,
+			"gols_pro": 3,
+			"gols_contra": 3,
+			"saldo_gols": 0
+		  },
+		  {
 			"nome": "Alemanha",
 			"pontos": 3,
 			"jogos": 3,
@@ -278,19 +289,8 @@
 			"empates": 0,
 			"derrotas": 2,
 			"gols_pro": 2,
-			"gols_contra": 3,
-			"saldo_gols": -1
-		  },
-		  {
-			"nome": "Coreia do Sul",
-			"pontos": 3,
-			"jogos": 3,
-			"vitorias": 1,
-			"empates": 0,
-			"derrotas": 2,
-			"gols_pro": 2,
-			"gols_contra": 3,
-			"saldo_gols": -1
+			"gols_contra": 4,
+			"saldo_gols": -2
 		  }
 		]
 	  },
@@ -796,7 +796,7 @@
 			{
 			  "mandante": "COR",
 			  "img_mandante": "assets/imgs/south_korea.png",
-			  "gols_mandante": "1",
+			  "gols_mandante": "2",
 			  "visitante": "ALE",
 			  "img_visitante": "assets/imgs/germany.png",
 			  "gols_visitante": "0",
@@ -1145,7 +1145,7 @@
 		  "nome": "Grupo F",
 		  "mandante": "COR",
 		  "img_mandante": "assets/imgs/south_korea.png",
-		  "gols_mandante": "1",
+		  "gols_mandante": "2",
 		  "visitante": "ALE",
 		  "img_visitante": "assets/imgs/germany.png",
 		  "gols_visitante": "0",
