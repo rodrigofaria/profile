@@ -249,6 +249,17 @@
 		"grupo": "F",
 		"times": [
 		  {
+			"nome": "Suécia",
+			"pontos": 6,
+			"jogos": 3,
+			"vitorias": 2,
+			"empates": 0,
+			"derrotas": 1,
+			"gols_pro": 4,
+			"gols_contra": 2,
+			"saldo_gols": 2
+		  },
+		  {
 			"nome": "México",
 			"pontos": 6,
 			"jogos": 3,
@@ -256,19 +267,8 @@
 			"empates": 0,
 			"derrotas": 1,
 			"gols_pro": 3,
-			"gols_contra": 2,
-			"saldo_gols": 1
-		  },
-		  {
-			"nome": "Suécia",
-			"pontos": 6,
-			"jogos": 3,
-			"vitorias": 2,
-			"empates": 0,
-			"derrotas": 1,
-			"gols_pro": 3,
-			"gols_contra": 2,
-			"saldo_gols": 1
+			"gols_contra": 3,
+			"saldo_gols": 0
 		  },
 		  {
 			"nome": "Alemanha",
@@ -809,7 +809,7 @@
 			  "gols_mandante": "0",
 			  "visitante": "SUE",
 			  "img_visitante": "assets/imgs/sweden.png",
-			  "gols_visitante": "1",
+			  "gols_visitante": "2",
 			  "data": "QUA 27/06/2018 11:00",
 			  "estadio": "Ecaterimburgo"
 			}
@@ -1159,7 +1159,7 @@
 		  "gols_mandante": "0",
 		  "visitante": "SUE",
 		  "img_visitante": "assets/imgs/sweden.png",
-		  "gols_visitante": "1",
+		  "gols_visitante": "2",
 		  "data": "QUA 27/06/2018 11:00",
 		  "estadio": "Ecaterimburgo"
 		},
