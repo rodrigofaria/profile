@@ -229,8 +229,8 @@
 			"empates": 0,
 			"derrotas": 2,
 			"gols_pro": 2,
-			"gols_contra": 2,
-			"saldo_gols": 0
+			"gols_contra": 3,
+			"saldo_gols": -1
 		  },
 		  {
 			"nome": "Costa Rica",
