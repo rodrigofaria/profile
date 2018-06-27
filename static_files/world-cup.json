@@ -206,9 +206,9 @@
 			"vitorias": 2,
 			"empates": 1,
 			"derrotas": 0,
-			"gols_pro": 4,
+			"gols_pro": 5,
 			"gols_contra": 1,
-			"saldo_gols": 3
+			"saldo_gols": 4
 		  },
 		  {
 			"nome": "Suíça",
@@ -729,7 +729,7 @@
 			  "gols_mandante": "0",
 			  "visitante": "BRA",
 			  "img_visitante": "assets/imgs/brazil.png",
-			  "gols_visitante": "1",
+			  "gols_visitante": "2",
 			  "data": "QUA 27/06/2018 15:00",
 			  "estadio": "Spartak"
 			},
@@ -1136,7 +1136,7 @@
 			"img_mandante": "assets/imgs/serbia.png",
 			"gols_mandante": "0",
 			"visitante": "BRA",
-			"gols_visitante": "1",
+			"gols_visitante": "2",
 			"img_visitante": "assets/imgs/brazil.png",
 			"data": "QUA 27/06/2018 15:00",
 			"estadio": "Spartak"
@@ -1172,7 +1172,7 @@
 		  "gols_mandante": "0",
 		  "visitante": "BRA",
 		  "img_visitante": "assets/imgs/brazil.png",
-		  "gols_visitante": "1",
+		  "gols_visitante": "2",
 		  "data": "QUA 27/06/2018 15:00",
 		  "estadio": "Spartak"
 		},
