@@ -212,14 +212,14 @@
 		  },
 		  {
 			"nome": "Suíça",
-			"pontos": 7,
+			"pontos": 5,
 			"jogos": 3,
-			"vitorias": 2,
-			"empates": 1,
+			"vitorias": 1,
+			"empates": 2,
 			"derrotas": 0,
 			"gols_pro": 4,
-			"gols_contra": 2,
-			"saldo_gols": 2
+			"gols_contra": 3,
+			"saldo_gols": 1
 		  },
 		  {
 			"nome": "Sérvia",
@@ -234,14 +234,14 @@
 		  },
 		  {
 			"nome": "Costa Rica",
-			"pontos": 0,
+			"pontos": 1,
 			"jogos": 3,
 			"vitorias": 0,
-			"empates": 0,
-			"derrotas": 3,
-			"gols_pro": 0,
+			"empates": 1,
+			"derrotas": 2,
+			"gols_pro": 1,
 			"gols_contra": 4,
-			"saldo_gols": -4
+			"saldo_gols": -3
 		  }
 		]
 	  },
@@ -739,7 +739,7 @@
 			  "gols_mandante": "1",
 			  "visitante": "COS",
 			  "img_visitante": "assets/imgs/costa_rica.png",
-			  "gols_visitante": "0",
+			  "gols_visitante": "1",
 			  "data": "QUA 27/06/2018 15:00",
 			  "estadio": "Nizhny Novgorod"
 			}
@@ -1183,7 +1183,7 @@
 		  "gols_mandante": "1",
 		  "visitante": "COS",
 		  "img_visitante": "assets/imgs/costa_rica.png",
-		  "gols_visitante": "0",
+		  "gols_visitante": "1",
 		  "data": "QUA 27/06/2018 15:00",
 		  "estadio": "Nizhny Novgorod"
 		}
