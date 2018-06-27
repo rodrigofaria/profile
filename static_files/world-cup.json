@@ -1142,48 +1142,48 @@
 	],
 	"jogo_do_dia" : [
 		{
-		  "nome": "Grupo C",
-		  "mandante": "DIN",
-		  "img_mandante": "assets/imgs/denmark.png",
-		  "gols_mandante": "0",
-		  "visitante": "FRA",
-		  "img_visitante": "assets/imgs/france.png",
-		  "gols_visitante": "0",
-		  "data": "TER 26/06/2018 11:00",
-		  "estadio": "Olímpico Lujniki"
+		  "nome": "Grupo F",
+		  "mandante": "COR",
+		  "img_mandante": "assets/imgs/south_korea.png",
+		  "gols_mandante": "",
+		  "visitante": "ALE",
+		  "img_visitante": "assets/imgs/germany.png",
+		  "gols_visitante": "",
+		  "data": "QUA 27/06/2018 11:00",
+		  "estadio": "Arena Kazan"
 		},
 		{
-		  "nome": "Grupo C",
-		  "mandante": "AUS",
-		  "img_mandante": "assets/imgs/australia.png",
-		  "gols_mandante": "0",
-		  "visitante": "PER",
-		  "img_visitante": "assets/imgs/peru.png",
-		  "gols_visitante": "2",
-		  "data": "TER 26/06/2018 11:00",
-		  "estadio": "Olímpico de Sochi"
+		  "nome": "Grupo F",
+		  "mandante": "MEX",
+		  "img_mandante": "assets/imgs/mexico.png",
+		  "gols_mandante": "",
+		  "visitante": "SUE",
+		  "img_visitante": "assets/imgs/sweden.png",
+		  "gols_visitante": "",
+		  "data": "QUA 27/06/2018 11:00",
+		  "estadio": "Ecaterimburgo"
 		},
 		{
-		  "nome": "Grupo D",
-		  "mandante": "NIG",
-		  "img_mandante": "assets/imgs/nigeria.png",
-		  "gols_mandante": "1",
-		  "visitante": "ARG",
-		  "img_visitante": "assets/imgs/argentina.png",
-		  "gols_visitante": "2",
-		  "data": "TER 26/06/2018 15:00",
-		  "estadio": "São Petesburgo"
+		  "nome": "Grupo E",
+		  "mandante": "SER",
+		  "img_mandante": "assets/imgs/serbia.png",
+		  "gols_mandante": "",
+		  "visitante": "BRA",
+		  "img_visitante": "assets/imgs/brazil.png",
+		  "gols_visitante": "",
+		  "data": "QUA 27/06/2018 15:00",
+		  "estadio": "Spartak"
 		},
 		{
-		  "nome": "Grupo D",
-		  "mandante": "ISL",
-		  "img_mandante": "assets/imgs/iceland.png",
-		  "gols_mandante": "1",
-		  "visitante": "CRO",
-		  "img_visitante": "assets/imgs/croatia.png",
-		  "gols_visitante": "2",
-		  "data": "TER 26/06/2018 15:00",
-		  "estadio": "Rostov"
+		  "nome": "Grupo E",
+		  "mandante": "SUI",
+		  "img_mandante": "assets/imgs/switzerland.png",
+		  "gols_mandante": "",
+		  "visitante": "COS",
+		  "img_visitante": "assets/imgs/costa_rica.png",
+		  "gols_visitante": "",
+		  "data": "QUA 27/06/2018 15:00",
+		  "estadio": "Nizhny Novgorod"
 		}
 	]
 }
