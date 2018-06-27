@@ -250,28 +250,28 @@
 		"times": [
 		  {
 			"nome": "México",
-			"pontos": 7,
+			"pontos": 6,
 			"jogos": 3,
 			"vitorias": 2,
-			"empates": 1,
-			"derrotas": 0,
-			"gols_pro": 3,
-			"gols_contra": 1,
-			"saldo_gols": 2
-		  },
-		  {
-			"nome": "Alemanha",
-			"pontos": 4,
-			"jogos": 3,
-			"vitorias": 1,
-			"empates": 1,
+			"empates": 0,
 			"derrotas": 1,
-			"gols_pro": 2,
+			"gols_pro": 3,
 			"gols_contra": 2,
-			"saldo_gols": 0
+			"saldo_gols": 1
 		  },
 		  {
 			"nome": "Suécia",
+			"pontos": 6,
+			"jogos": 3,
+			"vitorias": 2,
+			"empates": 0,
+			"derrotas": 1,
+			"gols_pro": 3,
+			"gols_contra": 2,
+			"saldo_gols": 1
+		  },
+		  {
+			"nome": "Alemanha",
 			"pontos": 4,
 			"jogos": 3,
 			"vitorias": 1,
@@ -809,7 +809,7 @@
 			  "gols_mandante": "0",
 			  "visitante": "SUE",
 			  "img_visitante": "assets/imgs/sweden.png",
-			  "gols_visitante": "0",
+			  "gols_visitante": "1",
 			  "data": "QUA 27/06/2018 11:00",
 			  "estadio": "Ecaterimburgo"
 			}
@@ -1159,7 +1159,7 @@
 		  "gols_mandante": "0",
 		  "visitante": "SUE",
 		  "img_visitante": "assets/imgs/sweden.png",
-		  "gols_visitante": "0",
+		  "gols_visitante": "1",
 		  "data": "QUA 27/06/2018 11:00",
 		  "estadio": "Ecaterimburgo"
 		},
