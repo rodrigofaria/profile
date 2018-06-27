@@ -255,9 +255,9 @@
 			"vitorias": 2,
 			"empates": 0,
 			"derrotas": 1,
-			"gols_pro": 4,
+			"gols_pro": 5,
 			"gols_contra": 2,
-			"saldo_gols": 2
+			"saldo_gols": 3
 		  },
 		  {
 			"nome": "México",
@@ -267,8 +267,8 @@
 			"empates": 0,
 			"derrotas": 1,
 			"gols_pro": 3,
-			"gols_contra": 3,
-			"saldo_gols": 0
+			"gols_contra": 4,
+			"saldo_gols": -1
 		  },
 		  {
 			"nome": "Alemanha",
@@ -809,7 +809,7 @@
 			  "gols_mandante": "0",
 			  "visitante": "SUE",
 			  "img_visitante": "assets/imgs/sweden.png",
-			  "gols_visitante": "2",
+			  "gols_visitante": "3",
 			  "data": "QUA 27/06/2018 11:00",
 			  "estadio": "Ecaterimburgo"
 			}
@@ -1159,7 +1159,7 @@
 		  "gols_mandante": "0",
 		  "visitante": "SUE",
 		  "img_visitante": "assets/imgs/sweden.png",
-		  "gols_visitante": "2",
+		  "gols_visitante": "3",
 		  "data": "QUA 27/06/2018 11:00",
 		  "estadio": "Ecaterimburgo"
 		},
