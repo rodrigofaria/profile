@@ -347,26 +347,26 @@
 		"grupo": "H",
 		"times": [
 		  {
-			"nome": "Senegal",
-			"pontos": 5,
+			"nome": "Colômbia",
+			"pontos": 6,
 			"jogos": 3,
-			"vitorias": 1,
-			"empates": 2,
-			"derrotas": 0,
-			"gols_pro": 4,
-			"gols_contra": 3,
-			"saldo_gols": 1
+			"vitorias": 2,
+			"empates": 0,
+			"derrotas": 1,
+			"gols_pro": 5,
+			"gols_contra": 2,
+			"saldo_gols": 3
 		  },
 		  {
-			"nome": "Colômbia",
+			"nome": "Senegal",
 			"pontos": 4,
 			"jogos": 3,
 			"vitorias": 1,
 			"empates": 1,
 			"derrotas": 1,
 			"gols_pro": 4,
-			"gols_contra": 2,
-			"saldo_gols": 2
+			"gols_contra": 4,
+			"saldo_gols": 0
 		  },
 		  {
 			"nome": "Japão",
@@ -949,7 +949,7 @@
 			  "gols_mandante": "0",
 			  "visitante": "COL",
 			  "img_visitante": "assets/imgs/colombia.png",
-			  "gols_visitante": "0",
+			  "gols_visitante": "1",
 			  "data": "QUI 28/06/2018 11:00",
 			  "estadio": "Samara"
 			}
@@ -1170,7 +1170,7 @@
 		  "gols_mandante": "0",
 		  "visitante": "COL",
 		  "img_visitante": "assets/imgs/colombia.png",
-		  "gols_visitante": "0",
+		  "gols_visitante": "1",
 		  "data": "QUI 28/06/2018 11:00",
 		  "estadio": "Samara"
 		},
