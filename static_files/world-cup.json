@@ -347,17 +347,6 @@
 		"grupo": "H",
 		"times": [
 		  {
-			"nome": "Japão",
-			"pontos": 5,
-			"jogos": 3,
-			"vitorias": 1,
-			"empates": 2,
-			"derrotas": 0,
-			"gols_pro": 4,
-			"gols_contra": 3,
-			"saldo_gols": 1
-		  },
-		  {
 			"nome": "Senegal",
 			"pontos": 5,
 			"jogos": 3,
@@ -380,15 +369,26 @@
 			"saldo_gols": 2
 		  },
 		  {
-			"nome": "Polônia",
-			"pontos": 1,
+			"nome": "Japão",
+			"pontos": 4,
 			"jogos": 3,
-			"vitorias": 0,
+			"vitorias": 1,
 			"empates": 1,
+			"derrotas": 1,
+			"gols_pro": 4,
+			"gols_contra": 4,
+			"saldo_gols": 0
+		  },
+		  {
+			"nome": "Polônia",
+			"pontos": 3,
+			"jogos": 3,
+			"vitorias": 1,
+			"empates": 0,
 			"derrotas": 2,
-			"gols_pro": 1,
+			"gols_pro": 2,
 			"gols_contra": 5,
-			"saldo_gols": -4
+			"saldo_gols": -3
 		  }
 		  
 		]
@@ -939,7 +939,7 @@
 			  "gols_mandante": "0",
 			  "visitante": "POL",
 			  "img_visitante": "assets/imgs/poland.png",
-			  "gols_visitante": "0",
+			  "gols_visitante": "1",
 			  "data": "QUI 28/06/2018 11:00",
 			  "estadio": "Volgogrado"
 			},
@@ -1159,7 +1159,7 @@
 		  "gols_mandante": "0",
 		  "visitante": "POL",
 		  "img_visitante": "assets/imgs/poland.png",
-		  "gols_visitante": "0",
+		  "gols_visitante": "1",
 		  "data": "QUI 28/06/2018 11:00",
 		  "estadio": "Volgogrado"
 		},
