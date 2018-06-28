@@ -321,25 +321,25 @@
 		  },
 		  {
 			"nome": "Tunísia",
-			"pontos": 1,
+			"pontos": 3,
 			"jogos": 3,
-			"vitorias": 0,
-			"empates": 1,
+			"vitorias": 1,
+			"empates": 0,
 			"derrotas": 2,
-			"gols_pro": 4,
+			"gols_pro": 5,
 			"gols_contra": 8,
-			"saldo_gols": -4
+			"saldo_gols": -3
 		  },
 		  {
 			"nome": "Panamá",
-			"pontos": 1,
+			"pontos": 0,
 			"jogos": 3,
 			"vitorias": 0,
-			"empates": 1,
-			"derrotas": 2,
+			"empates": 0,
+			"derrotas": 3,
 			"gols_pro": 2,
-			"gols_contra": 10,
-			"saldo_gols": -8
+			"gols_contra": 11,
+			"saldo_gols": -9
 		  }
 		]
 	  },
@@ -879,7 +879,7 @@
 			  "gols_mandante": "1",
 			  "visitante": "TUN",
 			  "img_visitante": "assets/imgs/tunisia.png",
-			  "gols_visitante": "1",
+			  "gols_visitante": "2",
 			  "data": "QUI 28/06/2018 15:00",
 			  "estadio": "Saransk"
 			}
@@ -1192,7 +1192,7 @@
 		  "gols_mandante": "1",
 		  "visitante": "TUN",
 		  "img_visitante": "assets/imgs/tunisia.png",
-		  "gols_visitante": "1",
+		  "gols_visitante": "2",
 		  "data": "QUI 28/06/2018 15:00",
 		  "estadio": "Saransk"
 		}
