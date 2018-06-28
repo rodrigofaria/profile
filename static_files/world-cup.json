@@ -1140,52 +1140,61 @@
 			"img_visitante": "assets/imgs/brazil.png",
 			"data": "QUA 27/06/2018 15:00",
 			"estadio": "Spartak"
+		},
+		{
+		  "nome": "Oitavas de Final",
+		  "mandante": "BRA",
+		  "img_mandante": "assets/imgs/brazil.png",
+		  "visitante": "MEX",
+		  "img_visitante": "assets/imgs/mexico.png",
+		  "data": "SEG 02/07/2018 11:00",
+		  "estadio": "Samara"
 		}
 	],
 	"jogo_do_dia" : [
 		{
-		  "nome": "Grupo F",
-		  "mandante": "COR",
-		  "img_mandante": "assets/imgs/south_korea.png",
-		  "gols_mandante": "2",
-		  "visitante": "ALE",
-		  "img_visitante": "assets/imgs/germany.png",
-		  "gols_visitante": "0",
-		  "data": "QUA 27/06/2018 11:00",
-		  "estadio": "Arena Kazan"
+		  "nome": "Grupo H",
+		  "mandante": "JAP",
+		  "img_mandante": "assets/imgs/japan.png",
+		  "gols_mandante": "",
+		  "visitante": "POL",
+		  "img_visitante": "assets/imgs/poland.png",
+		  "gols_visitante": "",
+		  "data": "QUI 28/06/2018 11:00",
+		  "estadio": "Volgogrado"
 		},
 		{
-		  "nome": "Grupo F",
-		  "mandante": "MEX",
-		  "img_mandante": "assets/imgs/mexico.png",
-		  "gols_mandante": "0",
-		  "visitante": "SUE",
-		  "img_visitante": "assets/imgs/sweden.png",
-		  "gols_visitante": "3",
-		  "data": "QUA 27/06/2018 11:00",
-		  "estadio": "Ecaterimburgo"
+		  "nome": "Grupo H",
+		  "mandante": "SEN",
+		  "img_mandante": "assets/imgs/senegal.png",
+		  "gols_mandante": "",
+		  "visitante": "COL",
+		  "img_visitante": "assets/imgs/colombia.png",
+		  "gols_visitante": "",
+		  "data": "QUI 28/06/2018 11:00",
+		  "estadio": "Samara"
 		},
 		{
-		  "nome": "Grupo E",
-		  "mandante": "SER",
-		  "img_mandante": "assets/imgs/serbia.png",
-		  "gols_mandante": "0",
-		  "visitante": "BRA",
-		  "img_visitante": "assets/imgs/brazil.png",
-		  "gols_visitante": "2",
-		  "data": "QUA 27/06/2018 15:00",
-		  "estadio": "Spartak"
+		  "nome": "Grupo G",
+		  "mandante": "ING",
+		  "img_mandante": "assets/imgs/england.png",
+		  "gols_mandante": "",
+		  "visitante": "BEL",
+		  "img_visitante": "assets/imgs/belgium.png",
+		  "gols_visitante": "",
+		  "data": "QUI 28/06/2018 15:00",
+		  "estadio": "Kaliningrado"
 		},
 		{
-		  "nome": "Grupo E",
-		  "mandante": "SUI",
-		  "img_mandante": "assets/imgs/switzerland.png",
-		  "gols_mandante": "2",
-		  "visitante": "COS",
-		  "img_visitante": "assets/imgs/costa_rica.png",
-		  "gols_visitante": "2",
-		  "data": "QUA 27/06/2018 15:00",
-		  "estadio": "Nizhny Novgorod"
+		  "nome": "Grupo G",
+		  "mandante": "PAN",
+		  "img_mandante": "assets/imgs/panama.png",
+		  "gols_mandante": "",
+		  "visitante": "TUN",
+		  "img_visitante": "assets/imgs/tunisia.png",
+		  "gols_visitante": "",
+		  "data": "QUI 28/06/2018 15:00",
+		  "estadio": "Saransk"
 		}
 	]
 }
