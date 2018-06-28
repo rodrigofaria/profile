@@ -988,10 +988,10 @@
 		},
 		{
 		  "nome": "Oitavas 4",
-		  "mandante": "1º G",
-		  "img_mandante": "",
-		  "visitante": "2º H",
-		  "img_visitante": "",
+		  "mandante": "BEL",
+		  "img_mandante": "assets/imgs/belgium.png",
+		  "visitante": "JAP",
+		  "img_visitante": "assets/imgs/japan.png",
 		  "data": "SEG 02/07/2018 15:00",
 		  "estadio": "Rostov"
 		},
@@ -1024,10 +1024,10 @@
 		},
 		{
 		  "nome": "Oitavas 8",
-		  "mandante": "1º H",
-		  "img_mandante": "",
-		  "visitante": "2º G",
-		  "img_visitante": "",
+		  "mandante": "COL",
+		  "img_mandante": "assets/imgs/colombia.png",
+		  "visitante": "ING",
+		  "img_visitante": "assets/imgs/england.png",
 		  "data": "TER 03/07/2018 15:00",
 		  "estadio": "Spartak"
 		}
