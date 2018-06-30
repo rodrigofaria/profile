@@ -960,10 +960,10 @@
 		{
 		  "nome": "Oitavas 1",
 		  "mandante": "URU",
-		  "gols_mandante": "",
+		  "gols_mandante": "2",
 		  "img_mandante": "assets/imgs/uruguay.png",
 		  "visitante": "POR",
-		  "gols_visitante": "",
+		  "gols_visitante": "1",
 		  "img_visitante": "assets/imgs/portugal.png",
 		  "data": "SAB 30/06/2018 15:00",
 		  "estadio": "Olímpico de Sochi"
@@ -1170,10 +1170,10 @@
 		{
 		  "nome": "Oitavas 1",
 		  "mandante": "URU",
-		  "gols_mandante": "",
+		  "gols_mandante": "2",
 		  "img_mandante": "assets/imgs/uruguay.png",
 		  "visitante": "POR",
-		  "gols_visitante": "",
+		  "gols_visitante": "1",
 		  "img_visitante": "assets/imgs/portugal.png",
 		  "data": "SAB 30/06/2018 15:00",
 		  "estadio": "Olímpico de Sochi"
