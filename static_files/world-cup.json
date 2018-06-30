@@ -971,10 +971,10 @@
 		{
 		  "nome": "Oitavas 2",
 		  "mandante": "FRA",
-		  "gols_mandante": "",
+		  "gols_mandante": "0",
 		  "img_mandante": "assets/imgs/france.png",
 		  "visitante": "ARG",
-		  "gols_visitante": "",
+		  "gols_visitante": "0",
 		  "img_visitante": "assets/imgs/argentina.png",
 		  "data": "SAB 30/06/2018 11:00",
 		  "estadio": "Arena Kazan"
@@ -1159,10 +1159,10 @@
 		{
 		  "nome": "Oitavas 2",
 		  "mandante": "FRA",
-		  "gols_mandante": "",
+		  "gols_mandante": "0",
 		  "img_mandante": "assets/imgs/france.png",
 		  "visitante": "ARG",
-		  "gols_visitante": "",
+		  "gols_visitante": "0",
 		  "img_visitante": "assets/imgs/argentina.png",
 		  "data": "SAB 30/06/2018 11:00",
 		  "estadio": "Arena Kazan"
