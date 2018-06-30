@@ -971,8 +971,10 @@
 		{
 		  "nome": "Oitavas 2",
 		  "mandante": "FRA",
+		  "gols_mandante": "",
 		  "img_mandante": "assets/imgs/france.png",
 		  "visitante": "ARG",
+		  "gols_visitante": "",
 		  "img_visitante": "assets/imgs/argentina.png",
 		  "data": "SAB 30/06/2018 11:00",
 		  "estadio": "Arena Kazan"
@@ -1144,8 +1146,10 @@
 		{
 		  "nome": "Oitavas de Final",
 		  "mandante": "BRA",
+		  "gols_mandante": "",
 		  "img_mandante": "assets/imgs/brazil.png",
 		  "visitante": "MEX",
+		  "gols_visitante": "",
 		  "img_visitante": "assets/imgs/mexico.png",
 		  "data": "SEG 02/07/2018 11:00",
 		  "estadio": "Samara"
@@ -1153,48 +1157,26 @@
 	],
 	"jogo_do_dia" : [
 		{
-		  "nome": "Grupo H",
-		  "mandante": "JAP",
-		  "img_mandante": "assets/imgs/japan.png",
-		  "gols_mandante": "0",
-		  "visitante": "POL",
-		  "img_visitante": "assets/imgs/poland.png",
-		  "gols_visitante": "1",
-		  "data": "QUI 28/06/2018 11:00",
-		  "estadio": "Volgogrado"
+		  "nome": "Oitavas 2",
+		  "mandante": "FRA",
+		  "gols_mandante": "",
+		  "img_mandante": "assets/imgs/france.png",
+		  "visitante": "ARG",
+		  "gols_visitante": "",
+		  "img_visitante": "assets/imgs/argentina.png",
+		  "data": "SAB 30/06/2018 11:00",
+		  "estadio": "Arena Kazan"
 		},
 		{
-		  "nome": "Grupo H",
-		  "mandante": "SEN",
-		  "img_mandante": "assets/imgs/senegal.png",
-		  "gols_mandante": "0",
-		  "visitante": "COL",
-		  "img_visitante": "assets/imgs/colombia.png",
-		  "gols_visitante": "1",
-		  "data": "QUI 28/06/2018 11:00",
-		  "estadio": "Samara"
-		},
-		{
-		  "nome": "Grupo G",
-		  "mandante": "ING",
-		  "img_mandante": "assets/imgs/england.png",
-		  "gols_mandante": "0",
-		  "visitante": "BEL",
-		  "img_visitante": "assets/imgs/belgium.png",
-		  "gols_visitante": "1",
-		  "data": "QUI 28/06/2018 15:00",
-		  "estadio": "Kaliningrado"
-		},
-		{
-		  "nome": "Grupo G",
-		  "mandante": "PAN",
-		  "img_mandante": "assets/imgs/panama.png",
-		  "gols_mandante": "1",
-		  "visitante": "TUN",
-		  "img_visitante": "assets/imgs/tunisia.png",
-		  "gols_visitante": "2",
-		  "data": "QUI 28/06/2018 15:00",
-		  "estadio": "Saransk"
+		  "nome": "Oitavas 1",
+		  "mandante": "URU",
+		  "gols_mandante": "",
+		  "img_mandante": "assets/imgs/uruguay.png",
+		  "visitante": "POR",
+		  "gols_visitante": "",
+		  "img_visitante": "assets/imgs/portugal.png",
+		  "data": "SAB 30/06/2018 15:00",
+		  "estadio": "Olímpico de Sochi"
 		}
 	]
 }
