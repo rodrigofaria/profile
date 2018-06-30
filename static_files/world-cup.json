@@ -974,7 +974,7 @@
 		  "gols_mandante": "1",
 		  "img_mandante": "assets/imgs/france.png",
 		  "visitante": "ARG",
-		  "gols_visitante": "1",
+		  "gols_visitante": "2",
 		  "img_visitante": "assets/imgs/argentina.png",
 		  "data": "SAB 30/06/2018 11:00",
 		  "estadio": "Arena Kazan"
@@ -1162,7 +1162,7 @@
 		  "gols_mandante": "1",
 		  "img_mandante": "assets/imgs/france.png",
 		  "visitante": "ARG",
-		  "gols_visitante": "1",
+		  "gols_visitante": "2",
 		  "img_visitante": "assets/imgs/argentina.png",
 		  "data": "SAB 30/06/2018 11:00",
 		  "estadio": "Arena Kazan"
