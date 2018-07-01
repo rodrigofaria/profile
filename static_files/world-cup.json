@@ -983,8 +983,10 @@
 		  "nome": "Oitavas 3",
 		  "mandante": "BRA",
 		  "img_mandante": "assets/imgs/brazil.png",
+		  "gols_mandante": "",
 		  "visitante": "MEX",
 		  "img_visitante": "assets/imgs/mexico.png",
+		  "gols_visitante": "",
 		  "data": "SEG 02/07/2018 11:00",
 		  "estadio": "Samara"
 		},
@@ -992,8 +994,10 @@
 		  "nome": "Oitavas 4",
 		  "mandante": "BEL",
 		  "img_mandante": "assets/imgs/belgium.png",
+		  "gols_mandante": "",
 		  "visitante": "JAP",
 		  "img_visitante": "assets/imgs/japan.png",
+		  "gols_visitante": "",
 		  "data": "SEG 02/07/2018 15:00",
 		  "estadio": "Rostov"
 		},
@@ -1001,8 +1005,10 @@
 		  "nome": "Oitavas 5",
 		  "mandante": "ESP",
 		  "img_mandante": "assets/imgs/spain.png",
+		  "gols_mandante": "",
 		  "visitante": "RUS",
 		  "img_visitante": "assets/imgs/russia.png",
+		  "gols_visitante": "",
 		  "data": "DOM 01/07/2018 11:00",
 		  "estadio": "Olímpico Lujniki"
 		},
@@ -1010,8 +1016,10 @@
 		  "nome": "Oitavas 6",
 		  "mandante": "CRO",
 		  "img_mandante": "assets/imgs/croatia.png",
+		  "gols_mandante": "",
 		  "visitante": "DIN",
 		  "img_visitante": "assets/imgs/denmark.png",
+		  "gols_visitante": "",
 		  "data": "DOM 01/07/2018 15:00",
 		  "estadio": "Nizhny Novgorod"
 		},
@@ -1019,8 +1027,10 @@
 		  "nome": "Oitavas 7",
 		  "mandante": "SUE",
 		  "img_mandante": "assets/imgs/sweden.png",
+		  "gols_mandante": "",
 		  "visitante": "SUI",
 		  "img_visitante": "assets/imgs/switzerland.png",
+		  "gols_visitante": "",
 		  "data": "TER 03/07/2018 11:00",
 		  "estadio": "São Petesburgo"
 		},
@@ -1028,8 +1038,10 @@
 		  "nome": "Oitavas 8",
 		  "mandante": "COL",
 		  "img_mandante": "assets/imgs/colombia.png",
+		  "gols_mandante": "",
 		  "visitante": "ING",
 		  "img_visitante": "assets/imgs/england.png",
+		  "gols_visitante": "",
 		  "data": "TER 03/07/2018 15:00",
 		  "estadio": "Spartak"
 		}
@@ -1157,26 +1169,26 @@
 	],
 	"jogo_do_dia" : [
 		{
-		  "nome": "Oitavas 2",
-		  "mandante": "FRA",
-		  "gols_mandante": "4",
-		  "img_mandante": "assets/imgs/france.png",
-		  "visitante": "ARG",
-		  "gols_visitante": "3",
-		  "img_visitante": "assets/imgs/argentina.png",
-		  "data": "SAB 30/06/2018 11:00",
-		  "estadio": "Arena Kazan"
+		  "nome": "Oitavas 5",
+		  "mandante": "ESP",
+		  "img_mandante": "assets/imgs/spain.png",
+		  "gols_mandante": "",
+		  "visitante": "RUS",
+		  "img_visitante": "assets/imgs/russia.png",
+		  "gols_visitante": "",
+		  "data": "DOM 01/07/2018 11:00",
+		  "estadio": "Olímpico Lujniki"
 		},
 		{
-		  "nome": "Oitavas 1",
-		  "mandante": "URU",
-		  "gols_mandante": "2",
-		  "img_mandante": "assets/imgs/uruguay.png",
-		  "visitante": "POR",
-		  "gols_visitante": "1",
-		  "img_visitante": "assets/imgs/portugal.png",
-		  "data": "SAB 30/06/2018 15:00",
-		  "estadio": "Olímpico de Sochi"
+		  "nome": "Oitavas 6",
+		  "mandante": "CRO",
+		  "img_mandante": "assets/imgs/croatia.png",
+		  "gols_mandante": "",
+		  "visitante": "DIN",
+		  "img_visitante": "assets/imgs/denmark.png",
+		  "gols_visitante": "",
+		  "data": "DOM 01/07/2018 15:00",
+		  "estadio": "Nizhny Novgorod"
 		}
 	]
 }
