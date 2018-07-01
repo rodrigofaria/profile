@@ -1016,10 +1016,10 @@
 		  "nome": "Oitavas 6",
 		  "mandante": "CRO",
 		  "img_mandante": "assets/imgs/croatia.png",
-		  "gols_mandante": "",
+		  "gols_mandante": "1",
 		  "visitante": "DIN",
 		  "img_visitante": "assets/imgs/denmark.png",
-		  "gols_visitante": "",
+		  "gols_visitante": "1",
 		  "data": "DOM 01/07/2018 15:00",
 		  "estadio": "Nizhny Novgorod"
 		},
@@ -1183,10 +1183,10 @@
 		  "nome": "Oitavas 6",
 		  "mandante": "CRO",
 		  "img_mandante": "assets/imgs/croatia.png",
-		  "gols_mandante": "",
+		  "gols_mandante": "1",
 		  "visitante": "DIN",
 		  "img_visitante": "assets/imgs/denmark.png",
-		  "gols_visitante": "",
+		  "gols_visitante": "1",
 		  "data": "DOM 01/07/2018 15:00",
 		  "estadio": "Nizhny Novgorod"
 		}
