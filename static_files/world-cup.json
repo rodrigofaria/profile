@@ -1067,10 +1067,10 @@
 		},
 		{
 		  "nome": "Quartas 3",
-		  "mandante": "Venc. Oitavas 5",
-		  "img_mandante": "",
-		  "visitante": "Venc. Oitavas 6",
-		  "img_visitante": "",
+		  "mandante": "RUS",
+		  "img_mandante": "assets/imgs/russia.png",
+		  "visitante": "CRO",
+		  "img_visitante": "assets/imgs/croatia.png",
 		  "data": "SAB 07/07/2018 15:00",
 		  "estadio": "Olímpico de Sochi"
 		},
