@@ -1008,7 +1008,7 @@
 		  "gols_mandante": "1",
 		  "visitante": "RUS",
 		  "img_visitante": "assets/imgs/russia.png",
-		  "gols_visitante": "0",
+		  "gols_visitante": "1",
 		  "data": "DOM 01/07/2018 11:00",
 		  "estadio": "Olímpico Lujniki"
 		},
@@ -1175,7 +1175,7 @@
 		  "gols_mandante": "1",
 		  "visitante": "RUS",
 		  "img_visitante": "assets/imgs/russia.png",
-		  "gols_visitante": "0",
+		  "gols_visitante": "1",
 		  "data": "DOM 01/07/2018 11:00",
 		  "estadio": "Olímpico Lujniki"
 		},
