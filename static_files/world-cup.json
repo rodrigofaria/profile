@@ -1058,10 +1058,10 @@
 		},
 		{
 		  "nome": "Quartas 2",
-		  "mandante": "Venc. Oitavas 3",
-		  "img_mandante": "",
-		  "visitante": "Venc. Oitavas 4",
-		  "img_visitante": "",
+		  "mandante": "BRA",
+		  "img_mandante": "assets/imgs/brazil.png",
+		  "visitante": "BEL",
+		  "img_visitante": "assets/imgs/belgium.png",
 		  "data": "SEX 06/07/2018 15:00",
 		  "estadio": "Arena Kazan"
 		},
