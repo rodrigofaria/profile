@@ -994,10 +994,10 @@
 		  "nome": "Oitavas 4",
 		  "mandante": "BEL",
 		  "img_mandante": "assets/imgs/belgium.png",
-		  "gols_mandante": "",
+		  "gols_mandante": "0",
 		  "visitante": "JAP",
 		  "img_visitante": "assets/imgs/japan.png",
-		  "gols_visitante": "",
+		  "gols_visitante": "0",
 		  "data": "SEG 02/07/2018 15:00",
 		  "estadio": "Rostov"
 		},
@@ -1183,10 +1183,10 @@
 		  "nome": "Oitavas 4",
 		  "mandante": "BEL",
 		  "img_mandante": "assets/imgs/belgium.png",
-		  "gols_mandante": "",
+		  "gols_mandante": "0",
 		  "visitante": "JAP",
 		  "img_visitante": "assets/imgs/japan.png",
-		  "gols_visitante": "",
+		  "gols_visitante": "0",
 		  "data": "SEG 02/07/2018 15:00",
 		  "estadio": "Rostov"
 		}
