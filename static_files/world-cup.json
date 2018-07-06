@@ -1091,10 +1091,10 @@
 	  "semifinal": [
 		{
 		  "nome": "Semifinal 1",
-		  "mandante": "Venc. Quartas 1",
-		  "img_mandante": "",
-		  "visitante": "Venc. Quartas 2",
-		  "img_visitante": "",
+		  "mandante": "FRA",
+		  "img_mandante": "assets/imgs/france.png",
+		  "visitante": "BEL",
+		  "img_visitante": "assets/imgs/belgium.png",
 		  "data": "TER 10/07/2018 15:00",
 		  "estadio": "São Petesburgo"
 		},
