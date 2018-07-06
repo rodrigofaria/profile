@@ -1050,8 +1050,10 @@
 		{
 		  "nome": "Quartas 1",
 		  "mandante": "URU",
+		  "gols_mandante": "",
 		  "img_mandante": "assets/imgs/uruguay.png",
 		  "visitante": "FRA",
+		  "gols_visitante": "",
 		  "img_visitante": "assets/imgs/france.png",
 		  "data": "SEX 06/07/2018 11:00",
 		  "estadio": "Nizhny Novgorod"
@@ -1169,8 +1171,10 @@
 		{
 		  "nome": "Quartas 2",
 		  "mandante": "BRA",
+		  "gols_mandante": "",
 		  "img_mandante": "assets/imgs/brazil.png",
 		  "visitante": "BEL",
+		  "gols_visitante": "",
 		  "img_visitante": "assets/imgs/belgium.png",
 		  "data": "SEX 06/07/2018 15:00",
 		  "estadio": "Arena Kazan"
@@ -1178,26 +1182,26 @@
 	],
 	"jogo_do_dia" : [
 		{
-		  "nome": "Oitavas 7",
-		  "mandante": "SUE",
-		  "img_mandante": "assets/imgs/sweden.png",
-		  "gols_mandante": "1",
-		  "visitante": "SUI",
-		  "img_visitante": "assets/imgs/switzerland.png",
-		  "gols_visitante": "0",
-		  "data": "TER 03/07/2018 11:00",
-		  "estadio": "São Petesburgo"
+		  "nome": "Quartas 1",
+		  "mandante": "URU",
+		  "gols_mandante": "",
+		  "img_mandante": "assets/imgs/uruguay.png",
+		  "visitante": "FRA",
+		  "gols_visitante": "",
+		  "img_visitante": "assets/imgs/france.png",
+		  "data": "SEX 06/07/2018 11:00",
+		  "estadio": "Nizhny Novgorod"
 		},
 		{
-		  "nome": "Oitavas 8",
-		  "mandante": "COL",
-		  "img_mandante": "assets/imgs/colombia.png",
-		  "gols_mandante": "1(3)",
-		  "visitante": "ING",
-		  "img_visitante": "assets/imgs/england.png",
-		  "gols_visitante": "1(4)",
-		  "data": "TER 03/07/2018 15:00",
-		  "estadio": "Spartak"
+		  "nome": "Quartas 2",
+		  "mandante": "BRA",
+		  "gols_mandante": "",
+		  "img_mandante": "assets/imgs/brazil.png",
+		  "visitante": "BEL",
+		  "gols_visitante": "",
+		  "img_visitante": "assets/imgs/belgium.png",
+		  "data": "SEX 06/07/2018 15:00",
+		  "estadio": "Arena Kazan"
 		}
 	]
 }
