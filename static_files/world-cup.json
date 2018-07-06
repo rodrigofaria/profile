@@ -1061,8 +1061,10 @@
 		{
 		  "nome": "Quartas 2",
 		  "mandante": "BRA",
+		  "gols_mandante": "0",
 		  "img_mandante": "assets/imgs/brazil.png",
 		  "visitante": "BEL",
+		  "gols_visitante": "0",
 		  "img_visitante": "assets/imgs/belgium.png",
 		  "data": "SEX 06/07/2018 15:00",
 		  "estadio": "Arena Kazan"
@@ -1171,10 +1173,10 @@
 		{
 		  "nome": "Quartas 2",
 		  "mandante": "BRA",
-		  "gols_mandante": "",
+		  "gols_mandante": "0",
 		  "img_mandante": "assets/imgs/brazil.png",
 		  "visitante": "BEL",
-		  "gols_visitante": "",
+		  "gols_visitante": "0",
 		  "img_visitante": "assets/imgs/belgium.png",
 		  "data": "SEX 06/07/2018 15:00",
 		  "estadio": "Arena Kazan"
@@ -1195,10 +1197,10 @@
 		{
 		  "nome": "Quartas 2",
 		  "mandante": "BRA",
-		  "gols_mandante": "",
+		  "gols_mandante": "0",
 		  "img_mandante": "assets/imgs/brazil.png",
 		  "visitante": "BEL",
-		  "gols_visitante": "",
+		  "gols_visitante": "0",
 		  "img_visitante": "assets/imgs/belgium.png",
 		  "data": "SEX 06/07/2018 15:00",
 		  "estadio": "Arena Kazan"
