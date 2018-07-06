@@ -1061,7 +1061,7 @@
 		{
 		  "nome": "Quartas 2",
 		  "mandante": "BRA",
-		  "gols_mandante": "0",
+		  "gols_mandante": "1",
 		  "img_mandante": "assets/imgs/brazil.png",
 		  "visitante": "BEL",
 		  "gols_visitante": "2",
@@ -1173,7 +1173,7 @@
 		{
 		  "nome": "Quartas 2",
 		  "mandante": "BRA",
-		  "gols_mandante": "0",
+		  "gols_mandante": "1",
 		  "img_mandante": "assets/imgs/brazil.png",
 		  "visitante": "BEL",
 		  "gols_visitante": "2",
@@ -1197,7 +1197,7 @@
 		{
 		  "nome": "Quartas 2",
 		  "mandante": "BRA",
-		  "gols_mandante": "0",
+		  "gols_mandante": "1",
 		  "img_mandante": "assets/imgs/brazil.png",
 		  "visitante": "BEL",
 		  "gols_visitante": "2",
