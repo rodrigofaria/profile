@@ -1050,10 +1050,10 @@
 		{
 		  "nome": "Quartas 1",
 		  "mandante": "URU",
-		  "gols_mandante": "",
+		  "gols_mandante": "0",
 		  "img_mandante": "assets/imgs/uruguay.png",
 		  "visitante": "FRA",
-		  "gols_visitante": "",
+		  "gols_visitante": "0",
 		  "img_visitante": "assets/imgs/france.png",
 		  "data": "SEX 06/07/2018 11:00",
 		  "estadio": "Nizhny Novgorod"
@@ -1184,10 +1184,10 @@
 		{
 		  "nome": "Quartas 1",
 		  "mandante": "URU",
-		  "gols_mandante": "",
+		  "gols_mandante": "0",
 		  "img_mandante": "assets/imgs/uruguay.png",
 		  "visitante": "FRA",
-		  "gols_visitante": "",
+		  "gols_visitante": "0",
 		  "img_visitante": "assets/imgs/france.png",
 		  "data": "SEX 06/07/2018 11:00",
 		  "estadio": "Nizhny Novgorod"
