@@ -1072,10 +1072,10 @@
 		{
 		  "nome": "Quartas 3",
 		  "mandante": "RUS",
-		  "gols_mandante": "2",
+		  "gols_mandante": "2(3)",
 		  "img_mandante": "assets/imgs/russia.png",
 		  "visitante": "CRO",
-		  "gols_visitante": "2",
+		  "gols_visitante": "2(4)",
 		  "img_visitante": "assets/imgs/croatia.png",
 		  "data": "SAB 07/07/2018 15:00",
 		  "estadio": "Olímpico de Sochi"
@@ -1104,10 +1104,10 @@
 		},
 		{
 		  "nome": "Semifinal 2",
-		  "mandante": "Venc. Quartas 3",
-		  "img_mandante": "",
-		  "visitante": "Venc. Quartas 4",
-		  "img_visitante": "",
+		  "mandante": "CRO",
+		  "img_mandante": "assets/imgs/croatia.png",
+		  "visitante": "ING",
+		  "img_visitante": "assets/imgs/england.png",
 		  "data": "QUA 11/07/2018 15:00",
 		  "estadio": "Olímpico Lujniki"
 		}
@@ -1201,10 +1201,10 @@
 		{
 		  "nome": "Quartas 3",
 		  "mandante": "RUS",
-		  "gols_mandante": "2",
+		  "gols_mandante": "2(3)",
 		  "img_mandante": "assets/imgs/russia.png",
 		  "visitante": "CRO",
-		  "gols_visitante": "2",
+		  "gols_visitante": "2(4)",
 		  "img_visitante": "assets/imgs/croatia.png",
 		  "data": "SAB 07/07/2018 15:00",
 		  "estadio": "Olímpico de Sochi"
