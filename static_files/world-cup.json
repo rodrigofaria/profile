@@ -1184,26 +1184,22 @@
 	],
 	"jogo_do_dia" : [
 		{
-		  "nome": "Quartas 1",
-		  "mandante": "URU",
-		  "gols_mandante": "0",
-		  "img_mandante": "assets/imgs/uruguay.png",
-		  "visitante": "FRA",
-		  "gols_visitante": "2",
-		  "img_visitante": "assets/imgs/france.png",
-		  "data": "SEX 06/07/2018 11:00",
-		  "estadio": "Nizhny Novgorod"
+		  "nome": "Quartas 4",
+		  "mandante": "SUE",
+		  "img_mandante": "assets/imgs/sweden.png",
+		  "visitante": "ING",
+		  "img_visitante": "assets/imgs/england.png",
+		  "data": "SAB 07/07/2018 11:00",
+		  "estadio": "Samara"
 		},
 		{
-		  "nome": "Quartas 2",
-		  "mandante": "BRA",
-		  "gols_mandante": "1",
-		  "img_mandante": "assets/imgs/brazil.png",
-		  "visitante": "BEL",
-		  "gols_visitante": "2",
-		  "img_visitante": "assets/imgs/belgium.png",
-		  "data": "SEX 06/07/2018 15:00",
-		  "estadio": "Arena Kazan"
+		  "nome": "Quartas 3",
+		  "mandante": "RUS",
+		  "img_mandante": "assets/imgs/russia.png",
+		  "visitante": "CRO",
+		  "img_visitante": "assets/imgs/croatia.png",
+		  "data": "SAB 07/07/2018 15:00",
+		  "estadio": "Olímpico de Sochi"
 		}
 	]
 }
