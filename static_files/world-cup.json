@@ -1072,7 +1072,7 @@
 		{
 		  "nome": "Quartas 3",
 		  "mandante": "RUS",
-		  "gols_mandante": "0",
+		  "gols_mandante": "1",
 		  "img_mandante": "assets/imgs/russia.png",
 		  "visitante": "CRO",
 		  "gols_visitante": "0",
@@ -1201,7 +1201,7 @@
 		{
 		  "nome": "Quartas 3",
 		  "mandante": "RUS",
-		  "gols_mandante": "0",
+		  "gols_mandante": "1",
 		  "img_mandante": "assets/imgs/russia.png",
 		  "visitante": "CRO",
 		  "gols_visitante": "0",
