@@ -1072,10 +1072,10 @@
 		{
 		  "nome": "Quartas 3",
 		  "mandante": "RUS",
-		  "gols_mandante": "",
+		  "gols_mandante": "0",
 		  "img_mandante": "assets/imgs/russia.png",
 		  "visitante": "CRO",
-		  "gols_visitante": "",
+		  "gols_visitante": "0",
 		  "img_visitante": "assets/imgs/croatia.png",
 		  "data": "SAB 07/07/2018 15:00",
 		  "estadio": "Olímpico de Sochi"
@@ -1201,10 +1201,10 @@
 		{
 		  "nome": "Quartas 3",
 		  "mandante": "RUS",
-		  "gols_mandante": "",
+		  "gols_mandante": "0",
 		  "img_mandante": "assets/imgs/russia.png",
 		  "visitante": "CRO",
-		  "gols_visitante": "",
+		  "gols_visitante": "0",
 		  "img_visitante": "assets/imgs/croatia.png",
 		  "data": "SAB 07/07/2018 15:00",
 		  "estadio": "Olímpico de Sochi"
