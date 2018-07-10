@@ -1188,26 +1188,13 @@
 	],
 	"jogo_do_dia" : [
 		{
-		  "nome": "Quartas 4",
-		  "mandante": "SUE",
-		  "gols_mandante": "0",
-		  "img_mandante": "assets/imgs/sweden.png",
-		  "visitante": "ING",
-		  "gols_visitante": "2",
-		  "img_visitante": "assets/imgs/england.png",
-		  "data": "SAB 07/07/2018 11:00",
-		  "estadio": "Samara"
-		},
-		{
-		  "nome": "Quartas 3",
-		  "mandante": "RUS",
-		  "gols_mandante": "2(3)",
-		  "img_mandante": "assets/imgs/russia.png",
-		  "visitante": "CRO",
-		  "gols_visitante": "2(4)",
-		  "img_visitante": "assets/imgs/croatia.png",
-		  "data": "SAB 07/07/2018 15:00",
-		  "estadio": "Olímpico de Sochi"
+		  "nome": "Semifinal 1",
+		  "mandante": "FRA",
+		  "img_mandante": "assets/imgs/france.png",
+		  "visitante": "BEL",
+		  "img_visitante": "assets/imgs/belgium.png",
+		  "data": "TER 10/07/2018 15:00",
+		  "estadio": "São Petesburgo"
 		}
 	]
 }
