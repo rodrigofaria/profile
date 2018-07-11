@@ -1107,10 +1107,10 @@
 		{
 		  "nome": "Semifinal 2",
 		  "mandante": "CRO",
-		  "gols_mandante": "",
+		  "gols_mandante": "0",
 		  "img_mandante": "assets/imgs/croatia.png",
 		  "visitante": "ING",
-		  "gols_visitante": "",
+		  "gols_visitante": "0",
 		  "img_visitante": "assets/imgs/england.png",
 		  "data": "QUA 11/07/2018 15:00",
 		  "estadio": "Olímpico Lujniki"
@@ -1194,10 +1194,10 @@
 		{
 		  "nome": "Semifinal 2",
 		  "mandante": "CRO",
-		  "gols_mandante": "",
+		  "gols_mandante": "0",
 		  "img_mandante": "assets/imgs/croatia.png",
 		  "visitante": "ING",
-		  "gols_visitante": "",
+		  "gols_visitante": "0",
 		  "img_visitante": "assets/imgs/england.png",
 		  "data": "QUA 11/07/2018 15:00",
 		  "estadio": "Olímpico Lujniki"
