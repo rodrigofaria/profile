@@ -1118,7 +1118,7 @@
 	  ],
 	  "terceiro_lugar": {
 		"mandante": "BEL",
-		"gols_mandante": "0",
+		"gols_mandante": "1",
 		"img_mandante": "assets/imgs/belgium.png",
 		"visitante": "ING",
 		"gols_visitante": "0",
@@ -1196,7 +1196,7 @@
 		{
 		  "nome": "Terceiro Lugar",
 		  "mandante": "BEL",
-		  "gols_mandante": "0",
+		  "gols_mandante": "1",
 		  "img_mandante": "assets/imgs/belgium.png",
 		  "visitante": "ING",
 		  "gols_visitante": "0",
