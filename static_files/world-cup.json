@@ -1192,15 +1192,13 @@
 	],
 	"jogo_do_dia" : [
 		{
-		  "nome": "Semifinal 2",
-		  "mandante": "CRO",
-		  "gols_mandante": "2",
-		  "img_mandante": "assets/imgs/croatia.png",
+		  "nome": "Terceiro Lugar",
+		  "mandante": "BEL",
+		  "img_mandante": "assets/imgs/belgium.png",
 		  "visitante": "ING",
-		  "gols_visitante": "1",
 		  "img_visitante": "assets/imgs/england.png",
-		  "data": "QUA 11/07/2018 15:00",
-		  "estadio": "Olímpico Lujniki"
+		  "data": "SAB 14/07/2018 11:00",
+		  "estadio": "São Petesburgo"
 		}
 	]
 }
