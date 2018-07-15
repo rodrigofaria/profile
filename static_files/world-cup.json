@@ -1128,10 +1128,10 @@
 	  },
 	  "final": {
 		"mandante": "FRA",
-		"gols_mandante": "2",
+		"gols_mandante": "4",
 		"img_mandante": "assets/imgs/france.png",
 		"visitante": "CRO",
-		"gols_visitante": "1",
+		"gols_visitante": "2",
 		"img_visitante": "assets/imgs/croatia.png",
 		"data": "DOM 15/07/2018 12:00",
 		"estadio": "Olímpico Lujniki"
@@ -1198,10 +1198,10 @@
 		{
 		  "nome": "Final",
 		  "mandante": "FRA",
-		  "gols_mandante": "2",
+		  "gols_mandante": "4",
 		  "img_mandante": "assets/imgs/france.png",
 		  "visitante": "CRO",
-		  "gols_visitante": "1",
+		  "gols_visitante": "2",
 		  "img_visitante": "assets/imgs/croatia.png",
 		  "data": "DOM 15/07/2018 12:00",
 		  "estadio": "Olímpico Lujniki"
