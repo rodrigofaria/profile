@@ -1128,8 +1128,10 @@
 	  },
 	  "final": {
 		"mandante": "FRA",
+		"gols_mandante": "",
 		"img_mandante": "assets/imgs/france.png",
 		"visitante": "CRO",
+		"gols_visitante": "",
 		"img_visitante": "assets/imgs/croatia.png",
 		"data": "DOM 15/07/2018 12:00",
 		"estadio": "Olímpico Lujniki"
@@ -1194,15 +1196,15 @@
 	],
 	"jogo_do_dia" : [
 		{
-		  "nome": "Terceiro Lugar",
-		  "mandante": "BEL",
-		  "gols_mandante": "2",
-		  "img_mandante": "assets/imgs/belgium.png",
-		  "visitante": "ING",
-		  "gols_visitante": "0",
-		  "img_visitante": "assets/imgs/england.png",
-		  "data": "SAB 14/07/2018 11:00",
-		  "estadio": "São Petesburgo"
+		  "nome": "Final",
+		  "mandante": "FRA",
+		  "gols_mandante": "",
+		  "img_mandante": "assets/imgs/france.png",
+		  "visitante": "CRO",
+		  "gols_visitante": "",
+		  "img_visitante": "assets/imgs/croatia.png",
+		  "data": "DOM 15/07/2018 12:00",
+		  "estadio": "Olímpico Lujniki"
 		}
 	]
 }
