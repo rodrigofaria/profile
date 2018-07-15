@@ -1128,7 +1128,7 @@
 	  },
 	  "final": {
 		"mandante": "FRA",
-		"gols_mandante": "0",
+		"gols_mandante": "1",
 		"img_mandante": "assets/imgs/france.png",
 		"visitante": "CRO",
 		"gols_visitante": "0",
@@ -1198,7 +1198,7 @@
 		{
 		  "nome": "Final",
 		  "mandante": "FRA",
-		  "gols_mandante": "0",
+		  "gols_mandante": "1",
 		  "img_mandante": "assets/imgs/france.png",
 		  "visitante": "CRO",
 		  "gols_visitante": "0",
