@@ -1,0 +1,20 @@
+{
+    "news": [
+        {
+            "title": "Saque de R$ 1.045,00",
+            "message": "blá blá blá"
+        },
+        {
+            "title": "Saque 22",
+            "message": "blá blá blá 22"
+        },
+        {
+            "title": "Saque 55",
+            "message": "blá blá blá 55"
+        },
+        {
+            "title": "Saque 88",
+            "message": "blá blá blá 88"
+        }
+    ]
+}
