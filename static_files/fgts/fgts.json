@@ -2,7 +2,20 @@
     "news": [
         {
             "title": "Saque de R$ 1.045,00",
-            "message": "blá blá blá"
+            "message": `
+            Em função da pandemia do coronavírus, o governo lançou a Medida Provisória 946/2020
+            que libera saques de até R$ 1.045 do Fundo de Garantia do Tempo de Serviço (FGTS) 
+            a partir de 15 de junho até 31 de dezembro de 2020.
+            
+            De acordo com a MP, haverá uma ordem de saque, caso o trabalhador tenha mais de uma conta. 
+            Primeiro, o cidadão poderá retirar o valor de contas vinculadas a contratos de trabalho extintos, 
+            com início pela que tiver o menor saldo. 
+            
+            Depois, será possível retirar o dinheiro das outras contas vinculadas, também seguindo a 
+            regra de iniciar por aquela com menor valor depositado. Os saques seguirão cronograma da Caixa Econômica. 
+            
+            Fonte: Agência Senado
+            `
         },
         {
             "title": "Saque 22",
