@@ -2,20 +2,7 @@
     "news": [
         {
             "title": "Calendário Saque R$ 1.045,00",
-            "message": "<div><p>A Caixa anunciou no dia 13/06/2020 o calendário referente ao saque de R$ 1.045,00.<p><p>O calendário divulgado pela Caixa mostra que serão duas etapas: a primeira de deposito do valor na poupança digital e a segunda etapa é a de liberação de saque ou transferência desse valor.</p><p>Confira as datas abaixo:</p><table style=\"border-collapse:collapse;border:1px solid gray;\"><tr style=\"background-color: lightn-gray\"><th>Mês de Nascimento</th><th>Crédito em conta</th><th>Saque ou transfência</th></tr>
-            <tr><td>Janeiro</td><td>29 de junho</td><td>25 de julho</td></tr>
-            <tr><td>Fevereiro</td><td>6 de julho</td><td>8 de agosto</td></tr>
-            <tr><td>Março</td><td>13 de julho</td><td>22 de agosto</td></tr>
-            <tr><td>Abril</td><td>20 de julho</td><td>5 de setembro</td></tr>
-            <tr><td>Maio</td><td>27 de julho</td><td>19 de setembro</td></tr>
-            <tr><td>Junho</td><td>3 de agosto</td><td>3 de outubro</td></tr>
-            <tr><td>Julho</td><td>10 de agosto</td><td>17 de outubro</td></tr>
-            <tr><td>Agosto</td><td>24 de agosto</td><td>17 de outubro</td></tr>
-            <tr><td>Setembro</td><td>31 de agosto</td><td>31 de outubro</td></tr>
-            <tr><td>Outubro</td><td>8 de setembro</td><td>31 de outubro</td></tr>
-            <tr><td>Novembro</td><td>14 de setembro</td><td>14 de novembro</td></tr>
-            <tr><td>Dezembro</td><td>21 de setembro</td><td>14 de novembro</td></tr>
-            </table><p>Fonte: <a href=\"https://g1.globo.com/economia/noticia/2020/06/13/caixa-anuncia-calendario-de-novos-saques-do-fgts-liberacao-comeca-em-29-de-junho.ghtml\">G1 Economia</a></p></div>"
+            "message": "<div><p>A Caixa anunciou no dia 13/06/2020 o calendário referente ao saque de R$ 1.045,00.<p><p>O calendário divulgado pela Caixa mostra que serão duas etapas: a primeira de deposito do valor na poupança digital e a segunda etapa é a de liberação de saque ou transferência desse valor.</p><p>Confira as datas abaixo:</p><table style=\"border-collapse:collapse;border:1px solid gray;\"><tr style=\"background-color:lightgray\"><th>Mês de Nascimento</th><th>Crédito em conta</th><th>Saque ou transfência</th></tr><tr><td>Janeiro</td><td>29 de junho</td><td>25 de julho</td></tr><tr><td>Fevereiro</td><td>6 de julho</td><td>8 de agosto</td></tr><tr><td>Março</td><td>13 de julho</td><td>22 de agosto</td></tr><tr><td>Abril</td><td>20 de julho</td><td>5 de setembro</td></tr><tr><td>Maio</td><td>27 de julho</td><td>19 de setembro</td></tr><tr><td>Junho</td><td>3 de agosto</td><td>3 de outubro</td></tr><tr><td>Julho</td><td>10 de agosto</td><td>17 de outubro</td></tr><tr><td>Agosto</td><td>24 de agosto</td><td>17 de outubro</td></tr><tr><td>Setembro</td><td>31 de agosto</td><td>31 de outubro</td></tr><tr><td>Outubro</td><td>8 de setembro</td><td>31 de outubro</td></tr><tr><td>Novembro</td><td>14 de setembro</td><td>14 de novembro</td></tr><tr><td>Dezembro</td><td>21 de setembro</td><td>14 de novembro</td></tr></table><p>Fonte: <a href=\"https://g1.globo.com/economia/noticia/2020/06/13/caixa-anuncia-calendario-de-novos-saques-do-fgts-liberacao-comeca-em-29-de-junho.ghtml\">G1 Economia</a></p></div>"
         },
         {
             "title": "Saque de R$ 1.045,00",
