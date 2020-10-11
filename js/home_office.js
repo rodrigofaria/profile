@@ -15,7 +15,8 @@ const saveButtonEvent = () => {
         "method": "POST",
         "timeout": 0,
         "headers": {
-          "Content-Type": "application/json"
+          "Content-Type": "application/json",
+          "Access-Control-Allow-Origin": "*"
         },
         "data": JSON.stringify({"post":"<h1>Direto JS</h1><p>Teste 1/10</p>"}),
       };
