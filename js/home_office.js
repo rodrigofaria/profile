@@ -4,9 +4,10 @@ const saveButtonEvent = () => {
         post: document.getElementById('data').value
     };
     
-    $.post("https://news-api-node.herokuapp.com/api/v1/news/796313bd-625b-4542-ac2c-f34b43967ccc", p)
+    $.post("https://news-api-node.herokuapp.com/api/v1/news/796313bd-625b-4542-ac2c-f34b43967ccc", JSON.stringify(p))
         .done(() => {
             alert('sucesso cara')
+            loadData()
         }
     );
 
@@ -26,6 +27,22 @@ const saveButtonEvent = () => {
     //   });
 }
 
+const loadData = () => {
+    $.get('https://news-api-node.herokuapp.com/api/v1/news/796313bd-625b-4542-ac2c-f34b43967ccc', data => {
+        let container = document.getElementById('posts');
+        container.innerHTML = '';
+
+        data.forEach(item => {
+            let p = document.createElement('p');
+            let text = document.createTextNode(item.post);
+            p.appendChild(text);
+            container.appendChild(p);
+        });
+    });
+}
+
 window.onload = () => {
     document.getElementById('saveButton').onclick = saveButtonEvent
+
+    loadData()
 }
